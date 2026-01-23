@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vits.tv/hls/
-https://vits.tv/hls/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/792000_576p.m3u8
+#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
