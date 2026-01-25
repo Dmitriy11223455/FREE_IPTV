@@ -1,179 +1,930 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-
-#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pkvc-hls7.cdnvideo.ru/
-https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
-
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Россия",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.ntv.ru/
-https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" group-title="Россия",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://95.66.188.74/
-http://95.66.188.74/5kanal/index.m3u8
-
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" group-title="Россия",Россия К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" group-title="Россия",Россия 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" group-title="Россия",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streaming.thestream.cyou/
-https://streaming.thestream.cyou/live/232.m3u8
-
-#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ HD" group-title="Россия",ОНТ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge53.dc.beltelecom.by/
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" group-title="Россия",ТВ Центр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvc-hls.cdnvideo.ru/
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН-ТВ" group-title="Россия",РЕН-ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhd116.iptv2022.com/
-https://mhd116.iptv2022.com/x/FVb2BEim-gIb0IfMD4fW_Q,1768334109/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="spas" tvg-name="Спас" group-title="Россия",Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvspas.mediacdn.ru/
-http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvchannelstream1.tvzvezda.ru/
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" group-title="Россия",Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://hls.mirtv.cdnvideo.ru/
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" group-title="Россия",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://158.101.222.193:88/
-http://158.101.222.193:88/georgia_play.php?id=ctctv
-
-#EXTINF:-1 tvg-id="" tvg-name="RT" group-title="Россия",RT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rt-glb.rttv.com/
-https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
-
-#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" group-title="Белоруссия",Беларусь 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge55.dc.beltelecom.by/
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24 HD" group-title="Белоруссия",Беларусь 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhd116.iptv2022.com/
-https://mhd116.iptv2022.com/x/A0kipaBtCEeU_p75e5vrVg,1768334109/streaming/belarus24/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" group-title="Белоруссия",Беларусь 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge50.dc.beltelecom.by/
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" group-title="Белоруссия",Беларусь 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge50.dc.beltelecom.by/
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" group-title="Белоруссия",Беларусь 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ngtrk.dc.beltelecom.by/
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tro" tvg-name="БелРос" group-title="Белоруссия",БелРос
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.mediacdn.ru/
-https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
-#EXTINF:-1,Радио России
-https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="США",Bloomberg TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-
-#EXTINF:-1 tvg-id="NBCNews.us" tvg-name="NBC News" group-title="США",NBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://nbcnews-lh.akamaihd.net/i/nbcnews_1@123456/master.m3u8
-
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="Великобритания",GB News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="Великобритания",BBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://bbcmedia.ic.llnwd.net/stream/bbcnews.m3u8
-
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="Германия",WDR Fernsehen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-
-#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="Германия",NDR Fernsehen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hls@111231/master.m3u8
-
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="Франция",France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="Франция",BFM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://bfmtv-hls-live.akamaized.net/hls/live/2006450/bfmtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="Испания",Antena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://antena3-live.cdnvideo.es/antena3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1" group-title="Украина",1+1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://1plus1video.cdnvideo.ru/1plus1video/1plus1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" group-title="Украина",ICTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://live-1-ictv.cdnvideo.ru/ictv/ictv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="Турция",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Турция",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-http://116.202.238.88/ATV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC1.sa" tvg-name="MBC 1" group-title="Арабские страны",MBC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
-https://shls-mbc1ksa-prod.shahid.net/out/v1/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/index.m3u8
+<!DOCTYPE html>
+<html lang="en"  data-static >
+<head>
+<meta charset="UTF-8">
+<meta name="csrf-token" content="Ea1KyS8QTLKHB9J80gNJY3odaHfj2gdnU4klDPx3">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Online tiny URL generator ➤ Your short URL is the FREE analogue of long URL ➤  Full statistics of short Link ➤ Short links for marketing, social networks and messengers ➤ Short URL in one click 👍">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="alternate" hreflang="x-default" href="https://surl.li/" />
+<link rel="alternate" hreflang="en"
+href="https://surl.li/en" />
+<link rel="alternate" hreflang="ru"
+href="https://surl.li/ru" />
+<link rel="alternate" hreflang="uk"
+href="https://surl.li/uk" />
+<link rel="alternate" hreflang="de"
+href="https://surl.li/de" />
+<link rel="alternate" hreflang="es"
+href="https://surl.li/es" />
+<link rel="alternate" hreflang="pl"
+href="https://surl.li/pl" />
+<link rel="alternate" hreflang="pt"
+href="https://surl.li/pt" />
+<link rel="alternate" hreflang="fr"
+href="https://surl.li/fr" />
+<link rel="alternate" hreflang="ms"
+href="https://surl.li/ms" />
+<link rel="alternate" hreflang="id"
+href="https://surl.li/id" />
+<link rel="alternate" hreflang="hi"
+href="https://surl.li/hi" />
+<link rel="alternate" hreflang="it"
+href="https://surl.li/it" />
+<link rel="canonical" href="https://surl.li/en">
+<link rel="icon" href="https://surl.li/img/favicon.ico">
+<link rel="stylesheet" href="https://surl.li/css/app.css">
+<title>ᐉ Short URL service | Surli - FREE Short Links</title>
+<!-- Place for ykw -->
+</head>
+<body>
+<div class="wraper">
+<section class="container-fluid lines-bg">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<nav class="navbar navbar-expand-lg navbar-light mt-4 mb-4">
+<a class="brand" href="https://surl.li">
+<img src="https://surl.li/img/surli-logo.svg" alt="surl.li logo">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#navbarNav"
+aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="close-icon" aria-hidden="true"></span>
+</button>
+<div class="nav-menu">
+<div class="ml-lg-auto order-md-1 order-lg-2">
+<div class="dropdown lang-switcher">
+<span class="curr-lang" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+EN
+</span>
+<div class="dropdown-menu lang-dropdown">
+<a class="dropdown-item lang"
+href="https://surl.li/ru">
+RU - Русский
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/uk">
+UK - Українська
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/de">
+DE - Deutsch
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/es">
+ES - Español
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/pl">
+PL - Polski
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/pt">
+PT - Português
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/fr">
+FR - Français
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/ms">
+MS - Bahasa Melayu
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/id">
+ID - Bahasa Indonesia
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/hi">
+HI - हिन्दी
+</a>
+<a class="dropdown-item lang"
+href="https://surl.li/it">
+IT - Italiano
+</a>
+</div>
+</div>
+<div class="lang-switcher mobile">
+<span class="curr-lang" data-toggle="collapse" href="#lang_switcher" role="button" aria-expanded="false"
+aria-controls="lang_switcher">
+EN - English
+</span>
+<div class="collapse" id="lang_switcher">
+<div class="lang-dropdown">
+<a class="lang" href="https://surl.li/ru">
+RU - Русский
+</a>
+<a class="lang" href="https://surl.li/uk">
+UK - Українська
+</a>
+<a class="lang" href="https://surl.li/de">
+DE - Deutsch
+</a>
+<a class="lang" href="https://surl.li/es">
+ES - Español
+</a>
+<a class="lang" href="https://surl.li/pl">
+PL - Polski
+</a>
+<a class="lang" href="https://surl.li/pt">
+PT - Português
+</a>
+<a class="lang" href="https://surl.li/fr">
+FR - Français
+</a>
+<a class="lang" href="https://surl.li/ms">
+MS - Bahasa Melayu
+</a>
+<a class="lang" href="https://surl.li/id">
+ID - Bahasa Indonesia
+</a>
+<a class="lang" href="https://surl.li/hi">
+HI - हिन्दी
+</a>
+<a class="lang" href="https://surl.li/it">
+IT - Italiano
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="order-3">
+<a class="button link-button-lazure ml-lg-1"
+href="https://app.surl.li/en/login" data-translate="Login">
+Login                        </a>
+</div>
+<div class="order-md-2 order-lg-1">
+<ul class="navbar-nav surl-navbar mr-auto mt-4 mb-4">
+<li class="nav-item">
+<a class="hyper-link" href="https://surl.li/en/e-surli"
+data-translate="For .gov .edu">For .gov .edu</a>
+</li>
+<li class="nav-item dropdown">
+<a class="dropdown-toggle hyper-link text-decoration-none" href="#" id="navbarDropdown"
+role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<span data-translate="Services">
+Services                            </span>
+</a>
+<div class="dropdown-menu navbar-dropdown" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://surl.li/en">
+<span data-translate="Cut link in 1 click">
+Cut link in 1 click                                </span>
+</a>
+<a class="dropdown-item" href="https://surl.li/en/bulk-shortening">
+<span data-translate="Bulk Shortening">
+Bulk shortening                                </span>
+</a>
+<a class="dropdown-item" href="https://surl.li/en/check-short-url">
+<span data-translate="Link checker">
+Link checker                                </span>
+</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="hyper-link" href="https://surl.li/en/tarif">
+<span data-translate="Prices">
+Prices                            </span>
+</a>
+</li>
+<li class="nav-item">
+<a class="hyper-link" href="/blog/en">
+<span data-translate="Blog">
+Blog                            </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<span class="outstanding">
+<p class="sniky-promo">surli: In Short. Readable. Branded.</p>
+<h1 class="main">Online Link Shortener service</h1>
+<div class="sub-text">
+<p>Use the Short URL Tool to generate short links for messengers, QR codes, SMM and marketing</p>
+</div>
+</span>
+</div>
+<div class="d-none d-lg-block col-md-6">
+<div class="stats-container p-3">
+<div class="stat-item">
+<p class="stat-change">
+<i class="surlicons surlicon-cursor-click mr-1"></i>
++
+<span class="daily-stat mr-1" data-daily-stat="542014">0</span>
+YDAY
+</p>
+<p class="stat-value">624,775,630 clicks</p>
+</div>
+<div class="stat-item">
+<p class="stat-change">
+<i class="surlicons surlicon-link-chain mr-1"></i>
++
+<span class="daily-stat mr-1" data-daily-stat="9500">0</span>
+YDAY
+</p>
+<p class="stat-value">19,948,886 surls</p>
+</div>
+<div class="stat-item">
+<p class="stat-change">
+<i class="surlicons surlicon-user mr-1"></i>
++
+<span class="daily-stat mr-1" data-daily-stat="54">0</span>
+YDAY
+</p>
+<p class="stat-value">44,625 users</p>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<div class="form-group justify-content-center d-flex shortener-row">
+<form id="main-form" class="form-inline" method="post">
+<input type="text" id="input-url" class="url-input" name="url"
+placeholder="Paste URL to shorten">
+<button class="button ml-md-2 main-btn main-btn_primary"
+id="button-submit">Cut</button>
+<div class="d-none">
+<div id="surli_form_id" class="" style=""></div>
+</div>
+</form>
+</div>
+<div class="terms">
+By clicking CUT, you accept                        <a class="terms_link" href="/terms/surli-terms-en.pdf">
+Terms of Using                        </a>
+</div>
+<div class="ajax"></div>
+<div id="cf-exception-handling-block" class="mt-4 d-none">
+<div class="media align-items-center">
+<img src="https://surl.li/img/surli-icon.svg" class="mr-3 d-md-block d-none" alt="surli icon"
+width="98">
+<div class="media-body d-flex align-items-center flex-md-row flex-column">
+<div>
+<h5 class="title mt-0">Available for FREE after registration</h5>
+<p class="sub-title m-0">Get access to all the functionality of the service after registering in your personal account</p>
+</div>
+<div class="d-flex flex-column align-items-center ml-md-5">
+<a href="https://surl.li/rec-login"
+class="btn btn-lg btn-outline-dark mt-3">Register</a>
+<a href="https://surl.li/rec-tarif"
+class="link-main fs-14-px mt-2">View plans</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container-fluid brands-section mb-5">
+<div class="row">
+<div class="col-sm-12">
+<h2 class="header text-center my-5">We shorten for the best</h2>
+</div>
+<div class="col-12 brands-block mb-2">
+<img loading="lazy" src="https://surl.li/img/brands/hyperhost.png" class="brands-img"
+alt="hyperhost.png">
+<img loading="lazy" src="https://surl.li/img/brands/secom.png" class="brands-img"
+alt="secom.png">
+<img loading="lazy" src="https://surl.li/img/brands/lgua 1.png" class="brands-img"
+alt="lgua 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/Logo_Ministry 1.png" class="brands-img"
+alt="Logo_Ministry 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/cropped-ENG-e1574246085336 1.png" class="brands-img"
+alt="cropped-ENG-e1574246085336 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/LogoNewEN.ec78b8e 1.png" class="brands-img"
+alt="LogoNewEN.ec78b8e 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/eng-logo-chnu 1.png" class="brands-img"
+alt="eng-logo-chnu 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/DonorUA_logo_en 1.png" class="brands-img"
+alt="DonorUA_logo_en 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo2-CJDM8cVS 1.png" class="brands-img"
+alt="logo2-CJDM8cVS 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/hyperhost.png" class="brands-img" alt="hyperhost.png">
+<img loading="lazy" src="https://surl.li/img/brands/secom.png" class="brands-img" alt="secom.png">
+<img loading="lazy" src="https://surl.li/img/brands/lgua 1.png" class="brands-img" alt="lgua 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/Logo_Ministry 1.png" class="brands-img" alt="Logo_Ministry 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/cropped-ENG-e1574246085336 1.png" class="brands-img" alt="cropped-ENG-e1574246085336 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/LogoNewEN.ec78b8e 1.png" class="brands-img" alt="LogoNewEN.ec78b8e 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/eng-logo-chnu 1.png" class="brands-img" alt="eng-logo-chnu 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/DonorUA_logo_en 1.png" class="brands-img" alt="DonorUA_logo_en 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo2-CJDM8cVS 1.png" class="brands-img" alt="logo2-CJDM8cVS 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo-light 1.png" class="brands-img" alt="logo-light 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo-de 1.png" class="brands-img" alt="logo-de 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/FSD-Logo 1.png" class="brands-img" alt="FSD-Logo 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo 3.png" class="brands-img" alt="logo 3.png">
+<img loading="lazy" src="https://surl.li/img/brands/Kyiv_National_Economic_University 1.png" class="brands-img" alt="Kyiv_National_Economic_University 1.png">
+<img loading="lazy" src="https://surl.li/img/brands/logo_en80blue 1.png" class="brands-img" alt="logo_en80blue 1.png">
+</div>
+<div class="col-12 text-center">
+<p class="mt-4 mb-0">
+Sign up to unlock the full potential of short links            </p>
+<a class="btn btn-lg btn-outline-dark mt-3"
+href="https://app.surl.li/en/login">
+Try for FREE            </a>
+</div>
+</div>
+</div>
+<section class="container advantage-block">
+<div class="row">
+<div class="col-sm-12">
+<h2 class="header text-center mt-4 mb-4">More than just a link shortener!</h2>
+</div>
+<div class="col-lg-4">
+<div class="advantage circle-bg">
+<div class="block">
+<i class="link-icon"></i>
+<div class="ab-title">.../branded</div>
+</div>
+<h4 class="title">
+Custom<br>Short<br>Links                    </h4>
+<p class="text">
+Make each short link unique using the main domain surl.li - cute short links for SMM and not only                    </p>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="advantage circle-bg">
+<div class="block">
+<i class="magnifier-icon"></i>
+<div class="ab-title">bran.de/...</div>
+</div>
+<h4 class="title">
+Personal<br>Branded<br>Shortener                    </h4>
+<p class="text">
+Shorten long links on a personal, branded domain, it will look stylish and prestigious                    </p>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="advantage circle-bg">
+<div class="block">
+<i class="sub-chain-icon"></i>
+<div class="ab-title">brand.surl.li/...</div>
+</div>
+<h4 class="title">
+Subdomain<br>Branded<br>Links                    </h4>
+<p class="text">
+Create a subdomain of our surl.li domain and customize your own short links without limits                    </p>
+</div>
+</div>
+</div>
+</section>
+<section class="container-fluid mt-9">
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<span class="promo-labeled">
+surli: In short.                    </span>
+<h3 class="header mb-4 mt-3">
+Short URL for SMM
+</h3>
+<p class="existence-sub-text">
+<p>Long links in social networks look terrible, moreover, the system can &ldquo;cut off&rdquo; and transfer to the user in an incomplete form. A short link like surl.li/clck looks nice, is easy to copy, and even easy to remember. And you will receive statistics of each click, no matter where you place the link - on Facebook, Telegram or Twitter. Wrap in your short link - UTM, pixel and even referral, we&#39;ll cut it all down.</p>
+</p>
+</div>
+<div class="col-sm-6">
+<img decoding="async" loading="lazy" class="img-fluid" src="https://surl.li/img/smm-image.webp"
+alt="short url for smm">
+</div>
+</div>
+</div>
+</section>
+<section class="container-fluid mt-9">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 order-md-1 order-2">
+<img decoding="async" loading="lazy" class="img-fluid" src="https://surl.li/img/qr-image.webp"
+alt="short url for qr">
+</div>
+<div class="col-sm-6 order-md-2 order-1">
+<div class="mt-6">
+<span class="promo-labeled">
+surli: Readable.                        </span>
+<h3 class="header mb-4 mt-3">
+Smaller URL - simpler QR                        </h3>
+<p class="existence-sub-text">The size of the QR directly depends on the length of the link you are encrypting. Often you
+may need to add the full path along with filters and parameters, referral identifier, UTM tag to
+the link. This will make the final URL really huge and the QR difficult to read and recognize.
+Wrap a long link of any length in a link like surl.li/clck and get a minimalistic and easy-to-read
+QR from any gadget.</p>
+<a class="button main-btn main-btn_promo text-white"
+href="https://hyperhost.ua/tools/en/qr-code-generator">
+QR generator                        </a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="container mt-6">
+<div class="row">
+<div class="col-sm-12 promo-title mt-4 mb-4 text-center">
+Looking for cool Web Hosting or VPN?            </div>
+<div class="col-sm-12 col-sm-6 col-lg-4 mt-4">
+<div class="promo-block flex-column">
+<div class="d-flex flex-row circle-bg" data-circle-image="www">
+<div class="header align-self-end">
+Fast<br>
+Web<br>
+Hosting
+</div>
+</div>
+<div class="min-heigth-30vh">
+<ul class="pl-3 mt-4">
+<li>
+Monthly payment available
+</li>
+<li>
+Just from 1.10 USD
+</li>
+<li>
+No auto charge
+</li>
+<li>
+FREE Sitebuilder
+</li>
+<li>
+FREE domain and SSL
+</li>
+<li>
+24/7 tech support
+</li>
+<li>
+Free Backups
+</li>
+</ul>
+</div>
+<div class="text-center">
+<a class="link-main" href="https://hyperhost.ua/en/hosting" target="_blank">
+Buy Hosting
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-12 col-sm-6 col-lg-4 mt-4">
+<div class="promo-block flex-column">
+<div class="d-flex flex-row circle-bg" data-circle-image="vps">
+<div class="header align-self-end">
+Virutal<br>
+VPS and VDS <br>
+Servers
+</div>
+</div>
+<div class="min-heigth-30vh">
+<ul class="pl-3 mt-4">
+<li>
+FREE tech.support
+</li>
+<li>
+Linux/UNIX systems
+</li>
+<li>
+RDP remote desktop
+</li>
+<li>
+Docker system support
+</li>
+<li>
+Python, Node JS,Java deploying
+</li>
+<li>
+Free Control Panel
+</li>
+<li>
+Free Backups
+</li>
+<li>
+Support 24/7
+</li>
+</ul>
+</div>
+<div class="text-center">
+<a class="link-main" href="https://hyperhost.ua/en/vps-vds" target="_blank">
+Buy VPS
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-12 col-sm-6 col-lg-4 mt-4">
+<div class="promo-block flex-column">
+<div class="d-flex flex-row circle-bg" data-circle-image="planet">
+<div class="header align-self-end">
+WireGurad <br>
+VPN <br>
+Services
+</div>
+</div>
+<div class="min-heigth-30vh">
+<ul class="pl-3 mt-4">
+<li>
+7x faster than other VPNs
+</li>
+<li>
+High-speed port 1 Gbps
+</li>
+<li>
+Security Encryption
+</li>
+<li>
+For Windows and Linux
+</li>
+<li>
+For Android and iOS
+</li>
+<li>
+For routers
+</li>
+<li>
+24% OFF
+</li>
+</ul>
+</div>
+<div class="text-center">
+<a class="link-main" href="https://hyperhost.ua/en/vpn" target="_blank">
+Buy VPN
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="container-md container-fluid mt-6 p-md-0">
+<div class="row">
+<div class="col-12 text-left p-0">
+<h3 class="mb-4 article-main-title">Read The Last Blog Articles</h3>
+</div>
+</div>
+<div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 row-gap-4 article-row">
+<a class="article-card" href="https://surl.li/blog/en/what-do-short-links-hide-how-to-determine-where-a-url-leads-before-you-click">
+<div class="flex-shrink-0 article-image">
+<img class="img-fluid article-thumbnail" loading="lazy" src="https://surl.li/blog/storage/uploads/yanchenko_natalia/2025/12/Copilot_20251229_124100.png"
+alt="Copilot_20251229_124100.png">
+</div>
+<div class="flex-grow-1 article-info-wrapper">
+<div class="article-info">
+<div class="article-info-date">
+<i class="icon feather icon-calendar"></i>
+29.12.25
+</div>
+<div class="article-info-time">
+<i class="icon feather icon-clock"></i>
+3 min.            </div>
+<div class="article-info-views">
+<i class="icon feather icon-eye"></i>
+<span>
+<span class="views-count">2928</span> views                </span>
+</div>
+</div>
+<h3 class="article-title">What do short links hide? How to determine where a URL leads before you click</h3>
+<div class="btn read-more">
+<span class="underline-hover">
+Read more <i class="feather icon-arrow-right"></i>
+</span>
+</div>
+</div>
+</a>
+<a class="article-card" href="https://surl.li/blog/en/top-5-services-for-checking-short-links-comparison-of-features-and-scripts">
+<div class="flex-shrink-0 article-image">
+<img class="img-fluid article-thumbnail" loading="lazy" src="https://surl.li/blog/storage/uploads/yanchenko_natalia/2025/12/Copilot_20251226_090419.png"
+alt="Copilot_20251226_090419.png">
+</div>
+<div class="flex-grow-1 article-info-wrapper">
+<div class="article-info">
+<div class="article-info-date">
+<i class="icon feather icon-calendar"></i>
+26.12.25
+</div>
+<div class="article-info-time">
+<i class="icon feather icon-clock"></i>
+6 min.            </div>
+<div class="article-info-views">
+<i class="icon feather icon-eye"></i>
+<span>
+<span class="views-count">2224</span> views                </span>
+</div>
+</div>
+<h3 class="article-title">TOP 5 services for checking short links: comparison of features and scripts</h3>
+<div class="btn read-more">
+<span class="underline-hover">
+Read more <i class="feather icon-arrow-right"></i>
+</span>
+</div>
+</div>
+</a>
+<a class="article-card" href="https://surl.li/blog/en/how-to-check-links-online-a-complete-guide-to-safe-internet-surfing">
+<div class="flex-shrink-0 article-image">
+<img class="img-fluid article-thumbnail" loading="lazy" src="https://surl.li/blog/storage/uploads/yanchenko_natalia/2025/12/Copilot_20251225_092038.png"
+alt="Copilot_20251225_092038.png">
+</div>
+<div class="flex-grow-1 article-info-wrapper">
+<div class="article-info">
+<div class="article-info-date">
+<i class="icon feather icon-calendar"></i>
+25.12.25
+</div>
+<div class="article-info-time">
+<i class="icon feather icon-clock"></i>
+8 min.            </div>
+<div class="article-info-views">
+<i class="icon feather icon-eye"></i>
+<span>
+<span class="views-count">2183</span> views                </span>
+</div>
+</div>
+<h3 class="article-title">How to Check Links Online: A Complete Guide to Safe Internet Surfing</h3>
+<div class="btn read-more">
+<span class="underline-hover">
+Read more <i class="feather icon-arrow-right"></i>
+</span>
+</div>
+</div>
+</a>
+</div>
+</section>
+<section class="container mt-9">
+<div class="row seo-block">
+<div class="col-sm-12">
+<h2 class="title text-center">
+What is sURL - short link or link shortener
+</h2>
+<div class="text">
+<p>The term &ldquo;sURL&rdquo; is artificial and comes from two words: short and URL (Uniform Resource Locator). An analogue of the abbreviation URL is also the slang word &lsquo;link&rsquo; or &ldquo;reference&rdquo; in Ukrainian. Together, they form the term surl, which means a short analogue of a long link. This concept formed the basis for the name of the link shortening service Surl.li. From this point of view, sURL is a term designed to give a short name to shortened online addresses, and on the other hand, it is the proper name of the link shortening site where you are located. Today, Surl.li aims to become a service where users can manage short URLs to the site through their personal account and shorten links in one click online on our site without registration or payment.&nbsp;</p><p>We make every effort to ensure that every link from our service that you see on the web, in your SMS messages, or in messengers guarantees the safety of your transition. We are working on a system that verifies every shortened link. This way, you can safely follow short links.&nbsp;</p><p>The service is regularly updated and expanded with new features, from link statistics to new customized rates, from mass link shortening to a convenient API service. In the future, we will be able to shorten links not only on our domains, but also on your own. Add your own, register new domains with us, and expand without limits. Brand your own links, &ldquo;trim&rdquo; long links, and create short analogues.</p>
+</div>
+</div>
+<div class="col-sm-12">
+<h2 class="title text-center">
+A Short Link Will Come in Handy for many reasons
+</h2>
+<div class="text">
+<p>A short link is a complete analogue of a long URL. This allows you to transfer addresses of any length, such as links to specific products in an online store, or use additional parameters such as UTM. A short link stores the entire long link along with the parameters and simply redirects the user to the final URL. This completely eliminates a number of problems:<br>- Long links will not be truncated by messengers;<br>- Shortened URLs look equally good in advertising posts and presentations;<br>- You can use shortened addresses to generate simpler QR codes, which store fewer elements and are easier to recognize;<br>- The shortened link is easy to remember because it contains only a few characters.
+The special value of short links is revealed in printed sources and presentations. Just imagine, all you need to do is print a link consisting of a few characters or generate a QR code from it, and anyone who sees such a link can easily follow it from their smartphone. Links for PDF or Word files &mdash; the short URL service sURL can do it all.&nbsp;</p><p><br></p><h2>Short URLs available to English-speaking users worldwide</h2><p>SURL is a global link shortener designed for English-speaking audiences everywhere. Whether you&rsquo;re in the United States, the United Kingdom, Canada, Australia, New Zealand, India or any other country, you can shorten, manage and share your links with a fully English interface. The service works 24/7 with no regional restrictions and is suited for marketers, developers and social media teams. Explore our features to organize campaigns, track performance and scale your workflows with ease.</p>
+</div>
+</div>
+</div>
+</section>
+<div class="container faqs-section mt-6">
+<div class="row">
+<div class="col-12">
+<div class="row">
+<div class="accordion col-12" id="faq_6" itemscope itemprop="mainEntity"
+itemtype="https://schema.org/Question">
+<div class="accordion-item">
+<h3 class="faq-toggle collapsed question" id="question_6"
+role="button" itemprop="name" data-toggle="collapse"
+data-target="#answer_6" aria-expanded="false"
+aria-controls="answer_6">
+How to shorten links online?
+</h3>
+<div id="answer_6" class="collapse"
+aria-labelledby="question_6"
+data-parent="#faq_6">
+<div class="faq-body answer" itemscope itemprop="acceptedAnswer"
+itemtype="https://schema.org/Answer">
+<span itemprop="text"><p>After entering your long link, you are given its shortened counterpart (surl or short url). The shortener program stores the connections between the short link and your link to the site. Thus, the link, regardless of its location, will redirect the user to the final URL. At the same time, you will save all parameters, for example, UTM tags, referral tags, link to site filters.</p></span>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion col-12" id="faq_7" itemscope itemprop="mainEntity"
+itemtype="https://schema.org/Question">
+<div class="accordion-item">
+<h3 class="faq-toggle collapsed question" id="question_7"
+role="button" itemprop="name" data-toggle="collapse"
+data-target="#answer_7" aria-expanded="false"
+aria-controls="answer_7">
+What do shortened link statistics show?
+</h3>
+<div id="answer_7" class="collapse"
+aria-labelledby="question_7"
+data-parent="#faq_7">
+<div class="faq-body answer" itemscope itemprop="acceptedAnswer"
+itemtype="https://schema.org/Answer">
+<span itemprop="text"><p>Each shortened link has its own statistics, you can view them simply by adding a &quot;+&quot; sign to the short URL link, for example, surl.li/xxx+ In the link statistics you can see the number of clicks on the short link, the source of the transition and the geolocation of such transitions. Thus, our shortener becomes an indispensable tool for monitoring traffic to shortened addresses.</p></span>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion col-12" id="faq_8" itemscope itemprop="mainEntity"
+itemtype="https://schema.org/Question">
+<div class="accordion-item">
+<h3 class="faq-toggle collapsed question" id="question_8"
+role="button" itemprop="name" data-toggle="collapse"
+data-target="#answer_8" aria-expanded="false"
+aria-controls="answer_8">
+Is it safe to shorten a link online?
+</h3>
+<div id="answer_8" class="collapse"
+aria-labelledby="question_8"
+data-parent="#faq_8">
+<div class="faq-body answer" itemscope itemprop="acceptedAnswer"
+itemtype="https://schema.org/Answer">
+<span itemprop="text"><p>Any link on the network can become public, remember this when generating shortened links to private or personal content. The process of shortening the address itself does not pose a threat to your security. It is important to remember about security measures when you follow third-party links unknown to you. It is also worth trusting only proven link shortening sites. We are working hard on the security of shortened links, and we conduct regular checks of final links. Also, users can <a data-fpl-component="primitive" href="https://surl.li/uk/check-short-url" rel="noopener" target="_blank">check short links</a></p></span>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion col-12" id="faq_9" itemscope itemprop="mainEntity"
+itemtype="https://schema.org/Question">
+<div class="accordion-item">
+<h3 class="faq-toggle collapsed question" id="question_9"
+role="button" itemprop="name" data-toggle="collapse"
+data-target="#answer_9" aria-expanded="false"
+aria-controls="answer_9">
+Need to reduce links in large quantities?
+</h3>
+<div id="answer_9" class="collapse"
+aria-labelledby="question_9"
+data-parent="#faq_9">
+<div class="faq-body answer" itemscope itemprop="acceptedAnswer"
+itemtype="https://schema.org/Answer">
+<span itemprop="text"><p>If you need to shorten a large number of short links, use our <a data-fpl-component="primitive" href="https://dev.surl.li/v1" rel="noopener" target="_blank">API</a> , or the basic functionality available at <a data-fpl-component="primitive" href="https://surl.li/uk/bulk-shortening" rel="noopener" target="_blank">the link</a> .<br> Shorten hundreds of links with us and get thousands of clicks with statistics from Surli</p></span>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion col-12" id="faq_10" itemscope itemprop="mainEntity"
+itemtype="https://schema.org/Question">
+<div class="accordion-item">
+<h3 class="faq-toggle collapsed question" id="question_10"
+role="button" itemprop="name" data-toggle="collapse"
+data-target="#answer_10" aria-expanded="false"
+aria-controls="answer_10">
+Is this service an analogue of Google&amp;#39;s shortener?
+</h3>
+<div id="answer_10" class="collapse"
+aria-labelledby="question_10"
+data-parent="#faq_10">
+<div class="faq-body answer" itemscope itemprop="acceptedAnswer"
+itemtype="https://schema.org/Answer">
+<span itemprop="text"><p>The once-famous goo.gl service was super popular, and the discontinuation of its support prompted the development of similar shorteners. clck, cuttly, bittly, and many others provide online link shortening. Some have ceased to exist, and we at Surl.li plan to develop the service and make it deeper and more convenient for managing your addresses.</p></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<nav class="navbar">
+<img src="https://surl.li/img/surli-logo.svg" class="float-left" alt="surl.li logo">
+<ul class="nav">
+<li class="nav-item">
+<a data-translate="Services" class="nav-link" href="https://surl.li/en/tarif">
+Services                                </a>
+</li>
+<li class="nav-item">
+<a data-translate="Contacts" class="nav-link" href="https://surl.li/en/contact">
+Contacts                                </a>
+</li>
+<li class="nav-item">
+<a data-translate="Rules" class="nav-link"
+href="https://surl.li/terms/surli-terms-en.pdf">
+Rules                                </a>
+</li>
+<ul class="nav">
+<li class="nav-item">
+<a data-translate="Blog" class="nav-link" href="/blog/en">
+Blog                                    </a>
+</li>
+</ul>
+</ul>
+</nav>
+<span class="float-left text-black-50">
+<span data-translate="Hosted by">
+Web Hosting -                    </span>
+<a class="text-black-50 text-undeerline" href="https://hyperhost.ua">Hyperhost.UA
+</a>
+</span>
+<br>
+<span class="float-left text-black-50">
+<span data-translate="Server support by">
+Server support by                    </span>
+<a class="text-black-50 text-undeerline" href="https://secom.com.ua">Secom.com.ua
+</a>
+</span>
+<span class="float-right text-black-50">
+<span>© since 2020</span>
+</span>
+<br>
+<span class="float-left text-black-50">
+<div class="text-center mt-lg-4">
+<div class="rating-section" id="rating-block" data-ratings="8.6402" data-read-only="false">
+<span itemscope itemtype="https://schema.org/CreativeWorkSeries">
+<meta itemprop="name" content=" Surli ">
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+<div class="stars">
+<input type="radio" id="star5" class="star-input" name="rating" value="5" data-value="5" />
+<label class="star" for="star5"></label>
+<input type="radio" id="star45" class="star-input" name="rating" value="4.5"
+data-value="4.5" />
+<label class="star" for="star45"></label>
+<input type="radio" id="star4" class="star-input" name="rating" value="4" data-value="4" />
+<label class="star" for="star4"></label>
+<input type="radio" id="star35" class="star-input" name="rating" value="3.5"
+data-value="3.5" />
+<label class="star" for="star35"></label>
+<input type="radio" id="star3" class="star-input" name="rating" value="3" data-value="3" />
+<label class="star" for="star3"></label>
+<input type="radio" id="star25" class="star-input" name="rating" value="2.5"
+data-value="2.5" />
+<label class="star" for="star25"></label>
+<input type="radio" id="star2" class="star-input" name="rating" value="2" data-value="2" />
+<label class="star" for="star2"></label>
+<input type="radio" id="star15" class="star-input" name="rating" value="1.5"
+data-value="1.5" />
+<label class="star" for="star15"></label>
+<input type="radio" id="star1" class="star-input" name="rating" value="1" data-value="1" />
+<label class="star" for="star1"></label>
+<input type="radio" id="star0.5" class="star-input" name="rating" value="0.5"
+data-value="0.5" />
+<label class="star" for="star0.5"></label>
+</div>
+Rank:
+<span itemprop="ratingValue">8.64</span>
+from
+<span itemprop="bestRating">10</span>
+Rates:
+<span itemprop="ratingCount">1443</span>
+<br>
+<span class="fw-light fs-6">
+<span class="msg">Thanks. Taken into account.<br></span>
+</span>
+</div>
+</span>
+</div>
+</div>
+</span>
+</div>
+</div>
+</div>
+</footer>
+<script src="https://surl.li/js/app.js"></script>
+<script async>
+(function(i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r;
+i[r] = i[r] || function() {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date();
+a = s.createElement(o),
+m = s.getElementsByTagName(o)[0];
+a.async = 1;
+a.src = g;
+m.parentNode.insertBefore(a, m)
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-18721904-9', 'auto');
+ga('require', 'displayfeatures');
+ga('require', 'linkid');
+ga('send', 'pageview');
+</script>
+<!-- Place for ykw -->
+<script src="https://surl.li/js/surli-app.js"></script>
+<script >
+var clientsurli_form_id;
+function onloadCallback() {
+if (document.getElementById('surli_form_id')) {
+clientsurli_form_id = grecaptcha.render('surli_form_id', {
+'sitekey': '6LcUh5wiAAAAAPm9oPatCFOu2wwqW9v7v_uEJGys',
+'badge': 'inline',                             'size': 'invisible',
+'hl': 'en'
+});
+grecaptcha.ready(function () {
+grecaptcha.execute(clientsurli_form_id, {
+action: 'surli_action'
+});
+});
+}
+}
+</script>
+<script id='gReCaptchaScript'
+src="https://www.google.com/recaptcha/api.js?render=explicit&hl=en&onload=onloadCallback"
+defer
+async ></script>
+<script >
+function refreshReCaptchaV3(fieldId,action){
+return new Promise(function (resolve, reject) {
+grecaptcha.ready(function () {
+grecaptcha.execute(window['client'+fieldId], {
+action: action
+}).then(resolve);
+});
+});
+}
+function getReCaptchaV3Response(fieldId){
+return grecaptcha.getResponse(window['client'+fieldId])
+}
+</script>
+</body>
+</html>
