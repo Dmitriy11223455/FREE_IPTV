@@ -7,8 +7,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pkvc-hls7.cdnvideo.ru/
-https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTVLCOPT:http-referrer=https://livetv.mylifeisgood.net.ru/
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
