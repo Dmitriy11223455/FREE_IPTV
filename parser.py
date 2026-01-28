@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 # --- НАСТРОЙКИ ---
-PLAYLIST_NAME = "playlist.m3u"
+PLAYLIST_NAME = "FREE_IPTV.m3u8"
 TARGET_MARKER = "РЕН ТВ"  # Текст, который стоит в #EXTINF вашего канала
 
 def get_token_link():
