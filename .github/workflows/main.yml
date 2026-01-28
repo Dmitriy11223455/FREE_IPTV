@@ -1,18 +1,34 @@
+name: Update RenTV Token
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Раз в час
+  workflow_dispatch:      # Кнопка ручного запуска
+
 jobs:
-  build:
+  update-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Install Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install selenium-wire webdriver-manager selenium
+      - name: Install Chrome dependencies
+        run: |
+          pip install selenium-wire selenium webdriver-manager blinker==1.7.0
 
-      - name: Run script
+      - name: Run parser
         run: python script.py
+
+      - name: Save changes
+        run: |
+          git config --global user.name "Bot"
+          git config --global user.email "bot@github.com"
+          git add playlist.m3u
+          git commit -m "Updated RenTV token" || exit 0
+          git push
 
