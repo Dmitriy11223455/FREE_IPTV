@@ -1,179 +1,109 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livetv.mylifeisgood.net.ru/
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Россия",НТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.ntv.ru/
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" group-title="Россия",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://95.66.188.74/
 http://95.66.188.74/5kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" group-title="Россия",Россия К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" group-title="Россия",Россия 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vgtrkregion-reg.cdnvideo.ru/
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" group-title="Россия",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streaming.thestream.cyou/
 https://streaming.thestream.cyou/live/232.m3u8
 
 #EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ HD" group-title="Россия",ОНТ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge53.dc.beltelecom.by/
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" group-title="Россия",ТВ Центр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvc-hls.cdnvideo.ru/
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН-ТВ" group-title="Россия",РЕН-ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhd116.iptv2022.com/
 https://mhd116.iptv2022.com/x/FVb2BEim-gIb0IfMD4fW_Q,1768334109/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас" group-title="Россия",Спас
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvspas.mediacdn.ru/
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tvchannelstream1.tvzvezda.ru/
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" group-title="Россия",Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://hls.mirtv.cdnvideo.ru/
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" group-title="Россия",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://158.101.222.193:88/
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 tvg-id="" tvg-name="RT" group-title="Россия",RT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rt-glb.rttv.com/
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" group-title="Белоруссия",Беларусь 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge55.dc.beltelecom.by/
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24 HD" group-title="Белоруссия",Беларусь 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhd116.iptv2022.com/
 https://mhd116.iptv2022.com/x/A0kipaBtCEeU_p75e5vrVg,1768334109/streaming/belarus24/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" group-title="Белоруссия",Беларусь 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge50.dc.beltelecom.by/
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" group-title="Белоруссия",Беларусь 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://edge50.dc.beltelecom.by/
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" group-title="Белоруссия",Беларусь 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ngtrk.dc.beltelecom.by/
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" group-title="Белоруссия",БелРос
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.mediacdn.ru/
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 #EXTINF:-1,Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="США",Bloomberg TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCNews.us" tvg-name="NBC News" group-title="США",NBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://nbcnews-lh.akamaihd.net/i/nbcnews_1@123456/master.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="Великобритания",GB News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="Великобритания",BBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://bbcmedia.ic.llnwd.net/stream/bbcnews.m3u8
 
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="Германия",WDR Fernsehen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="Германия",NDR Fernsehen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hls@111231/master.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="Франция",France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="Франция",BFM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://bfmtv-hls-live.akamaized.net/hls/live/2006450/bfmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="Испания",Antena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://antena3-live.cdnvideo.es/antena3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1" group-title="Украина",1+1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://1plus1video.cdnvideo.ru/1plus1video/1plus1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" group-title="Украина",ICTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://live-1-ictv.cdnvideo.ru/ictv/ictv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="Турция",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Турция",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 http://116.202.238.88/ATV_TR/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC1.sa" tvg-name="MBC 1" group-title="Арабские страны",MBC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iptv-org.github.io/
 https://shls-mbc1ksa-prod.shahid.net/out/v1/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/index.m3u8
