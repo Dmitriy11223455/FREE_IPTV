@@ -13,7 +13,7 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=95
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.ntv.ru/
-https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" group-title="Россия",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
