@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/792000_576p.m3u8
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
