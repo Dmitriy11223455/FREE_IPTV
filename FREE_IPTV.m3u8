@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="http://www.web-grabber.xyz/itv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 HD
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 (+2) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
+https://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
+
+
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 (+4) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w1021431133_b646000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDU6NTk6MzcgUE0maGFzaF92YWx1ZT1yUUUxOWtjazF6aWJDdWhOK2JxWll3PT0mdmFsaWRtaW51dGVzPTE0NDA%3D
 
 #EXTINF:-1 tvg-id="russia-rtr" tvg-name="Россия РТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия РТР
