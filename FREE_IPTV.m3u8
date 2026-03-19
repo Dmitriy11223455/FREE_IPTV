@@ -1,209 +1,247 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Россия", Россия 1 HD
+#EXTM3U x-tvg-url="http://www.web-grabber.xyz/itv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
- 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+2)" group-title="Россия", Россия 1(+2) HD
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 (+2) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
- 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+4)" group-title="Россия", Россия 1(+4) HD
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1 (+4) HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
- 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1" group-title="Россия", Россия 1
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Основные",Россия 1
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w1021431133_b646000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDU6NTk6MzcgUE0maGFzaF92YWx1ZT1yUUUxOWtjazF6aWJDdWhOK2JxWll3PT0mdmFsaWRtaW51dGVzPTE0NDA%3D
- 
-#EXTINF:-1 tvg-id="russia-rtr" tvg-name="Россия РТР" group-title="Internation", Россия РТР
+
+#EXTINF:-1 tvg-id="russia-rtr" tvg-name="Россия РТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия РТР
 https://streaming.skynetconnect.co.za/live/211-req_offset_28000000-req_window_0-2k_v5.m3u8
- 
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-name"Россия-Планета" group-title="Internetion", Россия-Планета
-https://s87.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=9702170&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI2IDc6NTE6MjQgUE0maGFzaF92YWx1ZT1BNEhnWGVWTENZeTgrMGVjZElZY3VRPT0mdmFsaWRtaW51dGVzPTIwMA==
- 
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета Европа" group-title="Internation", РТР Планета Европа
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5_378449.m3u8?hls_proxy_host=70b013ca21e8364cd537747cf862272b
- 
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета Азия" group-title="Internation", РТР Планета Азия
+
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="Россия-Планета" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия-Планета
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363|Referer=https://smotrim.ru (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
- 
-#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый Крымский" group-title="Россия",Первый канал HD
+
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета Европа" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",РТР Планета Европа
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5_378449.m3u8?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+
+#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
- 
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Россия",НТВ
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/NTV_Russia_logo_2013.svg" group-title="Основные",НТВ
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" group-title="Россия",Пятый канал
+
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Основные",Пятый канал
 http://95.66.188.74/5kanal/index.m3u8
- 
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" group-title="Россия",Россия К
+
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Основные",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" group-title="Россия",Россия 24
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Основные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
- 
-#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" group-title="Россия",Карусель
+
+#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Karusel_logo.svg" group-title="Основные",Карусель
 https://streaming.thestream.cyou/live/232.m3u8
- 
-#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ HD" group-title="Россия",ОНТ HD
+
+#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ HD" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Беларусь",ОНТ HD
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
- 
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" group-title="Россия",ТВ Центр
+
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Основные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН-ТВ" group-title="Россия",РЕН-ТВ
+
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН-ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Основные",РЕН-ТВ
 https://streaming.skynetconnect.co.za/live/14-req_offset_28000000-req_window_0-2k_v5.m3u8
- 
-#EXTINF:-1 tvg-id="spas" tvg-name="Спас" group-title="Россия",Спас
+
+#EXTINF:-1 tvg-id="spas" tvg-name="Спас" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Основные",Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
- 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Россия",Звезда
+
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Основные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
- 
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" group-title="Россия",Мир
+
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Основные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" group-title="Россия",СТС
+
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Основные",СТС
 http://158.101.222.193:88/georgia_play.php?id=ctctv
- 
-#EXTINF:-1 tvg-id="" tvg-name="RT" group-title="Россия",RT
+
+#EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="International",RT
 https://streaming.skyconnecting.top/live/250-req_offset_28000000-req_window_0-3k_v5.m3u8
- 
-#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" group-title="Белоруссия",Беларусь 1 HD
+
+#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1.png" group-title="Беларусь",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24 HD" group-title="Белоруссия",Беларусь 24 HD
+
+#EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24 HD" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Беларусь",Беларусь 24 HD
 https://mhd116.iptv2022.com/x/A0kipaBtCEeU_p75e5vrVg,1768334109/streaming/belarus24/324/1/index.m3u8
- 
-#EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" group-title="Белоруссия",Беларусь 2 HD
+
+#EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="https://iptvx.one/picons/belarus2.png" group-title="Беларусь",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" group-title="Белоруссия",Беларусь 3 HD
+
+#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3.png" group-title="Беларусь",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" group-title="Белоруссия",Беларусь 5 HD
+
+#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5.png" group-title="Беларусь",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="tro" tvg-name="БелРос" group-title="Белоруссия",БелРос
+
+#EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Беларусь",БелРос
 https://still-heart-b870.vbarishnik50.workers.dev/?url=https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
- 
-#EXTINF:-1,Радио России
+
+#EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
- 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="США",Bloomberg TV
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://iptvx.one/picons/bloomberg.png" group-title="США",Bloomberg TV
 https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
- 
-#EXTINF:-1 tvg-id="NBCNews.us" tvg-name="NBC News" group-title="США",NBC News
+
+#EXTINF:-1 tvg-id="NBCNews.us" tvg-name="NBC News" tvg-logo="https://iptvx.one/picons/nbc-news.png" group-title="США",NBC News
 https://nbcnews-lh.akamaihd.net/i/nbcnews_1@123456/master.m3u8
- 
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="Великобритания",GB News
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://iptvx.one/picons/gbnews.png" group-title="Великобритания",GB News
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="Великобритания",BBC News
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://iptvx.one/picons/bbc-news.png" group-title="Великобритания",BBC News
 https://bbcmedia.ic.llnwd.net/stream/bbcnews.m3u8
- 
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="Германия",WDR Fernsehen
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-logo="https://iptvx.one/picons/wdr.png" group-title="Германия",WDR Fernsehen
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
- 
-#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="Германия",NDR Fernsehen
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" tvg-logo="https://iptvx.one/picons/ndr.png" group-title="Германия",NDR Fernsehen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hls@111231/master.m3u8
- 
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="Франция",France 24
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Франция",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
- 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="Франция",BFM TV
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://iptvx.one/picons/bfmtv.png" group-title="Франция",BFM TV
 https://bfmtv-hls-live.akamaized.net/hls/live/2006450/bfmtv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="Испания",Antena 3
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://iptvx.one/picons/antena3.png" group-title="Испания",Antena 3
 https://antena3-live.cdnvideo.es/antena3/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1" group-title="Украина",1+1
+
+#EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1" tvg-logo="https://iptvx.one/picons/1plus1.png" group-title="Украина",1+1
 https://1plus1video.cdnvideo.ru/1plus1video/1plus1/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" group-title="Украина",ICTV
+
+#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Украина",ICTV
 https://live-1-ictv.cdnvideo.ru/ictv/ictv.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="Турция",TRT 1
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://iptvx.one/picons/trt1.png" group-title="Турция",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
- 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Турция",ATV
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://iptvx.one/picons/atv-tr.png" group-title="Турция",ATV
 http://116.202.238.88/ATV_TR/index.m3u8
- 
-#EXTINF:-1 tvg-id="MBC1.sa" tvg-name="MBC 1" group-title="Арабские страны",MBC 1
+
+#EXTINF:-1 tvg-id="MBC1.sa" tvg-name="MBC 1" tvg-logo="https://iptvx.one/picons/mbc1.png" group-title="Арабские страны",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/out/v1/3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f/index.m3u8
 
 #EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Региональные",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Региональные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="bst" tvg-logo="https://iptvx.one/picons/bst.png" group-title="Региональные" ,БСТ (Башкортостан)
+
+#EXTINF:-1 tvg-id="bst" tvg-logo="https://iptvx.one/picons/bst.png" group-title="Региональные",БСТ (Башкортостан)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+
 #EXTINF:-1 tvg-id="vektor-24" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="Региональные",Вектор 24 HD
 http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
-#EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные" ,Ветта 24 (Пермь)
+
+#EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Региональные",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
 #EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
 https://gtk.tv/hls/gtyar.m3u8
+
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Региональные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="don-24" tvg-logo="https://iptvx.one/picons/don-24.png" group-title="Региональные",Дон 24 (Ростов-на-Дону)
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Региональные" ,Евразия Орск
+
+#EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Региональные",Евразия Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные" ,Енисей HD (Красноярск)
+
+#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные",Енисей HD (Красноярск)
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Региональные",Запад 24 (Калининград)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Региональные",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1  tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Региональные",Камчатка HD
+
+#EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Региональные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Региональные" ,Краснодар HD
+
+#EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Региональные",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Региональные",Кубань 24 (Краснодар)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
 #EXTINF:-1 tvg-id="legendarny24" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Региональные",Легендарный HD 24 (Севастополь)
 http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
-#EXTINF:-1 tvg-id="Lugansk24.ua@SD" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные" ,Луганск 24
+
+#EXTINF:-1 tvg-id="Lugansk24" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 tvg-id="mir-belogoria" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" group-title="Региональные" ,Мир Белогорья
+
+#EXTINF:-1 tvg-id="mir-belogoria" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" group-title="Региональные",Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные" ,Мордовия 24 HD (Саранск)
+
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные",Мордовия 24 HD (Саранск)
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Региональные" ,Москва 24
+
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Региональные",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" group-title="Региональные" ,МТВ HD (Волгоград)
+
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" group-title="Региональные",МТВ HD (Волгоград)
 http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Региональные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Региональные" ,Нижний Новгород 24 HD
+
+#EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Региональные",Нижний Новгород 24 HD
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Региональные",Новый Век HD (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Региональные" ,ОТВ Екатеринбург
+
+#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Региональные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
-#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png"  group-title="Региональные",Первый крымский
+
+#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png" group-title="Региональные",Первый крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+
 #EXTINF:-1 tvg-id="prima" tvg-logo="https://iptvx.one/picons/prima.png" group-title="Региональные",Прима HD (Красноярск)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Региональные",РГВК Дагестан
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+
 #EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Региональные",РТВ HD (Раменск)
 https://e10-ll.facecast.net/rtv/0.m3u8
+
 #EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Региональные",С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
+
 #EXTINF:-1 tvg-id="salam" tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные",Салям УФА
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные" ,Санкт-Петербург
+
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
+
 #EXTINF:-1 tvg-id="sarov-24" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные" ,Своё ТВ HD (Ставрополь)
+
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ HD (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvx.one/picons/tvk-krasnoyarsk.png" group-title="Региональные",ТВК Красноярск
 https://air.tvk6.ru/tvk24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал за рубежом" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="International",Первый канал за рубежом
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8
