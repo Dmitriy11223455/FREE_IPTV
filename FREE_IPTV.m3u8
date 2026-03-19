@@ -19,13 +19,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w1021431133_b646000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDU6NTk6MzcgUE0maGFzaF92YWx1ZT1yUUUxOWtjazF6aWJDdWhOK2JxWll3PT0mdmFsaWRtaW51dGVzPTE0NDA%3D
 
 #EXTINF:-1 tvg-id="russia-rtr" tvg-name="Россия РТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия РТР
-https://streaming.skynetconnect.co.za/live/211-req_offset_28000000-req_window_0-2k_v5.m3u8
-
-#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="Россия-Планета" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия-Планета
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363|Referer=https://smotrim.ru (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="Россия-Планета" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия-Планета
+
 #EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета Европа" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",РТР Планета Европа
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5_378449.m3u8?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4/21163.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
