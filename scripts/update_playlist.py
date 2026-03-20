@@ -4,7 +4,7 @@ import requests
 PLAYLIST_FILE = "FREE_IPTV.m3u8"
 
 CHANNELS = {
-    "РТР-Планета USA": "https://smotrim.ru/live/planeta_rtr_usa",
+    "РТР Планета США": "https://smotrim.ru/live/planeta_rtr_usa",
     "РТР-Планета Азия": "https://smotrim.ru/live/planeta_rtr_asia",
     "РТР-Планета СНГ": "https://smotrim.ru/live/planeta_rtr_sng",
     "РТР-Планета Европа": "https://smotrim.ru/live/planeta_rtr_euro"
