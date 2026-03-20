@@ -1,34 +1,33 @@
-name: Update RenTV Token
+name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *' # Раз в час
-  workflow_dispatch:      # Кнопка ручного запуска
+    - cron: "0 */6 * * *"   # каждые 6 часов
+  workflow_dispatch:        # запуск вручную
 
 jobs:
-  update-list:
+  update-playlist:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Install Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.x"
 
-      - name: Install Chrome dependencies
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_playlist.py
+
+      - name: Commit changes
         run: |
-          pip install selenium-wire selenium webdriver-manager blinker==1.7.0
-
-      - name: Run parser
-        run: python script.py
-
-      - name: Save changes
-        run: |
-          git config --global user.name "Bot"
-          git config --global user.email "bot@github.com"
-          git add FREE_IPTV.m3u8
-          git commit -m "Updated RenTV token" || exit 0
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add playlist.m3u
+          git commit -m "Auto-update playlist"
           git push
 
