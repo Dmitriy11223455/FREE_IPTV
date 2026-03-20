@@ -1,9 +1,8 @@
 import re
 import requests
 
-PLAYLIST_FILE = "playlist.m3u"
+PLAYLIST_FILE = "FREE_IPTV.m3u8"
 
-# Словарь каналов: название в #EXTINF → URL страницы на smotrim.ru
 CHANNELS = {
     "РТР-Планета USA": "https://smotrim.ru/live/planeta_rtr_usa",
     "РТР-Планета Азия": "https://smotrim.ru/live/planeta_rtr_asia",
@@ -13,7 +12,8 @@ CHANNELS = {
 
 def get_new_url(page_url):
     html = requests.get(page_url).text
-    match = re.search(r'https://vgtrksmotrim\.cdnvideo\.ru/hls/[^"]+\.m3u8[^"]*', html)
+    # просто ловим первую m3u8 ссылку
+    match = re.search(r'https://vgtrksmotrim\.cdnvideo\.ru/hls/[^\"]+\.m3u8[^\"]*', html)
     return match.group(0) if match else None
 
 def update_playlist():
@@ -44,3 +44,4 @@ def update_playlist():
 
 if __name__ == "__main__":
     update_playlist()
+
