@@ -9,6 +9,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 https://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="rtr-planeta-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",РТР Планета США
+https://player.smotrim.ru/iframe/live/uid/cf22fa5c-e21a-433e-8317-7e8dd3150d6a/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/
+
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 
 
