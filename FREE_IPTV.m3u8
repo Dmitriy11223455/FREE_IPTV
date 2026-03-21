@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://www.web-grabber.xyz/itv.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -570,3 +570,24 @@ https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 
 #EXTINF:-1 tvg-name="TV7+" tvg-logo="https://i.imgur.com/PcTDZ8e.png" tvg-id="TV7Plus.ua" tvg-country="UA" group-title="Ukraine",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-id="SolovievLive" tvg-name="Соловёв LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Другое", Соловьёв LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/index.m3u8
+
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Христианские" ,Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские",Ani
+http://176.118.197.125/Ani/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="Детские" ,Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="Детские" ,RADIOKIDS.FM
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png" group-title="Познавательные" ,РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
