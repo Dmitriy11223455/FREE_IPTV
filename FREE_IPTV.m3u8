@@ -591,3 +591,53 @@ http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.
 
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png" group-title="Познавательные" ,РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TNT_Russia_logo.svg" group-title="Основные",ТНТ
+
+
+#EXTINF:-1 tvg-id="tv1000-rus" tvg-name="TV1000 Русское кино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/TV1000_logo.svg" group-title="Кино и сериалы",TV1000 Русское кино
+http://157.22.241.157:8081/iptv/tv-1000-rus-channel/chunks.m3u8?nimblesessionid=46102&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI2IDEyOjQ1OjQzIFBNJmhhc2hfdmFsdWU9S0VpNG12bUJTYnIzSElBREFWUzBwQT09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 tvg-id="lyubimoe-kino" tvg-name="Любимое кино" tvg-logo="https://example.com/logos/lyubimoe_kino.png" group-title="Кино и сериалы",Любимое кино
+
+
+#EXTINF:-1 tvg-id="kinopremiera" tvg-name="Кинопремьера" tvg-logo="https://example.com/logos/kinopremiera.png" group-title="Кино и сериалы",Кинопремьера
+
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино" tvg-logo="https://example.com/logos/muzhskoe_kino.png" group-title="Кино и сериалы",Мужское кино
+
+
+#EXTINF:-1 tvg-id="a2" tvg-name="A2" tvg-logo="https://example.com/logos/a2.png" group-title="Кино и сериалы",A2
+
+
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-name="Русский детектив" tvg-logo="https://example.com/logos/russkiy_detektiv.png" group-title="Кино и сериалы",Русский детектив
+
+
+#EXTINF:-1 tvg-id="dom-kino" tvg-name="Дом кино" tvg-logo="https://example.com/logos/dom_kino.png" group-title="Кино и сериалы",Дом кино
+
+
+#EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="https://example.com/logos/mir_seriala.png" group-title="Кино и сериалы",Мир сериала
+
+
+#EXTINF:-1 tvg-id="match-premier" tvg-name="Матч! Премьер" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Match_Premier_logo.svg" group-title="Спортивные",Матч! Премьер
+
+
+#EXTINF:-1 tvg-id="match-football1" tvg-name="Матч! Футбол 1" tvg-logo="https://example.com/logos/match_football1.png" group-title="Спортивные",Матч! Футбол 1
+
+
+#EXTINF:-1 tvg-id="match-football2" tvg-name="Матч! Футбол 2" tvg-logo="https://example.com/logos/match_football2.png" group-title="Спортивные",Матч! Футбол 2
+
+
+#EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3" tvg-logo="https://example.com/logos/match_football3.png" group-title="Спортивные",Матч! Футбол 3
+
+
+#EXTINF:-1 tvg-id="match-strana" tvg-name="Матч! Страна" tvg-logo="https://example.com/logos/match_strana.png" group-title="Спортивные",Матч! Страна
+
+
+#EXTINF:-1 tvg-id="tlum" tvg-name="ТЛУМ" tvg-logo="https://example.com/logos/tlum.png" group-title="Познавательные и детские",ТЛУМ
+
+
+#EXTINF:-1 tvg-id="bridge-tv-deluxe" tvg-name="Bridge TV Deluxe HD" tvg-logo="https://example.com/logos/bridge_tv_deluxe.png" group-title="Музыкальные",Bridge TV Deluxe HD
+
+
+#EXTINF:-1 tvg-id="music-box-gold" tvg-name="Music Box Gold" tvg-logo="https://example.com/logos/music_box_gold.png" group-title="Музыкальные",Music Box Gold
