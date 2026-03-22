@@ -98,7 +98,7 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Беларусь",БелРос
-https://still-heart-b870.vbarishnik50.workers.dev/?url=https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 #EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
@@ -643,3 +643,310 @@ http://157.22.241.157:8081/iptv/tv-1000-rus-channel/chunks.m3u8?nimblesessionid=
 
 
 #EXTINF:-1 tvg-id="music-box-gold" tvg-name="Music Box Gold" tvg-logo="https://example.com/logos/music_box_gold.png" group-title="Музыкальные",Music Box Gold
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="Francia",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" group-title="Francia",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="Francia",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Africa24English.fr@SD" group-title="Francia",Africa 24 English (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="Francia",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" group-title="Francia",Africanews French
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" group-title="Francia",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AngersTele.fr@SD" group-title="Francia",Angers Tele
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8
+
+#EXTINF:-1 tvg-id="AntenneReunion.fr@SD" group-title="Francia",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="AraBel.fr@SD" group-title="Francia",AraBel
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="Francia",Arte (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="BSmartTV.fr@SD" group-title="Francia",B Smart TV (320p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
+
+#EXTINF:-1 tvg-id="BFM2.fr@HD" group-title="Francia",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" group-title="Francia",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMLyon.fr@SD" group-title="Francia",BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="Francia",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BrionnaisTV.fr@SD" group-title="Francia",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Caillou.fr@SD" group-title="Francia",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+
+#EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="Francia",Canal 32 (1080p)
+https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" group-title="Francia",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="Francia",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="Francia",CNews
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
+
+#EXTINF:-1 tvg-id="DBMTV.fr@SD" group-title="Francia",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="Francia",Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="EMCITV.fr@SD" group-title="Francia",EMCI TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8
+
+#EXTINF:-1 tvg-id="EMCITVEurope.fr@SD" group-title="Francia",EMCI TV Europe
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8
+
+#EXTINF:-1 tvg-id="Equidia.fr@SD" group-title="Francia",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Francia",Equidia Racing Mag (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" group-title="Francia",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" group-title="Francia",Euronews German (720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" group-title="Francia",Euronews Italian (720p)
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" group-title="Francia",Euronews Portuguese (720p)
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="Francia",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="Francia",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="Francia",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr@SD" group-title="Francia",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="Francia",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="Francia",France 24 English (1080p)
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="Francia",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="Francia",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="FranceInter.fr@SD" group-title="Francia",France Inter
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" group-title="Francia",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="Francia",Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="Francia",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunRadio.fr@SD" group-title="Francia",Fun Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+
+#EXTINF:-1 tvg-id="GenerationsTV.fr@SD" group-title="Francia",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Gong.fr@SD" group-title="Francia",Gong (1080p)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr@SD" group-title="Francia",Gulli
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+
+#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD" group-title="Francia",HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="iciElsass.fr@SD" group-title="Francia",ici Elsass
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
+
+#EXTINF:-1 tvg-id="ILTV.fr@SD" group-title="Francia",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr@SD" group-title="Francia",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" group-title="Francia",L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="Francia",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 tvg-id="LeMediaTV.fr@SD" group-title="Francia",Le Media TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
+
+#EXTINF:-1 tvg-id="LittoralFMTV.fr@SD" group-title="Francia",Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LyonCapitaleTV.fr@SD" group-title="Francia",Lyon Capitale TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
+
+#EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" group-title="Francia",Maison & Travaux TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+
+#EXTINF:-1 tvg-id="MDL.fr@SD" group-title="Francia",MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr@SD" group-title="Francia",Melody
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8
+
+#EXTINF:-1 tvg-id="MensUPTV.fr@SD" group-title="Francia",Men's UP TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
+
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" group-title="Francia",Monte Carlo Digital Television (1080p)
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+
+#EXTINF:-1 tvg-id="MouvTV.fr@SD" group-title="Francia",Mouv' TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8
+
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD" group-title="Francia",My Gospel TV
+https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD" group-title="Francia",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="Francia",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="Francia",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
+#EXTINF:-1 tvg-id="P2MTV.fr@SD" group-title="Francia",P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="PublicSenat2424.fr@SD" group-title="Francia",Public Senat 24/24
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
+
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" group-title="Francia",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RadioFrontieres.fr@SD" group-title="Francia",Radio Frontieres
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8
+
+#EXTINF:-1 tvg-id="RadioKaraoke.fr@SD" group-title="Francia",Radio Karaoke
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.fr@SD" group-title="Francia",RTL2
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" group-title="Francia",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" group-title="Francia",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" group-title="Francia",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" group-title="Francia",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD" group-title="Francia",Sony One Series Comedie (1080p)
+https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr@HD" group-title="Francia",Sony One Series Thriller (1080p)
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SudRadio.fr@SD" group-title="Francia",Sud Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
+
+#EXTINF:-1 tvg-id="T18.fr@HD" group-title="Francia",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+
+#EXTINF:-1 tvg-id="TeleGohelle.fr@SD" group-title="Francia",TéléGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+
+#EXTINF:-1 tvg-id="Telenantes.fr@SD" group-title="Francia",Telenantes
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
+
+#EXTINF:-1 tvg-id="Telesud.fr@SD" group-title="Francia",Telesud
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telesud.m3u8
+
+#EXTINF:-1 tvg-id="TiVi5Monde.fr@SD" group-title="Francia",TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV3V.fr@SD" group-title="Francia",TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="Francia",TV5Monde Asia (720p)
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="Francia",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" group-title="Francia",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" group-title="Francia",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="Francia",TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="Francia",TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV78.fr@SD" group-title="Francia",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="TVR.fr@SD" group-title="Francia",TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="TZiK.fr@SD" group-title="Francia",TZiK [Not 24/7]
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ViaMatele.fr@SD" group-title="Francia",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoselleTV.fr@SD" group-title="Francia",viàMoselleTV (720p) [Not 24/7]
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr@SD" group-title="Francia",viàOccitanie (540p) [Not 24/7]
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 tvg-id="viaTelePaese.fr@SD" group-title="Francia",viàTéléPaese (720p)
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+
+#EXTINF:-1 tvg-id="VosgesTV.fr@SD" group-title="Francia",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zenith.fr@HD" group-title="Francia",zenith (1080p)
+#EXTVLCOPT:http-referrer=https://znth.tv
+https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
+
+#EXTINF:-1 tvg-id="zenith.fr@HD" group-title="Francia",zenith
+https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
