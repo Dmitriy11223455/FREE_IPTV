@@ -12,7 +12,7 @@ https://s87.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=9702170&
 #EXTVLCOPT:http-referrer=https://player.smotrim.ru/
 https://still-heart-b870.vbarishnik50.workers.dev/?url=https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 #EXTINF:-1 tvg-id="RENTV.ru@SD",Рен ТВ
-https://streaming.televizor-24-tochka.ru|Referer=https://televizor24tochka.ru (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/14.m3u8|Referer=https://televizor24tochka.ru (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 
 
