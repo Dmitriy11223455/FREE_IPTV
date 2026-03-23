@@ -48,8 +48,11 @@ https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd315
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/chunklist_w1021431133_b646000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI2IDU6NTk6MzcgUE0maGFzaF92YWx1ZT1yUUUxOWtjazF6aWJDdWhOK2JxWll3PT0mdmFsaWRtaW51dGVzPTE0NDA%3D
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+
 
 #EXTINF:-1 tvg-id="russia-rtr" tvg-name="Россия РТР" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="International",Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363|Referer=https://smotrim.ru (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
