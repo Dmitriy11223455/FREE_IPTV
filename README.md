@@ -32,116 +32,88 @@ export default {
     const url = new URL(request.url);
     let targetUrl = url.searchParams.get('url');
 
-    // 1. Обработка CORS Preflight (важно для ТВ-браузеров)
-    if (request.method === 'OPTIONS') {
-      return new Response(null, {
-        headers: {
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-          'Access-Control-Allow-Headers': '*',
-          'Access-Control-Max-Age': '86400',
-        }
-      });
-    }
+    const corsHeaders = {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+      'Access-Control-Allow-Headers': '*',
+      'Access-Control-Expose-Headers': '*',
+      'Access-Control-Allow-Credentials': 'true'
+    };
 
-    if (!targetUrl) {
-      return new Response('Proxy Ready. Use: ?url=LINK', { status: 200 });
-    }
+    if (request.method === 'OPTIONS') return new Response(null, { headers: corsHeaders });
+    if (!targetUrl) return new Response('Proxy Active', { status: 200 });
 
     try {
       targetUrl = decodeURIComponent(targetUrl).trim();
       const target = new URL(targetUrl);
 
-      // 2. Формируем заголовки запроса к ВГТРК
-      const forwardHeaders = new Headers();
-      // Используем современный UA, но с пометкой SmartTV для совместимости
-      forwardHeaders.set('User-Agent', 'Mozilla/5.0 (SmartTV; Linux; Tizen) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.0 Chrome/122.0.0.0 Safari/537.36');
-      forwardHeaders.set('Accept', '*/*');
-      forwardHeaders.set('Connection', 'keep-alive');
+      // 1. КОПІЮЄМО ЗАГОЛОВКИ ТЕЛЕВІЗОРА ТА ДОДАЄМО СПЕЦІАЛЬНІ ДЛЯ РОСІЯ 1
+      const forwardHeaders = new Headers(request.headers);
+      forwardHeaders.delete('Host'); // Cloudflare сам підставить правильний Host
+      
+      // Маскуємо запит під офіційний плеєр ВГТРК
+      forwardHeaders.set('Origin', 'https://smotrim.ru');
+      forwardHeaders.set('Referer', 'https://smotrim.ru');
+      forwardHeaders.set('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
-      // Маскировка под плеер Смотрим/ВГТРК
-      if (target.hostname.includes('vgtrk') || target.hostname.includes('smotrim') || target.hostname.includes('live-russia')) {
-        forwardHeaders.set('Origin', 'https://smotrim.ru');
-        forwardHeaders.set('Referer', 'https://smotrim.ru');
-      } else {
-        forwardHeaders.set('Origin', target.origin);
-        forwardHeaders.set('Referer', target.origin + '/');
-      }
-
-      // Передаем Range, если плеер ТВ его запрашивает (для стабильности сегментов)
-      if (request.headers.has('Range')) {
-        forwardHeaders.set('Range', request.headers.get('Range'));
-      }
+      // Обхід перевірки IP (генерація випадкового IP, схожого на РФ)
+      const fakeIp = `31.173.${Math.floor(Math.random() * 255)}.${Math.floor(Math.random() * 255)}`;
+      forwardHeaders.set('X-Forwarded-For', fakeIp);
+      forwardHeaders.set('X-Real-IP', fakeIp);
 
       const response = await fetch(targetUrl, { 
-        headers: forwardHeaders,
+        headers: forwardHeaders, 
         redirect: 'follow' 
       });
 
-      const contentType = response.headers.get('content-type') || '';
-
-      // 3. ОБРАБОТКА ПЛЕЙЛИСТА (M3U8)
+      // 2. ОБРОБКА M3U8 (ВИПРАВЛЕНО ДЛЯ РОСІЯ 1)
+      const contentType = (response.headers.get('content-type') || '').toLowerCase();
       if (contentType.includes('mpegurl') || targetUrl.includes('.m3u8')) {
         let text = await response.text();
         const proxyPrefix = `${url.origin}${url.pathname}?url=`;
 
         const modifiedText = text.split('\n').map(line => {
           line = line.trim();
-          if (!line) return line;
-
-          // Обработка служебных тегов (Ключи шифрования URI="...", Кадры и т.д.)
+          if (!line) return '';
           if (line.startsWith('#')) {
+            // Проксуємо URI ключів та під-плейлистів
             return line.replace(/URI=["']([^"']+)["']/, (match, p1) => {
-              const absKeyUrl = new URL(p1, targetUrl).href;
-              return `URI="${proxyPrefix}${encodeURIComponent(absKeyUrl)}"`;
+              const abs = new URL(p1, targetUrl).href;
+              return `URI="${proxyPrefix}${encodeURIComponent(abs)}"`;
             });
           }
-
-          // Обработка ссылок на сегменты или вложенные плейлисты
+          // Проксуємо кожен сегмент відео
           try {
             const absoluteUrl = new URL(line, targetUrl).href;
             return proxyPrefix + encodeURIComponent(absoluteUrl);
-          } catch (e) {
-            return line;
-          }
-        }).join('\n');
+          } catch (e) { return line; }
+        }).filter(l => l !== '').join('\n');
 
         return new Response(modifiedText, {
-          headers: {
-            'Content-Type': 'application/vnd.apple.mpegurl',
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Allow-Methods': 'GET, OPTIONS',
-            'Cache-Control': 'no-cache',
-          }
+          headers: { ...corsHeaders, 'Content-Type': 'application/vnd.apple.mpegurl' }
         });
       }
 
-      // 4. ПРЯМАЯ ПЕРЕДАЧА ДАННЫХ (Сегменты .ts, Ключи .key)
-      const proxyResponse = new Response(response.body, {
+      // 3. ПЕРЕДАЧА СЕГМЕНТІВ (.ts / .m4s)
+      const newHeaders = new Headers(response.headers);
+      // Очищення конфліктних CORS
+      newHeaders.delete('Access-Control-Allow-Origin');
+      newHeaders.delete('Content-Security-Policy');
+      newHeaders.delete('X-Frame-Options');
+      
+      Object.keys(corsHeaders).forEach(k => newHeaders.set(k, corsHeaders[k]));
+
+      return new Response(response.body, {
         status: response.status,
-        headers: response.headers
+        headers: newHeaders
       });
-
-      // Чистим заголовки для ТВ, добавляем CORS
-      proxyResponse.headers.set('Access-Control-Allow-Origin', '*');
-      proxyResponse.headers.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
-      proxyResponse.headers.delete('X-Frame-Options');
-      proxyResponse.headers.delete('Content-Security-Policy');
-      // Для .ts файлов принудительно ставим правильный тип, если сервер его не отдал
-      if (targetUrl.includes('.ts') && !contentType) {
-        proxyResponse.headers.set('Content-Type', 'video/mp2t');
-      }
-
-      return proxyResponse;
 
     } catch (e) {
-      return new Response('Proxy Error: ' + e.message, { 
-        status: 500,
-        headers: { 'Access-Control-Allow-Origin': '*' }
-      });
+      return new Response('Error: ' + e.message, { status: 500, headers: corsHeaders });
     }
   }
 };
+
 ⚠️ Важное ограничение (Cloudflare Free)
 
 Из-за лимитов бесплатного тарифа Cloudflare на количество запросов:
