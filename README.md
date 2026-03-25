@@ -10,7 +10,7 @@
 2. **Русскоязычные каналы:** 
    `https://dmitriy11223455.github.io/FREE_IPTV/FREE_IPTVru.m3u8`
 3. **Универсальная ссылка**
-   `https://dmitriy11223455.github.io/FREE_IPTV/<НАЗВАНИЕ ФАЙЛА>.m3u(8)
+   `https://dmitriy11223455.github.io/FREE_IPTV/<FILENAME>.m3u(8)`
 ---
 
 ## 🛠 Настройка для разных устройств
