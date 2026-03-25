@@ -148,3 +148,4 @@ export default {
 Превышение этого лимита может привести к временной блокировке вашего прокси-сервера (ошибка 429 Too Many Requests).
 Для личного использования на ТВ и смартфоне этого лимита достаточно.
 Видео по настройке https://drive.google.com/file/d/11ORdn3QRnZfiknBmhdp4XlVC1j-btCxG/view?usp=sharing
+Поиск в интернете: FREE_IPTV github represitory dmitriy11223455.
