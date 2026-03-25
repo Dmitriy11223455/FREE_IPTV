@@ -31,19 +31,19 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
-https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b
 
 #EXTINF:-1 tvg-id="rtr-planeta-sng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 
 #EXTINF:-1 tvg-id="rtr-planeta-asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Азиа
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Международные",Матч!
 https://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета США
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Международные",ТВ3
 
