@@ -65,8 +65,10 @@ https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4/21163.ts?hls_pr
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/NTV_Russia_logo_2013.svg" group-title="Основные",НТВ
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Основные",НТВ
+#EXTVLCOPT:http-referrer=https://cdn.ntv.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Международные",Пятый канал
 http://95.66.188.74/5kanal/index.m3u8
