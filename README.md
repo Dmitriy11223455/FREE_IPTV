@@ -27,92 +27,104 @@
 3. Вставьте следующий код в редактор:
 
 ```javascript
-export default {
-  async fetch(request, env) {
-    const url = new URL(request.url);
-    let targetUrl = url.searchParams.get('url');
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request));
+});
 
-    const corsHeaders = {
-      'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-      'Access-Control-Allow-Headers': '*',
-      'Access-Control-Expose-Headers': '*',
-      'Access-Control-Allow-Credentials': 'true'
-    };
+async function handleRequest(request) {
+  const url = new URL(request.url);
+  let targetUrl = url.searchParams.get('url');
 
-    if (request.method === 'OPTIONS') return new Response(null, { headers: corsHeaders });
-    if (!targetUrl) return new Response('Proxy Active', { status: 200 });
+  const corsHeaders = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers': '*',
+    'Access-Control-Expose-Headers': '*'
+  };
 
-    try {
-      targetUrl = decodeURIComponent(targetUrl).trim();
-      const target = new URL(targetUrl);
+  if (request.method === 'OPTIONS') return new Response(null, { headers: corsHeaders });
+  if (!targetUrl) return new Response('Proxy Active', { status: 200 });
 
-      // 1. КОПІЮЄМО ЗАГОЛОВКИ ТЕЛЕВІЗОРА ТА ДОДАЄМО СПЕЦІАЛЬНІ ДЛЯ РОСІЯ 1
-      const forwardHeaders = new Headers(request.headers);
-      forwardHeaders.delete('Host'); // Cloudflare сам підставить правильний Host
-      
-      // Маскуємо запит під офіційний плеєр ВГТРК
-      forwardHeaders.set('Origin', 'https://smotrim.ru');
+  try {
+    targetUrl = decodeURIComponent(targetUrl).trim();
+    const forwardHeaders = new Headers();
+    
+    // Загальний User-Agent
+    forwardHeaders.set('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+
+    // ЛОГІКА ОБ'ЄДНАННЯ: вибір Referer
+    if (targetUrl.includes('televizor-24') || targetUrl.includes('televizor24')) {
+      forwardHeaders.set('Referer', 'https://televizor24tochka.ru');
+      forwardHeaders.set('Origin', 'https://televizor24tochka.ru');
+    } else {
+      // Для Росія 1 / Smotrim
       forwardHeaders.set('Referer', 'https://smotrim.ru');
-      forwardHeaders.set('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
-
-      // Обхід перевірки IP (генерація випадкового IP, схожого на РФ)
+      forwardHeaders.set('Origin', 'https://smotrim.ru');
+      // Обхід блоку за IP (фейковий РФ IP)
       const fakeIp = `31.173.${Math.floor(Math.random() * 255)}.${Math.floor(Math.random() * 255)}`;
       forwardHeaders.set('X-Forwarded-For', fakeIp);
       forwardHeaders.set('X-Real-IP', fakeIp);
-
-      const response = await fetch(targetUrl, { 
-        headers: forwardHeaders, 
-        redirect: 'follow' 
-      });
-
-      // 2. ОБРОБКА M3U8 (ВИПРАВЛЕНО ДЛЯ РОСІЯ 1)
-      const contentType = (response.headers.get('content-type') || '').toLowerCase();
-      if (contentType.includes('mpegurl') || targetUrl.includes('.m3u8')) {
-        let text = await response.text();
-        const proxyPrefix = `${url.origin}${url.pathname}?url=`;
-
-        const modifiedText = text.split('\n').map(line => {
-          line = line.trim();
-          if (!line) return '';
-          if (line.startsWith('#')) {
-            // Проксуємо URI ключів та під-плейлистів
-            return line.replace(/URI=["']([^"']+)["']/, (match, p1) => {
-              const abs = new URL(p1, targetUrl).href;
-              return `URI="${proxyPrefix}${encodeURIComponent(abs)}"`;
-            });
-          }
-          // Проксуємо кожен сегмент відео
-          try {
-            const absoluteUrl = new URL(line, targetUrl).href;
-            return proxyPrefix + encodeURIComponent(absoluteUrl);
-          } catch (e) { return line; }
-        }).filter(l => l !== '').join('\n');
-
-        return new Response(modifiedText, {
-          headers: { ...corsHeaders, 'Content-Type': 'application/vnd.apple.mpegurl' }
-        });
-      }
-
-      // 3. ПЕРЕДАЧА СЕГМЕНТІВ (.ts / .m4s)
-      const newHeaders = new Headers(response.headers);
-      // Очищення конфліктних CORS
-      newHeaders.delete('Access-Control-Allow-Origin');
-      newHeaders.delete('Content-Security-Policy');
-      newHeaders.delete('X-Frame-Options');
-      
-      Object.keys(corsHeaders).forEach(k => newHeaders.set(k, corsHeaders[k]));
-
-      return new Response(response.body, {
-        status: response.status,
-        headers: newHeaders
-      });
-
-    } catch (e) {
-      return new Response('Error: ' + e.message, { status: 500, headers: corsHeaders });
     }
+
+    const response = await fetch(targetUrl, { 
+      headers: forwardHeaders, 
+      redirect: 'follow' 
+    });
+
+    const contentType = (response.headers.get('content-type') || '').toLowerCase();
+
+    // ОБРОБКА ПЛЕЙЛИСТА (.m3u8) - переписування посилань
+    if (targetUrl.includes('.m3u8') || contentType.includes('mpegurl')) {
+      let text = await response.text();
+      const baseUrl = targetUrl.substring(0, targetUrl.lastIndexOf('/') + 1);
+
+      // Заміна посилань на сегменти та ключі (URI)
+      const modifiedText = text.split('\n').map(line => {
+        line = line.trim();
+        if (!line) return '';
+        
+        // Якщо це рядок з URI (ключ)
+        if (line.includes('URI=')) {
+          return line.replace(/URI=["']([^"']+)["']/, (match, p1) => {
+            const abs = new URL(p1, targetUrl).href;
+            return `URI="${url.origin}/?url=${encodeURIComponent(abs)}"`;
+          });
+        }
+        
+        // Якщо це посилання на сегмент (не починається з #)
+        if (!line.startsWith('#')) {
+          const abs = new URL(line, targetUrl).href;
+          return `${url.origin}/?url=${encodeURIComponent(abs)}`;
+        }
+        
+        return line;
+      }).join('\n');
+
+      return new Response(modifiedText, {
+        headers: { 
+          ...corsHeaders, 
+          'Content-Type': 'application/vnd.apple.mpegurl' 
+        }
+      });
+    }
+
+    // ПЕРЕДАЧА ВІДЕО-СЕГМЕНТІВ (.ts / .m4s)
+    const newHeaders = new Headers(response.headers);
+    // Очищення та встановлення CORS
+    newHeaders.delete('content-security-policy');
+    newHeaders.delete('x-frame-options');
+    Object.keys(corsHeaders).forEach(k => newHeaders.set(k, corsHeaders[k]));
+
+    return new Response(response.body, {
+      status: response.status,
+      headers: newHeaders
+    });
+
+  } catch (e) {
+    return new Response('Error: ' + e.message, { status: 500, headers: corsHeaders });
   }
-};
+}
+
 
 ⚠️ Важное ограничение (Cloudflare Free)
 
