@@ -182,8 +182,18 @@ async function handleRequest(request) {
 Видео по настройке https://drive.google.com/file/d/11ORdn3QRnZfiknBmhdp4XlVC1j-btCxG/view?usp=sharing
 Поиск в интернете: FREE_IPTV github represitory dmitriy11223455.
 
+Видео по настройке плейлиста:https://drive.google.com/file/d/1y5tCTIl1IdhQaMzKxA84KrC_iTf-u5Xg/view?usp=drive_link
+Если в на Андроид ТВ вам не надо cloudflare. Просто скачайте VPN сервер.
 
 
-⚠️ИЩУТСЯ ПОТОКИ НА СПОРТИВНЫЕ КАНАЛЫ И ТВ3.⚠️
+
+
+
+⚠️ИЩУТСЯ ПОТОКИ НА СПОРТИВНЫЕ КАНАЛЫ.⚠️
 ⚠️СОЗДАЁТСЯ ПЛЕЙЛИСТ С РУССКИМИ КАНАЛАМИ.⚠️
 ⚠️НА КАНАЛЕ РАТНИК ОКОНЧАНИЕ ЭФИРА ЭТО СВЯЗАНО С РЕМОНТОМ НА САЙТЕ "BEREZKA.LIVE"⚠️
+
+
+
+
+
