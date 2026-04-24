@@ -1,1 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" group-title="Основные",Первый
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
