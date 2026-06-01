@@ -2,67 +2,74 @@ import fs from 'fs';
 import axios from 'axios';
 import path from 'path';
 
-// Настройки: таймаут 5 секунд, имитация браузера
 const http = axios.create({
-  timeout: 5000,
+  timeout: 8000,
   headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
   validateStatus: () => true 
 });
 
-async function cleanPlaylists() {
+async function findReplacement(channelName: string) {
+  try {
+    const response = await axios.get(`https://github.io`, { timeout: 10000 });
+    const streams = response.data;
+    const found = streams.find((s: any) => 
+      s.channel && s.channel.toLowerCase().includes(channelName.toLowerCase()) && s.status === 'online'
+    );
+    return found ? found.url : null;
+  } catch { return null; }
+}
+
+async function processPlaylists() {
   const rootDir = './';
   const files = fs.readdirSync(rootDir).filter(f => f.endsWith('.m3u') || f.endsWith('.m3u8'));
 
   for (const file of files) {
-    console.log(`\n=======================================`);
-    console.log(`🚀 НАЧИНАЕМ ОЧИСТКУ: ${file}`);
-    console.log(`=======================================`);
-
+    console.log(`\n🚀 ОБРАБОТКА: ${file}`);
     const filePath = path.join(rootDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
-    const channels = content.split(/#EXTINF/).filter(c => c.trim() !== '' && !c.startsWith('#EXTM3U'));
+    
+    const blocks = content.split(/#EXTINF/).filter(b => b.trim() !== '' && !b.startsWith('#EXTM3U'));
     const header = content.startsWith('#EXTM3U') ? '#EXTM3U\n' : '';
     
-    let activeChannels = [];
-    const total = channels.length;
+    let finalChannels = [];
+    let seenLinks = new Set();
 
-    for (let i = 0; i < total; i++) {
-      const fullChannel = '#EXTINF' + channels[i];
-      const streamLink = fullChannel.split('\n').find(l => l.trim().startsWith('http'));
-      
-      // Считаем прогресс
-      const percent = (((i + 1) / total) * 100).toFixed(1);
-      
-      if (streamLink) {
-        const link = streamLink.trim();
+    for (let i = 0; i < blocks.length; i++) {
+      let block = '#EXTINF' + blocks[i];
+      const lines = block.split('\n').map(l => l.trim()).filter(l => l !== '');
+      const link = lines.find(l => l.startsWith('http'));
+      const nameMatch = block.match(/,(.*)/);
+      const name = nameMatch ? nameMatch[1].trim() : "Unknown";
+      const percent = (((i + 1) / blocks.length) * 100).toFixed(1);
 
-        // 1. Пропускаем картинки, чтобы не зависать
-        if (link.match(/\.(png|jpg|jpeg|svg|gif|ico)$/i)) {
-          continue;
-        }
+      if (link) {
+        if (seenLinks.has(link)) continue;
 
-        try {
-          // 2. HEAD запрос — самый быстрый способ проверки
-          const response = await http.head(link);
-          
-          if (response.status >= 200 && response.status < 400) {
-            console.log(`[${percent}%] ✅ OK: ${link}`);
-            activeChannels.push(fullChannel.trim());
+        console.log(`[${percent}%] Проверка: ${name}`);
+        const res = await http.head(link).catch(() => ({ status: 500 }));
+
+        if (res.status >= 200 && res.status < 400) {
+          console.log(`   ✅ OK`);
+          finalChannels.push(block.trim());
+          seenLinks.add(link);
+        } else {
+          console.log(`   ❌ МЕРТВ. Ищем замену...`);
+          const replacement = await findReplacement(name);
+          if (replacement) {
+            console.log(`   ✨ ЗАМЕНА НАЙДЕНА`);
+            const newBlock = block.replace(link, replacement);
+            finalChannels.push(newBlock.trim());
+            seenLinks.add(replacement);
           } else {
-            console.log(`[${percent}%] ❌ МЕРТВ (${response.status}): ${link}`);
+            console.log(`   🗑️ Удаляем.`);
           }
-        } catch (error: any) {
-          console.log(`[${percent}%] ❌ ТАЙМАУТ: ${link}`);
         }
       }
     }
-
-    // 3. Сохраняем результат
-    fs.writeFileSync(filePath, header + activeChannels.join('\n\n'));
-    console.log(`\n✅ ГОТОВО! Файл ${file} обновлен.`);
-    console.log(`📊 Статистика: было ${total}, осталось ${activeChannels.length}`);
+    fs.writeFileSync(filePath, header + finalChannels.join('\n\n'));
+    console.log(`✅ ${file} готов! Осталось: ${finalChannels.length}`);
   }
 }
 
-cleanPlaylists().catch(err => console.error("Критическая ошибка:", err));
+processPlaylists().catch(console.error);
 
