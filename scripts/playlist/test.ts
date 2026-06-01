@@ -10,7 +10,7 @@ const http = axios.create({
 
 async function findReplacement(channelName: string) {
   try {
-    const response = await axios.get(`https://github.io`, { timeout: 10000 });
+    const response = await axios.get(`https://iptv-org.github.io/iptv/index.m3u`, { timeout: 10000 });
     const streams = response.data;
     const found = streams.find((s: any) => 
       s.channel && s.channel.toLowerCase().includes(channelName.toLowerCase()) && s.status === 'online'
