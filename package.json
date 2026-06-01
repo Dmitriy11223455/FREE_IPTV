@@ -14,7 +14,10 @@
     "is-url": "^1.2.4",
     "lodash": "^4.17.21",
     "markdown-table": "^2.0.0",
-    "natural-orderby": "^3.0.2"
+    "natural-orderby": "^3.0.2",
+    "@freearhey/core": "^0.3.0",
+    "@iptv-org/sdk": "^0.3.0",
+    "chalk": "^4.1.2"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
