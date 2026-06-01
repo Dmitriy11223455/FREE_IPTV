@@ -1,21 +1,6 @@
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал HD
-https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
-
+#EXTM3U
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Международные",Матч!
-https://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Россия-РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
-
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -46,9 +31,6 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1.png" group-title="Основные",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="belarus24" tvg-name="Беларусь 24 HD" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Информационные и новости",Беларусь 24 HD
-https://mhd116.iptv2022.com/x/A0kipaBtCEeU_p75e5vrVg,1768334109/streaming/belarus24/324/1/index.m3u8
-
 #EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="https://iptvx.one/picons/belarus2.png" group-title="Основные",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
@@ -57,7 +39,6 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 
 #EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5.png" group-title="Основные",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
@@ -89,9 +70,6 @@ https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="don-24" tvg-logo="https://iptvx.one/picons/don-24.png" group-title="Информационные и новости",Дон 24 (Ростов-на-Дону)
-https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
-
 #EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Международные",Евразия Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
@@ -113,9 +91,6 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mon
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Информационные и новости",Кубань 24 (Краснодар)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:-1 tvg-id="legendarny24" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="Информационные и новости",Легендарный HD 24 (Севастополь)
-http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
-
 #EXTINF:-1 tvg-id="Lugansk24" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Информационные и новости",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 
@@ -127,9 +102,6 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные и новости",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" group-title="Основные",МТВ HD (Волгоград)
-http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
 
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -145,9 +117,6 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
-
-#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png" group-title="Основные",Первый крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="prima" tvg-logo="https://iptvx.one/picons/prima.png" group-title="Основные",Прима HD (Красноярск)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
@@ -175,9 +144,6 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvx.one/picons/tvk-krasnoyarsk.png" group-title="Международные",ТВК Красноярск
-https://air.tvk6.ru/tvk24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал за рубежом" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал за рубежом
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8
@@ -209,9 +175,6 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Международные",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
 
-#EXTINF:-1  tvg-logo="https://i.podster.fm/img/73541/crop/yes/size/xlarge/73541.jpg" group-title="Радио",Авторадио
-http://ic7.101.ru:8000/v3_1
-
 #EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
@@ -233,16 +196,8 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 
-#EXTINF:-1  tvg-logo="https://москва.рекламанащитах.рф/wp-content/uploads/sites/2/2021/01/jumor.jpg" group-title="Международные",Юмор FM
-
-#EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/7548376/4fc124e4.a.18838876-2/m1000x1000?webp=false" group-title="Радио",Comedy Radio
-http://ic7.101.ru:8000/stream/air/mp3/256/99
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Международные",Jazz
 http://jazz.streamr.ru/jazz-64.mp3
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=bf370f3289f1e5b37512ea16176fd8f4652c531f-12322312-images-thumbs&n=13" group-title="Международные",Relax FM
-http://ic6.101.ru:8000/stream/air/mp3/256/200
 
 #EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
 https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
@@ -256,30 +211,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Karusel_logo.svg" group-title="Международные",Карусель
 https://streaming.thestream.cyou/live/232.m3u8
 
-#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ HD" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Основные",ОНТ HD
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Рен ТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
-
-#EXTINF:-1 tvg-id="Ratnik" tvg-name="Ратник",Ратник
-#EXTVLCOPT:http-referrer=https://berezka.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
-https://streaming.skynetconnect.co.za/live/7008-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one" group-title="Информационные и новости", РБК
 https://e4-online-video.rbc.ru/online2/rbctvhd_480p/index.m3u8?e=e4&t=2hMv0P
 
 #EXTINF:-1 tvg-id="tvrain.ru" tvg-logo="https://iptvx.one/logo/tvrain.png" group-title="Информационные и новости",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b6692000.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Международные",ТВ3
-https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
@@ -535,6 +474,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Уфа)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
+
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ханты-Мансийск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
 
@@ -975,8 +915,10 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD",TV BRICS Russian (1080p)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 
