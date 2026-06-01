@@ -1,32 +1,23 @@
-name: Update Playlists
+name: Update IPTV
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Запуск каждый день в полночь
-  workflow_dispatch: # Позволяет запускать вручную кнопкой
+    - cron: '0 0 * * *'
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run playlist check
+      - run: npm install
+      - name: Run Clean and Update
         run: npm run playlist:test
-
-      - name: Run playlist update
-        run: npm run playlist:update
-
-      - name: Commit and push changes
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update playlists"
+          commit_message: "Auto-clean: removed dead links and updated streams"
