@@ -6,10 +6,9 @@
     "playlist:test": "ts-node scripts/playlist/test.ts",
     "playlist:update": "ts-node scripts/playlist/update.ts"
   },
-  "dependencies": {
-    "@freearhey/core": "^0.3.0",
-    "@freearhey/storage-js": "^0.1.1",
-    "@iptv-org/sdk": "^0.3.0",
+    "dependencies": {
+    "@freearhey/core": "latest",
+    "@freearhey/storage-js": "latest",
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
@@ -19,6 +18,7 @@
     "natural-orderby": "^3.0.2",
     "async": "^3.2.5"
   },
+
   "devDependencies": {
     "@types/async": "^3.2.24",
     "@types/lodash": "^4.14.202",
