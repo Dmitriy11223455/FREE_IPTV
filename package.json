@@ -1,1 +1,32 @@
-
+{
+  "name": "iptv",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Collection of publicly available IPTV channels from all over the world",
+  "scripts": {
+    "playlist:test": "ts-node scripts/commands/playlist/test.ts",
+    "playlist:update": "ts-node scripts/commands/playlist/update.ts",
+    "playlist:generate": "ts-node scripts/commands/playlist/generate.ts",
+    "playlist:format": "ts-node scripts/commands/playlist/format.ts",
+    "playlist:validate": "ts-node scripts/commands/playlist/validate.ts",
+    "api:generate": "ts-node scripts/commands/api/generate.ts",
+    "db:create": "ts-node scripts/commands/database/create.ts",
+    "db:update": "ts-node scripts/commands/database/update.ts"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "commander": "^11.1.0",
+    "iptv-playlist-parser": "^0.13.0",
+    "is-url": "^1.2.4",
+    "lodash": "^4.17.21",
+    "markdown-table": "^2.0.0",
+    "natural-orderby": "^3.0.2",
+    "shorthash": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
