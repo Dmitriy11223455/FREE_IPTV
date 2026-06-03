@@ -1523,7 +1523,7 @@ https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
 #EXTINF:-1 tvg-id="MarcaTV.ec" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="General",Marca TV (1080p)
-https://eu1.servers10.com:8081/8030/index.m3u8
+http://200.7.219.221:8088/live/livetv/index.m3u8
 
 #EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="General",Marka TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
@@ -1599,9 +1599,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" tvg-logo="https://i.imgur.com/2zCOXmH.png" group-title="General",Mezőkövesdi Televízió (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiCanal.gt" tvg-logo="https://i.imgur.com/QNbcxyn.png" group-title="General",Mi Canal (576p) [Not 24/7]
-http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
 
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="General",Microvision 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
@@ -2329,9 +2326,6 @@ http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SleutelstadTV.nl" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General",Sleutelstad TV (720p)
 https://samson.streamerr.co:8081/sleutelstad/index.m3u8
 
-#EXTINF:-1 tvg-id="SmashTV.mt" tvg-logo="https://i.imgur.com/Yg6ZWKu.png" group-title="General",Smash TV [Geo-blocked]
-http://80.79.6.221:25461/smash/public/1
-
 #EXTINF:-1 tvg-id="SochiLive.ru" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="General",Sochi Live HD (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
@@ -2790,9 +2784,6 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.postimg.cc/8PvGMZJM/tvk.png" group-title="General",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVM.mt" tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="General",TVM [Geo-blocked]
-http://80.79.6.221:25461/smash/public/19
 
 #EXTINF:-1 tvg-id="TVMparati.ve" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="General",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8

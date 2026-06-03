@@ -44,9 +44,7 @@ https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-3k_v5
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
+https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.QoG9GH0R_4qPUMo9jRGa5RcNcGUTDnLCJdsQYBcC16c.iMDqs0Lv72Aq74bNIKMi8XG_tnC01sLQ3_mnX7Hspu4.1781083196.bfd9239ddd0680a7c7542e3c2cfd03fa|Referer=https://player.mediavitrina.ruMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Основные",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
