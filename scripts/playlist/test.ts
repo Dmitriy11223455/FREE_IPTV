@@ -8,7 +8,7 @@ const http = axios.create({
   validateStatus: () => true 
 });
 
-// ВАШИ ССЫЛКИ ДЛЯ ПОИСКА
+// ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (опечатка в iptv-org исправлена)
 const REPLACEMENT_SOURCES = [
   'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'https://iptv-org.github.io/iptv/index.m3u' 
@@ -21,15 +21,14 @@ async function findReplacement(channelName: string) {
       const lines = response.data.split('\n').map((l: string) => l.trim());
       
       for (let i = 0; i < lines.length; i++) {
-        // Ищем канал по названию в строке #EXTINF
         if (lines[i].includes('#EXTINF') && lines[i].toLowerCase().includes(channelName.toLowerCase())) {
           let foundUrl = null;
           let foundGroup = null;
 
-          // Ищем данные в блоке (ссылка и группа)
-          for (let j = i + 1; j < i + 6; j++) {
+          // Ищем URL и группу (в радиусе 6 строк под #EXTINF)
+          for (let j = i + 1; j < i + 7; j++) {
             if (lines[j]?.startsWith('#EXTGRP:')) {
-              foundGroup = lines[j]; // Сохраняем строку с группой целиком
+              foundGroup = lines[j]; // Копируем строку группы целиком
             }
             if (lines[j]?.startsWith('http')) {
               foundUrl = lines[j];
@@ -45,6 +44,7 @@ async function findReplacement(channelName: string) {
 }
 
 async function processPlaylists() {
+  // Ищем все m3u файлы в текущей папке
   const files = fs.readdirSync('./').filter(f => f.endsWith('.m3u') || f.endsWith('.m3u8'));
 
   for (const file of files) {
@@ -57,46 +57,48 @@ async function processPlaylists() {
     
     let finalChannels = [];
 
-    for (const block of blocks) {
-      let lines = block.trim().split('\n').map(l => l.trim());
+    for (let i = 0; i < blocks.length; i++) {
+      let lines = blocks[i].trim().split('\n').map(l => l.trim());
       const linkIndex = lines.findLastIndex(l => l.startsWith('http'));
       
+      // Расчет процента выполнения
+      const percent = (((i + 1) / blocks.length) * 100).toFixed(1);
+
       if (linkIndex === -1) continue;
 
       const currentLink = lines[linkIndex];
       const nameMatch = lines[0].match(/,(.*)$/);
       const name = nameMatch ? nameMatch[1].trim() : "Unknown";
 
-      console.log(`[*] Проверка: ${name}`);
+      process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)}`);
       
-      // Проверяем статус ссылки
+      // Проверка текущей ссылки (используем stream для стабильности)
       const res = await http.get(currentLink, { responseType: 'stream' }).catch(() => ({ status: 500 }));
 
       if (res.status >= 200 && res.status < 400) {
-        console.log(`   ✅ OK`);
+        console.log(` ✅ OK`);
         finalChannels.push(lines.join('\n'));
       } else {
-        console.log(`   ❌ МЕРТВ. Поиск замены...`);
+        console.log(` ❌ МЕРТВ. Поиск...`);
         const result = await findReplacement(name);
         
         if (result) {
           console.log(`   ✨ ЗАМЕНА НАЙДЕНА`);
           
-          // Очищаем старые заголовки (Referer/UA) и старую группу
+          // Удаляем старые заголовки (Referer/UA) и старую группу
           let cleanLines = lines.filter(l => 
             !l.includes('#EXTVLCOPT:http-referrer') && 
             !l.includes('#EXTVLCOPT:http-user-agent') &&
             !l.startsWith('#EXTGRP:')
           );
 
-          // Если в источнике была группа — вставляем её новой строкой после #EXTINF
+          // Если в источнике была группа — вставляем её сразу под #EXTINF
           if (result.group) {
             cleanLines.splice(1, 0, result.group);
           }
 
           // Обновляем ссылку в последней строке
           cleanLines[cleanLines.length - 1] = result.url;
-          
           finalChannels.push(cleanLines.join('\n'));
         } else {
           console.log(`   🗑️ Удалено.`);
@@ -104,9 +106,10 @@ async function processPlaylists() {
       }
     }
     fs.writeFileSync(file, header + finalChannels.join('\n\n'));
-    console.log(`✅ Готово: ${file}`);
+    console.log(`✅ Файл ${file} завершен!`);
   }
 }
 
 processPlaylists().catch(console.error);
+
 
