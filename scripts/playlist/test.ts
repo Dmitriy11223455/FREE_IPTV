@@ -8,15 +8,42 @@ const http = axios.create({
   validateStatus: () => true 
 });
 
+// 1. СПИСОК ВАШИХ ССЫЛОК ДЛЯ ПОИСКА ЗАМЕН
+const REPLACEMENT_SOURCES = [
+  'https://github.io', // Рекомендуется (JSON API)
+  'https://githubusercontent.com' // Обычный плейлист
+];
+
 async function findReplacement(channelName: string) {
-  try {
-    const response = await axios.get(`https://iptv-org.github.io/iptv/index.m3u`, { timeout: 10000 });
-    const streams = response.data;
-    const found = streams.find((s: any) => 
-      s.channel && s.channel.toLowerCase().includes(channelName.toLowerCase()) && s.status === 'online'
-    );
-    return found ? found.url : null;
-  } catch { return null; }
+  for (const sourceUrl of REPLACEMENT_SOURCES) {
+    try {
+      const response = await axios.get(sourceUrl, { timeout: 10000 });
+      const data = response.data;
+
+      // Если источник — JSON (как iptv-org API)
+      if (Array.isArray(data)) {
+        const found = data.find((s: any) => 
+          s.channel && s.channel.toLowerCase().includes(channelName.toLowerCase()) && s.status === 'online'
+        );
+        if (found) return found.url;
+      } 
+      // Если источник — обычный M3U
+      else if (typeof data === 'string') {
+        const lines = data.split('\n');
+        for (let i = 0; i < lines.length; i++) {
+          if (lines[i].toLowerCase().includes(channelName.toLowerCase())) {
+            // Ищем первую строку с http ниже найденного названия
+            for (let j = i + 1; j < i + 5; j++) {
+              if (lines[j]?.trim().startsWith('http')) return lines[j].trim();
+            }
+          }
+        }
+      }
+    } catch (e) {
+      continue; // Ошибка в одном источнике — идем к следующему
+    }
+  }
+  return null;
 }
 
 async function processPlaylists() {
@@ -28,17 +55,24 @@ async function processPlaylists() {
     const filePath = path.join(rootDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
     
+    // Сохраняем заголовок файла целиком (со всеми параметрами tvg-url и т.д.)
+    const headerMatch = content.match(/#EXTM3U.*\n/);
+    const header = headerMatch ? headerMatch[0] : '#EXTM3U\n';
+
     const blocks = content.split(/#EXTINF/).filter(b => b.trim() !== '' && !b.startsWith('#EXTM3U'));
-    const header = content.startsWith('#EXTM3U') ? '#EXTM3U\n' : '';
-    
     let finalChannels = [];
     let seenLinks = new Set();
 
     for (let i = 0; i < blocks.length; i++) {
       let block = '#EXTINF' + blocks[i];
-      const lines = block.split('\n').map(l => l.trim()).filter(l => l !== '');
-      const link = lines.find(l => l.startsWith('http'));
-      const nameMatch = block.match(/,(.*)/);
+      const lines = block.split('\n').filter(l => l.trim() !== '');
+      
+      // Находим ссылку (обычно последняя строка в блоке)
+      const linkIndex = lines.findIndex(l => l.trim().startsWith('http'));
+      const link = linkIndex !== -1 ? lines[linkIndex].trim() : null;
+      
+      // Извлекаем чистое название канала для поиска
+      const nameMatch = lines[0].match(/,(.*)/);
       const name = nameMatch ? nameMatch[1].trim() : "Unknown";
       const percent = (((i + 1) / blocks.length) * 100).toFixed(1);
 
@@ -57,8 +91,9 @@ async function processPlaylists() {
           const replacement = await findReplacement(name);
           if (replacement) {
             console.log(`   ✨ ЗАМЕНА НАЙДЕНА`);
-            const newBlock = block.replace(link, replacement);
-            finalChannels.push(newBlock.trim());
+            // Заменяем только ссылку, оставляя все атрибуты (лого, ID) в первой строке
+            lines[linkIndex] = replacement;
+            finalChannels.push(lines.join('\n').trim());
             seenLinks.add(replacement);
           } else {
             console.log(`   🗑️ Удаляем.`);
@@ -67,7 +102,7 @@ async function processPlaylists() {
       }
     }
     fs.writeFileSync(filePath, header + finalChannels.join('\n\n'));
-    console.log(`✅ ${file} готов! Осталось: ${finalChannels.length}`);
+    console.log(`✅ ${file} готов! Каналов: ${finalChannels.length}`);
   }
 }
 
