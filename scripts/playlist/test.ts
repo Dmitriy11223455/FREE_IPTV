@@ -8,43 +8,70 @@ const http = axios.create({
   validateStatus: () => true 
 });
 
-// ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (опечатка в iptv-org исправлена)
+// ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (из первого сообщения)
 const REPLACEMENT_SOURCES = [
-  'https://iptv-org.github.io/iptv/index.m3u',
-  'https://drm-play.com/iptv.php?tv=nodrm-1'
+  'https://github.io',
+  'https://drm-play.com'
 ];
 
-async function findReplacement(channelName: string) {
-  for (const url of REPLACEMENT_SOURCES) {
-    try {
-      const response = await axios.get(url, { timeout: 10000 });
-      const lines = response.data.split('\n').map((l: string) => l.trim());
-      
-      for (let i = 0; i < lines.length; i++) {
-        if (lines[i].includes('#EXTINF') && lines[i].toLowerCase().includes(channelName.toLowerCase())) {
-          let foundUrl = null;
-          let foundGroup = null;
+// СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
+// Название канала пишите строго МАЛЕНЬКИМИ буквами
+const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
+  'первый канал': 'https://ссылка-только-для-первого.m3u',
+  'discovery channel': 'https://ссылка-только-для-дискавери.m3u'
+};
 
-          // Ищем URL и группу (в радиусе 6 строк под #EXTINF)
-          for (let j = i + 1; j < i + 7; j++) {
-            if (lines[j]?.startsWith('#EXTGRP:')) {
-              foundGroup = lines[j]; // Копируем строку группы целиком
-            }
-            if (lines[j]?.startsWith('http')) {
-              foundUrl = lines[j];
-              break; 
-            }
+// Функция поиска канала внутри конкретного плейлиста
+async function searchInUrl(url: string, channelName: string) {
+  try {
+    const response = await axios.get(url, { timeout: 10000 });
+    const lines = response.data.split('\n').map((l: string) => l.trim());
+    
+    for (let i = 0; i < lines.length; i++) {
+      if (lines[i].includes('#EXTINF') && lines[i].toLowerCase().includes(channelName.toLowerCase())) {
+        let foundUrl = null;
+        let foundGroup = null;
+
+        for (let j = i + 1; j < i + 7; j++) {
+          if (lines[j]?.startsWith('#EXTGRP:')) {
+            foundGroup = lines[j]; 
           }
-          if (foundUrl) return { url: foundUrl, group: foundGroup };
+          if (lines[j]?.startsWith('http')) {
+            foundUrl = lines[j];
+            break; 
+          }
         }
+        if (foundUrl) return { url: foundUrl, group: foundGroup };
       }
-    } catch { continue; }
+    }
+  } catch {
+    return null;
   }
   return null;
 }
 
+async function findReplacement(channelName: string) {
+  const normalizedName = channelName.toLowerCase().trim();
+
+  // 1. Проверяем персональную ссылку из словаря
+  if (CHANNEL_SPECIFIC_SOURCES[normalizedName]) {
+    const specificUrl = CHANNEL_SPECIFIC_SOURCES[normalizedName];
+    console.log(`   🔍 Поиск в персональном источнике для "${channelName}"...`);
+    const result = await searchInUrl(specificUrl, channelName);
+    if (result) return result; 
+    console.log(`   ⚠️ В персональном источнике не найдено. Переходим к общему поиску...`);
+  }
+
+  // 2. Если в словаре нет или там не нашлось — ищем по вашим общим ссылкам
+  for (const url of REPLACEMENT_SOURCES) {
+    const result = await searchInUrl(url, channelName);
+    if (result) return result;
+  }
+  
+  return null;
+}
+
 async function processPlaylists() {
-  // Ищем все m3u файлы в текущей папке
   const files = fs.readdirSync('./').filter(f => f.endsWith('.m3u') || f.endsWith('.m3u8'));
 
   for (const file of files) {
@@ -52,7 +79,8 @@ async function processPlaylists() {
     const content = fs.readFileSync(file, 'utf-8');
     
     const blocks = content.split(/(?=#EXTINF)/).filter(b => b.includes('#EXTINF'));
-    const headerLine = content.split('\n')[0];
+    const linesOfContent = content.split('\n');
+    const headerLine = linesOfContent[0];
     const header = headerLine.startsWith('#EXTM3U') ? headerLine + '\n' : '#EXTM3U\n';
     
     let finalChannels = [];
@@ -61,47 +89,56 @@ async function processPlaylists() {
       let lines = blocks[i].trim().split('\n').map(l => l.trim());
       const linkIndex = lines.findLastIndex(l => l.startsWith('http'));
       
-      // Расчет процента выполнения
       const percent = (((i + 1) / blocks.length) * 100).toFixed(1);
 
-      if (linkIndex === -1) continue;
-
-      const currentLink = lines[linkIndex];
+      // Корректно берем первую строку блока для поиска имени канала
       const nameMatch = lines[0].match(/,(.*)$/);
       const name = nameMatch ? nameMatch[1].trim() : "Unknown";
 
-      process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)}`);
-      
-      // Проверка текущей ссылки (используем stream для стабильности)
-      const res = await http.get(currentLink, { responseType: 'stream' }).catch(() => ({ status: 500 }));
+      let needsReplacement = false;
 
-      if (res.status >= 200 && res.status < 400) {
-        console.log(` ✅ OK`);
-        finalChannels.push(lines.join('\n'));
+      // Если ссылки в блоке вообще нет (просто написано extinf)
+      if (linkIndex === -1) {
+        process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)} ⚠️ НЕТ ССЫЛКИ. Поиск...`);
+        needsReplacement = true;
       } else {
-        console.log(` ❌ МЕРТВ. Поиск...`);
+        // Если ссылка есть — проверяем её доступность
+        const currentLink = lines[linkIndex];
+        process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)}`);
+        
+        const res = await http.get(currentLink, { responseType: 'stream' }).catch(() => ({ status: 500 }));
+        
+        if (res.status >= 200 && res.status < 400) {
+          console.log(` ✅ OK`);
+          finalChannels.push(lines.join('\n'));
+        } else {
+          console.log(` ❌ МЕРТВ. Поиск...`);
+          needsReplacement = true;
+        }
+      }
+
+      // Блок поиска замены (для битых ссылок и для extinf без ссылок)
+      if (needsReplacement) {
         const result = await findReplacement(name);
         
         if (result) {
           console.log(`   ✨ ЗАМЕНА НАЙДЕНА`);
           
-          // Удаляем старые заголовки (Referer/UA) и старую группу
           let cleanLines = lines.filter(l => 
             !l.includes('#EXTVLCOPT:http-referrer') && 
             !l.includes('#EXTVLCOPT:http-user-agent') &&
-            !l.startsWith('#EXTGRP:')
+            !l.startsWith('#EXTGRP:') &&
+            !l.startsWith('http')
           );
 
-          // Если в источнике была группа — вставляем её сразу под #EXTINF
           if (result.group) {
             cleanLines.splice(1, 0, result.group);
           }
 
-          // Обновляем ссылку в последней строке
-          cleanLines[cleanLines.length - 1] = result.url;
+          cleanLines.push(result.url);
           finalChannels.push(cleanLines.join('\n'));
         } else {
-          console.log(`   🗑️ Удалено.`);
+          console.log(`   🗑️ Не найдено. Удалено.`);
         }
       }
     }
@@ -111,5 +148,3 @@ async function processPlaylists() {
 }
 
 processPlaylists().catch(console.error);
-
-
