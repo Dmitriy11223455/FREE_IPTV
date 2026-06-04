@@ -10,15 +10,15 @@ const http = axios.create({
 
 // ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (из первого сообщения)
 const REPLACEMENT_SOURCES = [
-  'https://github.io',
-  'https://drm-play.com'
+  'https://iptv-org.github.io/iptv/index.m3u',
+  'https://drm-play.com/iptv.php?tv=nodrm-1'
 ];
 
 // СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
-  'первый канал': 'https://ссылка-только-для-первого.m3u',
-  'discovery channel': 'https://ссылка-только-для-дискавери.m3u'
+  'россия 1': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1'
 };
 
 // Функция поиска канала внутри конкретного плейлиста
