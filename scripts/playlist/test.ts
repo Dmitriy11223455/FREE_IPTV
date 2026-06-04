@@ -10,7 +10,6 @@ const http = axios.create({
 
 // ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (опечатка в iptv-org исправлена)
 const REPLACEMENT_SOURCES = [
-  'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'https://iptv-org.github.io/iptv/index.m3u',
   'https://drm-play.com/iptv.php?tv=nodrm-1'
 ];
