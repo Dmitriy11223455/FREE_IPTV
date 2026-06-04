@@ -2342,7 +2342,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.mn" tvg-logo="https://i.imgur.com/R6hxJgl.png" group-title="General",Star TV (1080p)
-https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Starnet.in" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="General",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
