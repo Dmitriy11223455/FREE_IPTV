@@ -1,30 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1tv" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/1tv.png" group-title="Основные",Первый канал
-
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Основные",Рен ТВ HD
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Международные",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Международные",Звезда
-
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Основные",НТВ HD
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Международные",СТС
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 #EXTINF:-1 tvg-id="russia1" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Основные",RT
-
-#EXTINF:-1 tvg-id="mathtv" tvg-name="Матч ТВ" tvg-logo="https://iptvx.one/picons/mathtv.png" group-title="Основные",Матч ТВ
-
-#EXTINF:-1 tvg-id="tvchd" tvg-name="ТВЦ HD" tvg-logo="https://iptvx.one/picons/tvchd.png" group-title="Основные",ТВЦ HD
-
-#EXTINF:-1 tvg-id="tvc" tvg-name="ТВЦ" tvg-logo="https://iptvx.one/picons/tvc.png" group-title="Основные",ТВЦ
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Основные",ТНТ
-
-#EXTINF:-1 tvg-id="tnthd" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnthd.png" group-title="Основные",ТНТ HD
+http://31.148.48.15/TNT4/index.m3u8
