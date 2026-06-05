@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1tv" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/1tv.png" group-title="Основные",Первый канал
 
 #EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Основные",Рен ТВ HD
 
@@ -12,3 +13,6 @@
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Международные",СТС
 
+#EXTINF:-1 tvg-id="russia1" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
