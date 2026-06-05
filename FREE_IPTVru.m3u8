@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Основные",Рен ТВ HD
-
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
