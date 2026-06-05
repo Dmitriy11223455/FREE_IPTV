@@ -17,8 +17,15 @@ const REPLACEMENT_SOURCES = [
 // СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
-  'россия 1': 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1'
+  'россия 1': 'https://iptv-org.github.io/iptv/raw/ru_televizor24.m3u',
+  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'россия' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'спас' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'звезда' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'нтв hd' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'стс' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'rt' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'матч тв' : 'https://drm-play.com/iptv.php?tv=nodrm-1'
 };
 
 // Функция поиска канала внутри конкретного плейлиста
