@@ -41,9 +41,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru@SD",Рен ТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
