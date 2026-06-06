@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
+
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
