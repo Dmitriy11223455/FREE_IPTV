@@ -18,7 +18,7 @@ const REPLACEMENT_SOURCES = [
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'россия 1': 'https://iptv-org.github.io/iptv/raw/ru_televizor24.m3u',
-  'рен тв': 'https://iptv-org.gituub.io/iptv/raw/ru_televizor24.ru',
+  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'россия' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'спас' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'звезда' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
