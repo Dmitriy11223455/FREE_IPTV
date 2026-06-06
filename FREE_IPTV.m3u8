@@ -560,7 +560,7 @@ https://streaming.thestream.cyou/live/210.m3u8
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 #EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Региональные",Крым 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="Lugansk24.ua@SD" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
