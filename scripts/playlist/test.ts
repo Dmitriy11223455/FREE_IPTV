@@ -98,22 +98,22 @@ async function processPlaylists() {
       
       const percent = (((i + 1) / blocks.length) * 100).toFixed(1);
 
-      // Корректно берем первую строку блока для поиска имени канала
       const nameMatch = lines[0].match(/,(.*)$/);
       const name = nameMatch ? nameMatch[1].trim() : "Unknown";
 
       let needsReplacement = false;
 
-      // Если ссылки в блоке вообще нет (просто написано extinf)
       if (linkIndex === -1) {
         process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)} ⚠️ НЕТ ССЫЛКИ. Поиск...`);
         needsReplacement = true;
       } else {
-        // Если ссылка есть — проверяем её доступность
         const currentLink = lines[linkIndex];
         process.stdout.write(`[${percent}%] Проверка: ${name.padEnd(30)}`);
         
-        const res = await http.get(currentLink, { responseType: 'stream' }).catch(() => ({ status: 500 }));
+        // 🛠️ ИЗМЕНЕНИЕ ДЛЯ МЕДИАВИТРИНЫ №1: Очищаем текущую ссылку от хвоста '|', чтобы axios не выдавал ошибку 500
+        const cleanCheckLink = currentLink.split('|')[0].trim();
+        
+        const res = await http.get(cleanCheckLink, { responseType: 'stream' }).catch(() => ({ status: 500 }));
         
         if (res.status >= 200 && res.status < 400) {
           console.log(` ✅ OK`);
@@ -124,7 +124,6 @@ async function processPlaylists() {
         }
       }
 
-      // Блок поиска замены (для битых ссылок и для extinf без ссылок)
       if (needsReplacement) {
         const result = await findReplacement(name);
         
@@ -142,7 +141,10 @@ async function processPlaylists() {
             cleanLines.splice(1, 0, result.group);
           }
 
-          cleanLines.push(result.url);
+          // 🛠️ ИЗМЕНЕНИЕ ДЛЯ МЕДИАВИТРИНЫ №2: Очищаем найденную ссылку-замену от любого хвоста с '|' перед записью
+          const cleanResultUrl = result.url.split('|')[0].trim();
+
+          cleanLines.push(cleanResultUrl);
           finalChannels.push(cleanLines.join('\n'));
         } else {
           console.log(`   🗑️ Не найдено. Удалено.`);
