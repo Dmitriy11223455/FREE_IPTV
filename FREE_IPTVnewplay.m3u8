@@ -3,7 +3,7 @@
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1
-https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.4N-j3fbdAMGOQC-t4RkgTp_vptEwCE36ILapAeS8UjA.PCYytMoiyb2zsawCPZhrM7wZ01gX1lpGLWw3sZrwh-E.1781253378.30bd671edf3364199b7712830b92c2ce|Referer=https://player.mediavitrina.ruMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.4N-j3fbdAMGOQC-t4RkgTp_vptEwCE36ILapAeS8UjA.PCYytMoiyb2zsawCPZhrM7wZ01gX1lpGLWw3sZrwh-E.1781253378.30bd671edf3364199b7712830b92c2ce
 
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
