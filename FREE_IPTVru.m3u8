@@ -148,20 +148,11 @@ https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-3k_v5
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" group-title="Международные" ,Русский панк
-http://79.120.77.11:8000/punkru
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLM7Lj7z/2023-04-10-200831163.png" group-title="Международные" ,Русский рок
-http://79.120.77.11:8000/rockru
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
 http://icecast-newradio.cdnvideo.ru/newradio3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRk0745r/pop.jpg" group-title="Международные" ,Русские хиты 1980-1990х
-http://79.120.77.11:8000/80ru
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
