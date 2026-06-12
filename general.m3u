@@ -729,9 +729,6 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="General",Cusano Italia TV (720p)
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CVVisionTV.do" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="General",CV Vision TV [Geo-blocked]
-https://eu1.servers10.com:8081/8128/index.m3u8
-
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
@@ -842,9 +839,6 @@ https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="General",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-logo="https://i.imgur.com/u308o8q.png" group-title="General",Dien Bien TV (406p)
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es" tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="General",Diez TV Las Villas (1080p)
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
@@ -2608,7 +2602,6 @@ https://eu1.servers10.com:8081/8032/index.m3u8
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun (720p)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVColorCanal36.ec" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="General",TV Color Canal 36 (720p)
