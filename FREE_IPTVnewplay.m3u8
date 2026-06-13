@@ -1,99 +1,61 @@
 #EXTM3U
-
-# ==========================================
-# КАТЕГОРИЯ: ОБЩИЕ (РОССИЯ ДЛЯ ВСЕГО МИРА)
-# ==========================================
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общие",Россия 1
-https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.4N-j3fbdAMGOQC-t4RkgTp_vptEwCE36ILapAeS8UjA.PCYytMoiyb2zsawCPZhrM7wZ01gX1lpGLWw3sZrwh-E.1781253378.30bd671edf3364199b7712830b92c2ce
+https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.HfldOYH3FEqBGZW8e0wfvronFzpZBFCZfSI7haj6tuU.NRHRu_Iame6d_yLtAlcvG4l86Eg26rwHLKvz4IpuVwM.1781858982.7ddbcb6b253352c1c4a7add10a8b83f7
 
 #EXTINF:-1 tvg-id="NTV.ru@HD" group-title="Общие",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал Всемирная сеть" group-title="Общие",Первый канал (Всемирная сеть)
-ССЫЛКА_НА_ПОТОК
-
 #EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал" group-title="Общие",Первый канал
-
-
-#EXTINF:-1 tvg-id="rtr_planeta" tvg-name="РТР Планета" group-title="Общие",РТР Планета (Международный)
-
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv_mir" tvg-name="НТВ Мир" group-title="Общие",НТВ Мир
-
-
-#EXTINF:-1 tvg-id="tvc_intl" tvg-name="ТВ Центр Международный" group-title="Общие",ТВЦ Международный (TVCI)
-
-#EXTINF:-1 tvg-id="tvc" tvg-name="ТВ Центр" group-title="Общие",ТВЦ
-
+https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС International" group-title="Общие",СТС International
 ССЫЛКА_НА_ПОТОК
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ International" group-title="Общие",ТНТ International
 ССЫЛКА_НА_ПОТОК
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ International" group-title="Общие",РЕН ТВ
 ССЫЛКА_НА_ПОТОК
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний International" group-title="Общие",Домашний International
 ССЫЛКА_НА_ПОТОК
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 #EXTINF:-1 tvg-id="pyatnica_intl" tvg-name="Пятница International" group-title="Общие",Пятница! International
 ССЫЛКА_НА_ПОТОК
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
-#EXTINF:-1 tvg-id="tv3_intl" tvg-name="ТВ-3 International" group-title="Общие",ТВ-3 International
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="mir_tv" tvg-name="МИР" group-title="Общие",МИР (Межгосударственный)
-
-
-#EXTINF:-1 tvg-id="tnv_planeta" tvg-name="ТНВ Планета" group-title="Общие",ТНВ Планета (Татарстан)
-
-
-# ==========================================
-# КАТЕГОРИЯ: РЕГИОНАЛЬНЫЕ
-# ==========================================
 #EXTINF:-1 tvg-id="360.ru@SD" group-title="Региональные",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 # ==========================================
 # КАТЕГОРИЯ: НОВОСТИ И ИНФОРМАЦИЯ
 # ==========================================
-#EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24" group-title="Новости",Россия 24
 
+#EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24" group-title="Новости",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="mir24_tv" tvg-name="МИР 24" group-title="Новости",МИР 24
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="rt_doc_ru" tvg-name="RT Док" group-title="Новости",RT Док HD
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="izvestia_tv" tvg-name="Известия" group-title="Новости",Известия ТВ
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="rbc_tv" tvg-name="РБК" group-title="Новости",РБК ТВ
-ССЫЛКА_НА_ПОТОК
-
-# ==========================================
-# КАТЕГОРИЯ: КИНО И СЕРИАЛЫ
-# ==========================================
-#EXTINF:-1 tvg-id="pobeda_tv" tvg-name="Победа" group-title="Кино и Сериалы",Победа (Всемирная сеть)
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="dom_kino_intl" tvg-name="Дом Кино Международный" group-title="Кино и Сериалы",Дом Кино International
-ССЫЛКА_НА_ПОТОК
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dom_kino_premium" tvg-name="Дом Кино Премиум" group-title="Кино и Сериалы",Дом Кино Премиум HD
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="mosfilm_tv" tvg-name="Мосфильм. Золотая коллекция" group-title="Кино и Сериалы",Мосфильм. Золотая коллекция
-ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" group-title="Кино и Сериалы",Кинокомедия
 ССЫЛКА_НА_ПОТОК
+https://cityeden.catcast.tv/content/41331/index.m3u8
 
 #EXTINF:-1 tvg-id="rodnoe_kino" tvg-name="Родное Кино" group-title="Кино и Сериалы",Родное Кино
 ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 tvg-id="russkiy_illuzion" tvg-name="Русский Иллюзион" group-title="Кино и Сериалы",Русский Иллюзион
 ССЫЛКА_НА_ПОТОК
@@ -101,17 +63,11 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 # ==========================================
 # КАТЕГОРИЯ: ПОЗНАВАТЕЛЬНЫЕ
 # ==========================================
-#EXTINF:-1 tvg-id="vremya_tv" tvg-name="Время" group-title="Познавательные",Время (ВГТРК Всемирная сеть)
-ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Russkiy_illusion/index.m3u8
 
 #EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="nauka_tv" tvg-name="Наука" group-title="Познавательные",Наука 2.0
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="history_russia" tvg-name="365 дней ТВ" group-title="Познавательные",365 дней ТВ
-ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="chudo_lyudo" tvg-name="Живая Планета" group-title="Познавательные",Живая Планета
 ССЫЛКА_НА_ПОТОК
@@ -119,32 +75,18 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 # ==========================================
 # КАТЕГОРИЯ: ДЕТСКИЕ
 # ==========================================
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+
 #EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Детские",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="karusel_intl" tvg-name="Карусель International" group-title="Детские",Карусель International
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="o_tv" tvg-name="О!" group-title="Детские",О! (Международный)
-ССЫЛКА_НА_ПОТОК
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
 #EXTINF:-1 tvg-id="mult_tv" tvg-name="Мульт" group-title="Детские",Мульт
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="multimusic" tvg-name="Мультимузыка" group-title="Детские",Мультимузыка
-ССЫЛКА_НА_ПОТОК
-
-# ==========================================
-# КАТЕГОРИЯ: МУЗЫКА
-# ==========================================
-#EXTINF:-1 tvg-id="muztv" tvg-name="МУЗ-ТВ" group-title="Музыка",МУЗ-ТВ Международный
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="ru_tv" tvg-name="RU.TV" group-title="Музыка",RU.TV International
-ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="zhara_tv" tvg-name="Жара ТВ" group-title="Музыка",Жара ТВ
-ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Mult_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="shanson_tv" tvg-name="Шансон ТВ" group-title="Музыка",Шансон ТВ
 ССЫЛКА_НА_ПОТОК
@@ -152,11 +94,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 # ==========================================
 # КАТЕГОРИЯ: СПОРТ
 # ==========================================
-#EXTINF:-1 tvg-id="match_tv_intl" tvg-name="Матч! Планета" group-title="Спорт",Матч! Планета (Международный)
-ССЫЛКА_НА_ПОТОК
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match_boec" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец
 ССЫЛКА_НА_ПОТОК
-
-#EXTINF:-1 tvg-id="khl_tv" tvg-name="КХЛ ТВ" group-title="Спорт",КХЛ ТВ (Континентальная Хоккейная Лига)
-ССЫЛКА_НА_ПОТОК
+http://31.148.48.15/Match_Boec/index.m3u8
