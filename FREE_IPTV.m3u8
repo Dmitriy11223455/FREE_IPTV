@@ -86,9 +86,6 @@ https://streaming.skyconnecting.top/live/250-req_offset_28000000-req_window_0-3k
 #EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3.png" group-title="Основные",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5.png" group-title="Основные",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
@@ -463,9 +460,6 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="Информационные и новости",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="Международные",Francophonie (360p)
-http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="Информационные и новости",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8

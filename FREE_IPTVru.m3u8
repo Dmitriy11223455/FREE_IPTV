@@ -31,15 +31,6 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1.png" group-title="Основные",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 HD" tvg-logo="https://iptvx.one/picons/belarus2.png" group-title="Основные",Беларусь 2 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3.png" group-title="Основные",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5.png" group-title="Основные",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 
