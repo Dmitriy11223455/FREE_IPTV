@@ -12,24 +12,22 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС International" group-title="Общие",СТС International
-ССЫЛКА_НА_ПОТОК
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ International" group-title="Общие",ТНТ International
-ССЫЛКА_НА_ПОТОК
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ International" group-title="Общие",РЕН ТВ
-ССЫЛКА_НА_ПОТОК
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний International" group-title="Общие",Домашний International
-ССЫЛКА_НА_ПОТОК
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 #EXTINF:-1 tvg-id="pyatnica_intl" tvg-name="Пятница International" group-title="Общие",Пятница! International
-ССЫЛКА_НА_ПОТОК
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+
+#EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница" group-title="Общие",Пятница!
+
 
 #EXTINF:-1 tvg-id="360.ru@SD" group-title="Региональные",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -39,34 +37,23 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 # ==========================================
 
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24" group-title="Новости",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="mir24_tv" tvg-name="МИР 24" group-title="Новости",МИР 24
-ССЫЛКА_НА_ПОТОК
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dom_kino_premium" tvg-name="Дом Кино Премиум" group-title="Кино и Сериалы",Дом Кино Премиум HD
-ССЫЛКА_НА_ПОТОК
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" group-title="Кино и Сериалы",Кинокомедия
-ССЫЛКА_НА_ПОТОК
 https://cityeden.catcast.tv/content/41331/index.m3u8
 
 #EXTINF:-1 tvg-id="rodnoe_kino" tvg-name="Родное Кино" group-title="Кино и Сериалы",Родное Кино
-ССЫЛКА_НА_ПОТОК
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 tvg-id="russkiy_illuzion" tvg-name="Русский Иллюзион" group-title="Кино и Сериалы",Русский Иллюзион
-ССЫЛКА_НА_ПОТОК
+
 
 # ==========================================
 # КАТЕГОРИЯ: ПОЗНАВАТЕЛЬНЫЕ
 # ==========================================
-http://31.148.48.15/Russkiy_illusion/index.m3u8
+
 
 #EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
-ССЫЛКА_НА_ПОТОК
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="chudo_lyudo" tvg-name="Живая Планета" group-title="Познавательные",Живая Планета
@@ -94,7 +81,7 @@ http://31.148.48.15/Mult_HD/index.m3u8
 # ==========================================
 # КАТЕГОРИЯ: СПОРТ
 # ==========================================
-https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="match_boec" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец
 ССЫЛКА_НА_ПОТОК
