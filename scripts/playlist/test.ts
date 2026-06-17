@@ -18,14 +18,14 @@ const REPLACEMENT_SOURCES = [
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'россия 1': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
-  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'рен тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'россия' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'спас' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'звезда' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'нтв hd' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'стс' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'звезда' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
+  'нтв hd' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
+  'стс' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'rt' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'матч тв' : 'https://drm-play.com/iptv.php?tv=nodrm-1'
+  'матч тв' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u'
 };
 
 // Функция поиска канала внутри конкретного плейлиста
