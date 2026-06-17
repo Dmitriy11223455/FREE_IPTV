@@ -18,7 +18,7 @@ https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ International" group-title="Общие",РЕН ТВ
-
+https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.2AXW0bVzPdGh5uTydR79u0o5Kr_1IIVKfj8RCsgTZw8.zHP-31ze0flAOOs0ScAx_GtXykzPKVfAzGspjfSPncw.1782208875.f3f3b05096c3c6eb52c7f02b428bb487
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний International" group-title="Общие",Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
@@ -27,7 +27,7 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
 #EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница" group-title="Общие",Пятница!
-
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
 #EXTINF:-1 tvg-id="360.ru@SD" group-title="Региональные",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -37,7 +37,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 # ==========================================
 
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24" group-title="Новости",Россия 24
-
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" group-title="Кино и Сериалы",Кинокомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
@@ -51,7 +51,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 # ==========================================
 # КАТЕГОРИЯ: ПОЗНАВАТЕЛЬНЫЕ
 # ==========================================
-
+http://31.148.48.15/Russkiy_illusion/index.m3u8
 
 #EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
@@ -81,7 +81,7 @@ http://31.148.48.15/Mult_HD/index.m3u8
 # ==========================================
 # КАТЕГОРИЯ: СПОРТ
 # ==========================================
-
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match_boec" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец
 ССЫЛКА_НА_ПОТОК
