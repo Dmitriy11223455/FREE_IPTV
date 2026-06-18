@@ -1,82 +1,86 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
-# ============================================================================
-# КАТЕГОРИЯ: РОССИЯ: ОБЩИЕ HD
-# ============================================================================
-#EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал 
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1
+https://edge01d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.uhyKrn05fVVeW5Pny47Pj7MkeozCtDOS44T6IFFe7Ok.GvXbW-SmqLp_sr8cyx3BVU26XtBTN8ITO3WEbFgyK8A.1782378480.c2810fed4fcc1c8bb8debdaaf56e1767
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 
+#EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
+https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.YZ7mbjXiNRg6E8uIbZlNLkRtgZgQO0qwapvouM2N_xU.kgagG3GX1-VWc85V0uLwcyAc5MzWSmDbV8PZWPkGS-0.1782378534.fe998fc05382ba36a2f76bbf1e356197
 
-#EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24 
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
+http://31.148.48.15/NTV/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ 
+#EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts_intl_hd.png" group-title="Россия: Общие",СТС
+https://edge02r.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.tnQj4-ejPsqvb_4fI8d6aqmLkADmag7VW17e8MiJzYU.RWKhuicNHiJnVsvr-Sswo7BMp_GeczSXsza8mhnZvQA.1782378804.9673bd80812e9b7a3a11e458ae0653c9
 
-#EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts_intl_hd.png" group-title="Россия: Общие",СТС 
+#EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
+http://31.148.48.15/TNT4/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ 
+#EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
+https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.onRT1BPumFABPOm6RXEVRKlYj-Zqx3p9Q8hUWtuHvHY.RfLGV6HNf5Ki4orU2wtnvWLvTC2uRYMj5WywUdgpXLk.1782378507.e50ee54fb1d2823ca293d0dddf9501fd
 
-#EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ 
+#EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница! HD" tvg-logo="https://iptvx.one/picons/pyatnica_hd.png" group-title="Россия: Общие",Пятница!
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
-#EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница! HD" tvg-logo="https://iptvx.one/picons/pyatnica_hd.png" group-title="Россия: Общие",Пятница! 
+#EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
-#EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний 
+#EXTINF:-1 tvg-id="tvc" tvg-name="ТВ Центр HD" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Россия: Общие",ТВ Центр
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 
-#EXTINF:-1 tvg-id="tvc" tvg-name="ТВ Центр HD" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Россия: Общие",ТВ Центр 
+#EXTINF:-1 tvg-id="5channel" tvg-name="Пятый канал HD" tvg-logo="https://iptvx.one/picons/5channel_hd.png" group-title="Россия: Общие",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="5channel" tvg-name="Пятый канал HD" tvg-logo="https://iptvx.one/picons/5channel_hd.png" group-title="Россия: Общие",Пятый канал 
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
+https://edge02d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.yYrI6lVTTbSnkAUOrkYTusSyc0nE2Btm2BMD8UkBvK0.CLL3AKn4Ei8KG8roI_48IOIELptTKjjEDOq3zuFUGqU.1782378709.4e4c7612c1a109fa6e2bb088a6435ee3
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда 
+#EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
-#EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас 
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Россия: Общие",ОТР
+http://31.148.48.15/OTR/index.m3u8
 
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Россия: Общие",ОТР 
+#EXTINF:-1 tvg-id="tv3" tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Россия: Общие",ТВ-3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
-#EXTINF:-1 tvg-id="tv3" tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Россия: Общие",ТВ-3 
-
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Россия: Общие",Мир 
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Россия: Общие",Мир
 
 
 # ============================================================================
 # КАТЕГОРИЯ: РОССИЯ: СПОРТ HD
 # ============================================================================
-#EXTINF:-1 tvg-id="match" tvg-name="Матч ТВ HD" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Россия: Спорт",Матч ТВ 
+https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 
-#EXTINF:-1 tvg-id="match_strana" tvg-name="Матч! Страна HD" tvg-logo="https://iptvx.one/picons/match_strana_hd.png" group-title="Россия: Спорт",Матч! Страна 
+#EXTINF:-1 tvg-id="match" tvg-name="Матч ТВ HD" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Россия: Спорт",Матч ТВ
+https://edge01p.mediavitrina.ru/hls-livef6/matchtv/tracks-v3a1/mono.m3u8?token=v2.lV-PIJkSFTzyWz9h4REMyamH1xGNQ-A3RktyYZKd6vk.syEHB_G2a04ULjM8Wr8-YGwkIcCdZ54FWj9uCqwXcHo.1782378613.3b350339c9363b188f8136037116a35b
 
-#EXTINF:-1 tvg-id="khl_tv" tvg-name="КХЛ ТВ HD" tvg-logo="https://iptvx.one/picons/khl_tv_hd.png" group-title="Россия: Спорт",КХЛ ТВ 
+#EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия HD" tvg-logo="https://iptvx.one/picons/kinokomediya_hd.png" group-title="Россия: Кино",Кинокомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
 
-#EXTINF:-1 tvg-id="khl_premier" tvg-name="КХЛ Prime HD" tvg-logo="https://iptvx.one/picons/khl_premier_hd.png" group-title="Россия: Спорт",КХЛ Prime 
+#EXTINF:-1 tvg-id="rodnoe_kino" tvg-name="Родное Кино HD" tvg-logo="https://iptvx.one/picons/rodnoe_kino_hd.png" group-title="Россия: Кино",Родное Кино
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 
+#EXTINF:-1 tvg-id="russkiy_illuzion" tvg-name="Русский Иллюзион HD" tvg-logo="https://iptvx.one/picons/russkiy_illuzion_hd.png" group-title="Россия: Кино",Русский Иллюзион
+http://31.148.48.15/Russkiy_illusion/index.m3u8
 
-# ============================================================================
-# КАТЕГОРИЯ: РОССИЯ: КИНО HD
-# ============================================================================
-#EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия HD" tvg-logo="https://iptvx.one/picons/kinokomediya_hd.png" group-title="Россия: Кино",Кинокомедия 
+#EXTINF:-1 tvg-id="illusion_plus" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvx.one/picons/illusion_plus_hd.png" group-title="Россия: Кино",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
 
-#EXTINF:-1 tvg-id="rodnoe_kino" tvg-name="Родное Кино HD" tvg-logo="https://iptvx.one/picons/rodnoe_kino_hd.png" group-title="Россия: Кино",Родное Кино 
+#EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета HD" tvg-logo="https://iptvx.one/picons/moya_planeta_hd.png" group-title="Россия: Познавательные",Моя Планета
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="russkiy_illuzion" tvg-name="Русский Иллюзион HD" tvg-logo="https://iptvx.one/picons/russkiy_illuzion_hd.png" group-title="Россия: Кино",Русский Иллюзион 
+#EXTINF:-1 tvg-id="chudo_lyudo" tvg-name="Живая Планета HD" tvg-logo="https://iptvx.one/picons/chudo_lyudo_hd.png" group-title="Россия: Познавательные",Живая Планета
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 
-#EXTINF:-1 tvg-id="illusion_plus" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvx.one/picons/illusion_plus_hd.png" group-title="Россия: Кино",Иллюзион+ 
-
-#EXTINF:-1 tvg-id="kinohit" tvg-name="Кинохит HD" tvg-logo="https://iptvx.one/picons/kinohit_hd.png" group-title="Россия: Кино",Кинохит 
-
-#EXTINF:-1 tvg-id="muzhskoe_kino" tvg-name="Мужское Кино HD" tvg-logo="https://iptvx.one/picons/muzhskoe_kino_hd.png" group-title="Россия: Кино",Мужское Кино 
-
-
-# ============================================================================
-# КАТЕГОРИЯ: ПОЗНАВАТЕЛЬНЫЕ И ДЕТСКИЕ HD
-# ============================================================================
-#EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета HD" tvg-logo="https://iptvx.one/picons/moya_planeta_hd.png" group-title="Россия: Познавательные",Моя Планета 
-
-#EXTINF:-1 tvg-id="chudo_lyudo" tvg-name="Живая Планета HD" tvg-logo="https://iptvx.one/picons/chudo_lyudo_hd.png" group-title="Россия: Познавательные",Живая Планета 
-
-#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель HD" tvg-logo="https://iptvx.one/picons/karusel_hd.png" group-title="Россия: Детские",Карусель 
+#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель HD" tvg-logo="https://iptvx.one/picons/karusel_hd.png" group-title="Россия: Детские",Карусель
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
 #EXTINF:-1 tvg-id="mult_tv" tvg-name="Мульт HD" tvg-logo="https://iptvx.one/picons/mult_tv_hd.png" group-title="Россия: Детские",Мульт
+http://31.148.48.15/Mult_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-name="Солнце HD" tvg-logo="https://iptvx.one/picons/Solnce.ru@SD_hd.png" group-title="Россия: Детские",Солнце
-
-#EXTINF:-1 tvg-id="bridge_tv" tvg-name="Bridge TV HD" tvg-logo="https://iptvx.one/picons/bridge_tv_hd.png" group-title="Россия: Музыка",Bridge TV
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ru_tv" tvg-name="RU.TV HD" tvg-logo="https://iptvx.one/picons/ru_tv_hd.png" group-title="Россия: Музыка",RU.TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
