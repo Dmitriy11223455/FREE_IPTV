@@ -2839,7 +2839,7 @@ http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel Santa Cruz
-https://xtream.videx.lol/Yoshiro/admin/338.m3u8
+https://master.tucableip.com/muxunitelsc/index.m3u8
 
 #EXTINF:-1 tvg-id="UniTV.ve" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="General",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
