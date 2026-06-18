@@ -11,7 +11,8 @@ const http = axios.create({
 // ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (из первого сообщения)
 const REPLACEMENT_SOURCES = [
   'https://iptv-org.github.io/iptv/index.m3u',
-  'https://drm-play.com/iptv.php?tv=nodrm-1'
+  'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u'
 ];
 
 // СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
