@@ -20,7 +20,7 @@ const REPLACEMENT_SOURCES = [
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'россия 1': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'рен тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
-  'россия' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'россия 24' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u,
   'спас' : 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'звезда' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'нтв hd' : 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
