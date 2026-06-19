@@ -2135,7 +2135,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.sn" tvg-logo="https://i.imgur.com/HHGktpF.png" group-title="General",RTS 1 (720p)
-http://69.64.57.208/rts1/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTV38.it" tvg-logo="https://i.imgur.com/YOlwudm.png" group-title="General",RTV38 (576p)
 https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
