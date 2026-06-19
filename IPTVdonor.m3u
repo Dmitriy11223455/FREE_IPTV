@@ -3,6 +3,8 @@
 # Каналов: 433
 # Версия: 0.4
 
+#EXTINF:-1 ,Россия 1
+https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.HfldOYH3FEqBGZW8e0wfvronFzpZBFCZfSI7haj6tuU.NRHRu_Iame6d_yLtAlcvG4l86Eg26rwHLKvz4IpuVwM.1781858982.7ddbcb6b253352c1c4a7add10a8b83f7
 #EXTINF:-1 ,360 Новости
 http://85.25.46.88:8000/play/a002/index.m3u8
 #EXTINF:-1 ,360°
