@@ -157,9 +157,6 @@ http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
-http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
-
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Международные",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 

@@ -2299,9 +2299,6 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="SulaTV.hn@SD" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="General",Super Channel 12 (1080p) [Geo-blocked]
-https://servilive.com:3263/live/channel12live.m3u8
-
 #EXTINF:-1 tvg-id="SuperTV.it" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="General;Series",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 
@@ -2494,9 +2491,6 @@ https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
 
 #EXTINF:-1 tvg-id="TribeTV.in" tvg-logo="https://i.imgur.com/zG2P1WZ.png" group-title="General",Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu (1080p) [Not 24/7]
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
 #EXTINF:-1 tvg-id="TRT.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="General",TRT (410p) [Not 24/7]
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8

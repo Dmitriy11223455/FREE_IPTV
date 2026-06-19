@@ -161,9 +161,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Информационные и новости",Нижний Новгород 24 HD
-https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
-
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Основные",Новый Век HD (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
@@ -283,9 +280,6 @@ http://hitfm.hostingradio.ru/hitfm96.aacp
 
 #EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
-http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Международные",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
