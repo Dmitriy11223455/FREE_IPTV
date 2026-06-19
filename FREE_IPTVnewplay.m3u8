@@ -3,22 +3,21 @@
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1
-https://edge01d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.uhyKrn05fVVeW5Pny47Pj7MkeozCtDOS44T6IFFe7Ok.GvXbW-SmqLp_sr8cyx3BVU26XtBTN8ITO3WEbFgyK8A.1782378480.c2810fed4fcc1c8bb8debdaaf56e1767
 
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
-https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.YZ7mbjXiNRg6E8uIbZlNLkRtgZgQO0qwapvouM2N_xU.kgagG3GX1-VWc85V0uLwcyAc5MzWSmDbV8PZWPkGS-0.1782378534.fe998fc05382ba36a2f76bbf1e356197
+
 
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
 http://31.148.48.15/NTV/index.m3u8
 
 #EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts_intl_hd.png" group-title="Россия: Общие",СТС
-https://edge02r.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.tnQj4-ejPsqvb_4fI8d6aqmLkADmag7VW17e8MiJzYU.RWKhuicNHiJnVsvr-Sswo7BMp_GeczSXsza8mhnZvQA.1782378804.9673bd80812e9b7a3a11e458ae0653c9
+
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
 http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.onRT1BPumFABPOm6RXEVRKlYj-Zqx3p9Q8hUWtuHvHY.RfLGV6HNf5Ki4orU2wtnvWLvTC2uRYMj5WywUdgpXLk.1782378507.e50ee54fb1d2823ca293d0dddf9501fd
+
 
 #EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница! HD" tvg-logo="https://iptvx.one/picons/pyatnica_hd.png" group-title="Россия: Общие",Пятница!
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
