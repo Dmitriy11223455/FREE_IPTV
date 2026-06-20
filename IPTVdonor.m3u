@@ -1052,9 +1052,6 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Перец
 http://178.124.153.123:44400/peretz
 
-#EXTINF:-1 ,Пинск ТВ
-http://178.124.207.1:1780/tvp
-
 #EXTINF:-1 ,Победа
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 

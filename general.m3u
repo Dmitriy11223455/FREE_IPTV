@@ -2264,7 +2264,7 @@ https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="General",Sol TV (720p)
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SorTV.md" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
 http://188.237.212.16:8888/live/cameraFeed.m3u8
