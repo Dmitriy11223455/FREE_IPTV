@@ -192,7 +192,7 @@ http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Da Vinci
-http://starcius-cinema.com/11588/index.m3u8?token=010101010101
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 
 #EXTINF:-1 ,Da Vinci
 https://s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
@@ -1012,9 +1012,6 @@ http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 ,О!
 http://iptv46.mcx-ix.ru:8077/o_/index.m3u8
-
-#EXTINF:-1 ,Океан HD
-http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
 
 #EXTINF:-1 ,Окко.Спорт 2
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
