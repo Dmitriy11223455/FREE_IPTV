@@ -348,7 +348,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-http://85.117.37.41/mezzo/index.m3u8
+http://tmptv.sunduk.tv/CH97/index.m3u8
 
 #EXTINF:-1 ,Mezzo
 https://s70378.cdn.ngenix.net/mezzo/2/index.m3u8
@@ -621,7 +621,7 @@ http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Viju TV1000
-http://85.117.37.41/tv1000/index.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
@@ -633,7 +633,7 @@ http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Viju TV1000 русское
-http://85.117.37.41/tv1000ru/index.m3u8
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 
 #EXTINF:-1 ,Viju TV1000 Русское
 http://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -776,9 +776,6 @@ http://46.32.64.39:10014
 #EXTINF:-1 ,Домашний HD
 http://ott.watch/stream/6HAPZWKKG3/227.m3u8
 
-#EXTINF:-1 ,Домашний Int.
-http://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
 #EXTINF:-1 ,Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 
@@ -849,10 +846,10 @@ http://31.131.141.195:8000/play/1080/index.m3u8
 https://streaming.goodstream.cyou/live/232.m3u8
 
 #EXTINF:-1 ,Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 ,КИНО ТВ
-http://vod.tuva.ru/kinotv/index.m3u8
+http://31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
@@ -943,9 +940,6 @@ http://185.71.81.6:8080/20/index.m3u8
 
 #EXTINF:-1 ,Муз ТВ
 http://46.32.64.39:10020
-
-#EXTINF:-1 ,Муз ТВ
-http://85.117.37.41/muztv/index.m3u8
 
 #EXTINF:-1 ,Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
@@ -1111,9 +1105,6 @@ https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-
-#EXTINF:-1 ,Рен ТВ int.
-http://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 ,Ретро
 http://176.118.197.101/Retro/index.m3u8
