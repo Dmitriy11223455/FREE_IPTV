@@ -39,7 +39,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 http://31.148.48.15/NTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-name="Рен ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Резерв",Рен ТВ
-https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.2AXW0bVzPdGh5uTydR79u0o5Kr_1IIVKfj8RCsgTZw8.zHP-31ze0flAOOs0ScAx_GtXykzPKVfAzGspjfSPncw.1782208875.f3f3b05096c3c6eb52c7f02b428bb487
+https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.YRntIClejzcCoeiXfSPXFnKxaaA33USmHGKikK3-qNE.nrCKBoJn4cKWkK4LRZjlvh9S-wHxcxTdt56snupQhAM.1782729058.8219eafaf2211b038cb026f9718101f4
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
 https://edge02r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.vPH7wOZPzHj10L4_DVQNRlY1v4_Ymg0yN8dziYTYyWM.KGxWXgTaWnkLPG0My6NYyrilEzNF0s9fT3pbJnrXHvc.1782465814.13bf588645a17a834ccea6072683036b
@@ -160,9 +160,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Основные",Новый Век HD (Тамбов)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Международные",НТС Севастополь
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
@@ -363,7 +360,7 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
 #EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-id="TVA.ua" tvg-country="UA" group-title="Международные",TVA
-https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
 
 #EXTINF:-1 tvg-id="SolovievLive" tvg-name="Соловёв LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Международные", Соловьёв LIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/index.m3u8
