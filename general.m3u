@@ -3057,9 +3057,6 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="General",НВК Саха (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="General",Нижний Новгород 24 (720p) [Not 24/7]
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="General",Ника ТВ (576p) [Not 24/7]
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 

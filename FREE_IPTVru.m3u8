@@ -241,9 +241,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Белгород)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Биробиджан)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8
-
 #EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Брянск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
 
