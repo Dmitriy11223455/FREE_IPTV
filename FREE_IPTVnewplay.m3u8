@@ -33,7 +33,7 @@ https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
-https://edge02d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.yYrI6lVTTbSnkAUOrkYTusSyc0nE2Btm2BMD8UkBvK0.CLL3AKn4Ei8KG8roI_48IOIELptTKjjEDOq3zuFUGqU.1782378709.4e4c7612c1a109fa6e2bb088a6435ee3
+https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.YkmjgCgyMBUNsA1YgiMn7YupUbcuRwA9xil4J-8aBkg.cy1rjbecsVOHoMN_hpX5eu6JGEbYdFN0DxCQ3rFjvKo.1782980355.ad6d3e33449cf76923240ddee18e2d5a
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -53,7 +53,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match" tvg-name="Матч ТВ HD" tvg-logo="https://iptvx.one/picons/match_hd.png" group-title="Россия: Спорт",Матч ТВ
-https://edge01p.mediavitrina.ru/hls-livef6/matchtv/tracks-v3a1/mono.m3u8?token=v2.lV-PIJkSFTzyWz9h4REMyamH1xGNQ-A3RktyYZKd6vk.syEHB_G2a04ULjM8Wr8-YGwkIcCdZ54FWj9uCqwXcHo.1782378613.3b350339c9363b188f8136037116a35b
+https://edge01d.mediavitrina.ru/hls-livef6/matchtv/tracks-v3a1/mono.m3u8?token=v2.8HdLFv9a9maDA98J9MFYLdkh9d3V5H7C2hG-1Cybwxw.7mg5sPYqbR5ffnvlvJ2N3ljYKVJ-c2aGgB703RuJ2oA.1782980259.c1f7d171ff5c7e8bb57ebbed8f65c8e3
 
 #EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия HD" tvg-logo="https://iptvx.one/picons/kinokomediya_hd.png" group-title="Россия: Кино",Кинокомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8

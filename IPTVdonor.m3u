@@ -320,9 +320,6 @@ http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 ,Kiss Kiss HD IT
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 
-#EXTINF:-1 ,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
 #EXTINF:-1 ,Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 
@@ -1086,7 +1083,7 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 http://46.32.64.39:10011
 
 #EXTINF:-1 ,Рен ТВ
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.onRT1BPumFABPOm6RXEVRKlYj-Zqx3p9Q8hUWtuHvHY.RfLGV6HNf5Ki4orU2wtnvWLvTC2uRYMj5WywUdgpXLk.1782378507.e50ee54fb1d2823ca293d0dddf9501fd
+https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.Dfbow5yLbmszqVa2L9870p02BuCKBL7N3xnceG6JLgI._BCiaG_G25W61kYP_obWg3VvuV8-r_lalPZA9Hx51WU.1782980153.edf84f1e577e7162d3e63cc200743947
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
