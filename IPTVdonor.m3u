@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1
-https://edge02r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.vPH7wOZPzHj10L4_DVQNRlY1v4_Ymg0yN8dziYTYyWM.KGxWXgTaWnkLPG0My6NYyrilEzNF0s9fT3pbJnrXHvc.1782465814.13bf588645a17a834ccea6072683036b
+https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.soKiBoOnlLsjnXgHl1PJKiiojOI8O85I00nJMtR6Hvw.q2P1GpgQZIPI3ZMAMJS5TFkQFr13zewogv0aA-lRwoI.1783066961.87fd177b000eee5153fdf90789a35295
 
 #EXTINF:-1 ,360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -795,7 +795,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://46.32.64.39:10017
 
 #EXTINF:-1 ,Звезда
-https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.6buICkweD-BXLxZunFOkIrCnxQbtTxBSKBqEz7qLO7U.KWv81J-h79JksjHBJZAkIM1Pj8C1Mvjyg38rDNg4oZc.1782466042.c7ed8847e4ae0451e8de90fe89e01064
+https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.Le5TcvAKknDCNMB1KipAUMarjjLxPjqIc3x5y5tzMBs.CJw1gQvls69QRHAhr8x543yF5JnHuyme7RqEc9yD1M0.1783067190.36cb30d2da18c77d89af04839be42529
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
