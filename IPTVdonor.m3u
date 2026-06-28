@@ -339,7 +339,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-http://tmptv.sunduk.tv/CH97/index.m3u8
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 ,Mezzo
 https://s70378.cdn.ngenix.net/mezzo/2/index.m3u8
@@ -462,7 +462,7 @@ https://jmp2.uk/stvp-DEBC2300001EU
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 ,RETRO MUSIC
-https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 ,RTG HD
 https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
@@ -817,9 +817,6 @@ http://46.32.176.50/istoriya/index.m3u8
 
 #EXTINF:-1 ,Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Капитан Фантастика
-https://s06.watcher.uz/122/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 ,Карусель
 http://46.32.64.39:10008
