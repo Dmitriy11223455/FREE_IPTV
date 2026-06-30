@@ -578,9 +578,6 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
 #EXTINF:-1 ,UNIVERᴴᴰ
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
 
-#EXTINF:-1 ,VeleS Movie Hits
-http://starcius-cinema.com/10328/index.m3u8?token=010101010101
-
 #EXTINF:-1 ,VeleS Premiere
 http://starcius-cinema.com/10325/index.m3u8?token=010101010101
 
@@ -615,7 +612,7 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Viju TV1000 Action
 http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -888,7 +885,7 @@ http://s8.rafail1982.uz/1244/tracks-v1a1a1/mono.m3u8
 http://31.148.48.15/Mama/index.m3u8
 
 #EXTINF:-1 ,Мир
-https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 ,МИР
 http://31.131.141.195:8000/play/a003/index.m3u8
