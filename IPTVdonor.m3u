@@ -195,7 +195,7 @@ https://s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 ,Das Erste
-https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
 #EXTINF:-1 ,Deluxe Dance HD
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
@@ -381,7 +381,7 @@ http://starcius-cinema.com/11583/index.m3u8?token=010101010101
 https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 ,National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+http://213.91.179.28:8000/play/a0ct
 
 #EXTINF:-1 ,National Geographic Wild HD
 http://149.71.34.166:8002/play/a012/index.m3u8
@@ -438,7 +438,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 http://ott.watch/stream/6HAPZWKKG3/196.m3u8
 
 #EXTINF:-1 ,Polsat Sport Premium 1
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
+http://91.146.94.234:10001/play/a05a
 
 #EXTINF:-1 ,PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
@@ -759,7 +759,7 @@ https://streaming.thestream.cyou/live/44.m3u8
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Домашний
-http://46.32.64.39:10014
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 #EXTINF:-1 ,Домашний HD
 http://ott.watch/stream/6HAPZWKKG3/227.m3u8
@@ -789,7 +789,7 @@ http://185.57.68.33/40/index.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-http://46.32.64.39:10017
+https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.3ZIozN_3I-JYOvZMMs_HDfbBfxUh0z_oBUQ470FGkf0.UWPa8k4MybGRaXzn5WQCuuEVJsFJseyjRVQaop7ZOWA.1783412847.1291a55a1ef7ec3291c7d555213d95cb
 
 #EXTINF:-1 ,Звезда
 https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.Le5TcvAKknDCNMB1KipAUMarjjLxPjqIc3x5y5tzMBs.CJw1gQvls69QRHAhr8x543yF5JnHuyme7RqEc9yD1M0.1783067190.36cb30d2da18c77d89af04839be42529
@@ -816,7 +816,7 @@ http://46.32.176.50/istoriya/index.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Карусель
-http://46.32.64.39:10008
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
 #EXTINF:-1 ,Карусель
 http://194.152.35.17/Karusel/index.m3u8
@@ -919,9 +919,6 @@ https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Муз ТВ
 http://185.71.81.6:8080/20/index.m3u8
-
-#EXTINF:-1 ,Муз ТВ
-http://46.32.64.39:10020
 
 #EXTINF:-1 ,Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
@@ -1074,7 +1071,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-http://46.32.64.39:10011
+https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.mRbJPz37q3Sf82Mik7oxQVQ22IC1-BP0B03xkafc3JM.GMdGA6nsyUiOtqOB3-f_mxg1PeghepkOOiOsqxyqOfE.1783412619.bc0ebf58bf339327ac2b33c606d3111b
 
 #EXTINF:-1 ,Рен ТВ
 https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.Dfbow5yLbmszqVa2L9870p02BuCKBL7N3xnceG6JLgI._BCiaG_G25W61kYP_obWg3VvuV8-r_lalPZA9Hx51WU.1782980153.edf84f1e577e7162d3e63cc200743947
@@ -1086,7 +1083,7 @@ http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 ,Россия 24
-http://46.32.64.39:10007
+https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.CSGCsOX-j6AFtO8wY85HsEMdB2V0Gb24nh9TQvsPVtM.8u6TAC07NfMDSozjmBNWc0bA85MS-LWz-TxVjbt4xow.1783412647.5f258839eaadc58394c4da743484c725
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1158,7 +1155,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-http://46.32.64.39:10013
+https://edge01r.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.7a_ejb6eeqL6sFqExGDOehIwpee85eNXfzlMf9O16wc.lvAtL3U6KIuKLhehmEw98T7j5JkbG7ifOC2uA1ls-_w.1783412944.73873867e0f13bf487218b8755bd45ef
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
