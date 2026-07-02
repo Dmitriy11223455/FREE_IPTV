@@ -170,8 +170,8 @@ async function handleRequest(request) {
   } catch (e) {
     return new Response('Worker Error: ' + e.message, { status: 500, headers: corsHeaders });
   }
-}
-
+}```
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ВАШ_GITHUB_ЛОГІН/FREE_IPTV)
 
 ⚠️ Важное ограничение (Cloudflare Free)
 
