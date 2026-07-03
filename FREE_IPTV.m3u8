@@ -348,7 +348,7 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-id="ITV.ua" tvg-country="UA" group-title="Международные",ITV
-http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTK TV" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" tvg-id="NTKTV.ua" tvg-country="UA" group-title="Международные",NTK TV
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
