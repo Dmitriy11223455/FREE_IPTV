@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1
-https://edge02d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.soKiBoOnlLsjnXgHl1PJKiiojOI8O85I00nJMtR6Hvw.q2P1GpgQZIPI3ZMAMJS5TFkQFr13zewogv0aA-lRwoI.1783066961.87fd177b000eee5153fdf90789a35295
+https://edge02r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.7wVHnQRibKj38kC5rsXdQk5eLrfO-1WtX_btf7g-PMY.F8CYQHs14Wkdt71e-wErp_8kG2zgGzMzaQGB4DUT0Xk.1783669960.92ff4fb8c2a86f5d9894c8929e7a7d97
 
 #EXTINF:-1 ,360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -668,15 +668,6 @@ http://89.104.114.24:8080/art/index.m3u8?token=test
 #EXTINF:-1 ,БЕЛАРУСЬ 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
 
-#EXTINF:-1 ,БЕЛАРУСЬ 1 SD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-
-#EXTINF:-1 ,Беларусь 2 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,БЕЛАРУСЬ 2 SD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w_b1460000_sleng.m3u8
-
 #EXTINF:-1 ,Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -684,16 +675,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
 
 #EXTINF:-1 ,БЕЛАРУСЬ 24ᴴᴰ
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,БЕЛАРУСЬ 24ᴴᴰ
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1873224608_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,БЕЛАРУСЬ 3 SD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w_b1460000_sleng.m3u8
 
 #EXTINF:-1 ,Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
@@ -792,7 +774,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.3ZIozN_3I-JYOvZMMs_HDfbBfxUh0z_oBUQ470FGkf0.UWPa8k4MybGRaXzn5WQCuuEVJsFJseyjRVQaop7ZOWA.1783412847.1291a55a1ef7ec3291c7d555213d95cb
 
 #EXTINF:-1 ,Звезда
-https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.Le5TcvAKknDCNMB1KipAUMarjjLxPjqIc3x5y5tzMBs.CJw1gQvls69QRHAhr8x543yF5JnHuyme7RqEc9yD1M0.1783067190.36cb30d2da18c77d89af04839be42529
+https://edge02d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.YTJlxMiXbp6kk6uOBzfUnX26eikBgELLEsphk-QramY.U6l9fNinndpQ9UMzbayC4YIarrQSMWgXyfDxpF3JVi8.1783670212.091ad139b7e49cd773122381a6c42d1d
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -983,9 +965,6 @@ http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 ,О!
 http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 ,Окко.Спорт 2
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
 
@@ -1003,9 +982,6 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 
 #EXTINF:-1 ,Охотник и рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Первый информационный HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
@@ -1165,9 +1141,6 @@ http://31148.rafail1982.uz/STS_Love/index.m3u8
 
 #EXTINF:-1 ,Т24
 http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1 ,Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
