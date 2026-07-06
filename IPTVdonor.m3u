@@ -986,9 +986,6 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 
-#EXTINF:-1 ,Первый канал +4 HD
-http://103.157.248.140:8000/play/a010/index.m3u8
-
 #EXTINF:-1 ,Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 
