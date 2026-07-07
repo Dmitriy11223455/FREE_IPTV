@@ -39,7 +39,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 http://31.148.48.15/NTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-name="Рен ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Резерв",Рен ТВ
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.2J6Zpu-vcqQA0zxTz7Xz8Tro1mjYjkj1aNntkYA1y8c.X_kpD71YOajDIquj7aYvf9AJyu8q5IFrQORREvZjwLE.1783329650.ec0481fe8cafd731f0afd724b8adaaf0
+https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.OV04pETgPRMI8cXywn0rqNRkBpZhTpNtnzwV3dbR2MM.G2hq83yhvfIRpdGLbg5ytulnLOuIhth-RfVB218zsgI.1783932826.b2ccd2fd570884b71cf2fd72e6d01ef1
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
 https://edge02r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.7wVHnQRibKj38kC5rsXdQk5eLrfO-1WtX_btf7g-PMY.F8CYQHs14Wkdt71e-wErp_8kG2zgGzMzaQGB4DUT0Xk.1783669960.92ff4fb8c2a86f5d9894c8929e7a7d97
@@ -82,9 +82,6 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 https://streaming.skyconnecting.top/live/250-req_offset_28000000-req_window_0-3k_v5.m3u8
-
-#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3.png" group-title="Основные",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8

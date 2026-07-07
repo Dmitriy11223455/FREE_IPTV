@@ -665,9 +665,6 @@ https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92
 #EXTINF:-1 ,Арт
 http://89.104.114.24:8080/art/index.m3u8?token=test
 
-#EXTINF:-1 ,БЕЛАРУСЬ 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
-
 #EXTINF:-1 ,Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -676,9 +673,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
 
 #EXTINF:-1 ,БЕЛАРУСЬ 24ᴴᴰ
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1873224608_b5160000_sleng.m3u8
-
-#EXTINF:-1 ,Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
