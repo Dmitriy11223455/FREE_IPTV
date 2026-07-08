@@ -68,9 +68,6 @@ http://ott.watch/stream/6HAPZWKKG3/114.m3u8
 #EXTINF:-1 ,Animal Planet HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Antena 1 HD
-https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
-
 #EXTINF:-1 ,Astana TV
 http://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
@@ -693,9 +690,6 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 http://46.32.176.50/Vremya/index.m3u8
 
 #EXTINF:-1 ,Время
-http://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1 ,Время
 http://31148.rafail1982.uz/Vremya/index.m3u8
 
 #EXTINF:-1 ,Вся Уфа
@@ -765,7 +759,7 @@ http://185.57.68.33/40/index.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.3ZIozN_3I-JYOvZMMs_HDfbBfxUh0z_oBUQ470FGkf0.UWPa8k4MybGRaXzn5WQCuuEVJsFJseyjRVQaop7ZOWA.1783412847.1291a55a1ef7ec3291c7d555213d95cb
+https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.aSJOOdzVdksPZ14iV2tD_du8zmGM_DL4XZ1Zku_a2zk.6SrlcdYQPAzCTYLujRfU9_d4hXm1cHFvLy4x5XXWdzs.1784016981.8069a1f1d87d5750b251cfef443ca23a
 
 #EXTINF:-1 ,Звезда
 https://edge02d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.YTJlxMiXbp6kk6uOBzfUnX26eikBgELLEsphk-QramY.U6l9fNinndpQ9UMzbayC4YIarrQSMWgXyfDxpF3JVi8.1783670212.091ad139b7e49cd773122381a6c42d1d
@@ -781,9 +775,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 ,Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-
-#EXTINF:-1 ,ИНФОКАНАЛ
-https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
 
 #EXTINF:-1 ,История
 http://46.32.176.50/istoriya/index.m3u8
@@ -1038,7 +1029,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.mRbJPz37q3Sf82Mik7oxQVQ22IC1-BP0B03xkafc3JM.GMdGA6nsyUiOtqOB3-f_mxg1PeghepkOOiOsqxyqOfE.1783412619.bc0ebf58bf339327ac2b33c606d3111b
+https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.C78wXLNJDnEXr7DyYGdhcrXaUVf2d4SGyJAHaGyqUXg.CacZbdbIyXfczyYAfcHkwWWQbW9XPHvS6TNhQSMIRsE.1784016774.c3008883cc71d9f9837c5aca7507fc09
 
 #EXTINF:-1 ,Рен ТВ
 https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.F3FunYSdkXCh5GZJC1UQtp28yCCj2yVWLFo01APGL-g.VVMLr0lkpNA5bUtC3YP5-8F-Kt3ClPXZU1-9vXQqKMY.1783583915.ffc24924440dd5a050d44ae53b938986
@@ -1050,7 +1041,7 @@ http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.CSGCsOX-j6AFtO8wY85HsEMdB2V0Gb24nh9TQvsPVtM.8u6TAC07NfMDSozjmBNWc0bA85MS-LWz-TxVjbt4xow.1783412647.5f258839eaadc58394c4da743484c725
+https://edge01r.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.cBdma6XMjIRF6vZJrDK3igYuWOjUx4D2rR9Ca5xZ6Vg._-cbDlsKNLSKQvQrhErHCI7803hrAGFP8w3YekUL5M0.1784016802.bd9328b4572e45efdddb67d0c00f7b82
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1122,7 +1113,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://edge01r.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.7a_ejb6eeqL6sFqExGDOehIwpee85eNXfzlMf9O16wc.lvAtL3U6KIuKLhehmEw98T7j5JkbG7ifOC2uA1ls-_w.1783412944.73873867e0f13bf487218b8755bd45ef
+https://edge02d.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.6k19UQDV7gicxS0esrZAGiMmfmdyCsz9PvmczvglrmA.i0Z7hA7cZeqZ8PZUg3tJ-9Ee9l89iMvwvnkAHCNfm3c.1784017079.8744cafe6d57af56a8fa05a67fa74325
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
