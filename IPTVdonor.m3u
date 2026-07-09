@@ -372,9 +372,6 @@ https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Nat Geo Wild HD
-http://starcius-cinema.com/11583/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,Nat Geo Wild HD
 https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 ,National Geographic
@@ -589,9 +586,6 @@ http://starcius-cinema.com/10327/index.m3u8?token=010101010101
 
 #EXTINF:-1 ,VeleS Страшное
 http://starcius-cinema.com/10326/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,Viasat Explore HD
-http://starcius-cinema.com/11587/index.m3u8?token=010101010101
 
 #EXTINF:-1 ,Viasat Serial HD
 http://ott.watch/stream/6HAPZWKKG3/263.m3u8
