@@ -42,7 +42,7 @@ http://31.148.48.15/NTV/index.m3u8
 https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.OV04pETgPRMI8cXywn0rqNRkBpZhTpNtnzwV3dbR2MM.G2hq83yhvfIRpdGLbg5ytulnLOuIhth-RfVB218zsgI.1783932826.b2ccd2fd570884b71cf2fd72e6d01ef1
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
-https://edge02r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.7wVHnQRibKj38kC5rsXdQk5eLrfO-1WtX_btf7g-PMY.F8CYQHs14Wkdt71e-wErp_8kG2zgGzMzaQGB4DUT0Xk.1783669960.92ff4fb8c2a86f5d9894c8929e7a7d97
+https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.a8LKzuGv6B0SokWlBPY4kmhF-dU0vj8shpDfTJf-9hg.r25iXLr86tSQvrD32EOCcak8O867fFPHUqXfBJiOnG0.1784275989.144a14beb869e72e7f7c670666f885f2
 
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Основные",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
