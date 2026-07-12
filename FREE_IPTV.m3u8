@@ -242,9 +242,6 @@ http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Международные",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
 
-#EXTINF:-1 tvg-logo="https://static.rustore.ru/imgproxy/SnFhQqCbJ3AznrTrDxfWy_NZyV6kmzE93hs6SbyIAF0/preset:vk_og_img/plain/https://static.rustore.ru/apk/2063585983/content/ICON/b6ff122e-15ef-402c-a291-cc5e4378648a.png@webp" group-title="Радио",Наше радио
-http://nashe1.hostingradio.ru/nashespb128.mp3
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 

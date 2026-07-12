@@ -689,7 +689,7 @@ https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
 https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 
 #EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/cQWNh3L.png" group-title="General",CRTV
-http://69.64.57.208/crtv/playlist.m3u8
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/512px-%C4%8CT1_logo_2012.svg.png" group-title="General",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8

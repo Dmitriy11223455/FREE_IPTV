@@ -55,9 +55,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b
 
-#EXTINF:-1 tvg-id="rtr-planeta-sng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-
 #EXTINF:-1 tvg-id="rtr-planeta-asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Азиа
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 
