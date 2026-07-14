@@ -405,7 +405,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mp
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
 #EXTINF:-1 ,Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://213.91.179.28:8000/play/a056
 
 #EXTINF:-1 ,Nickelodeon
 https://s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
@@ -432,7 +432,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 http://ott.watch/stream/6HAPZWKKG3/196.m3u8
 
 #EXTINF:-1 ,Polsat Sport Premium 1
-http://91.146.94.234:10001/play/a05a
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
 
 #EXTINF:-1 ,PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
@@ -786,7 +786,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=c2306ba2ac251c135ace029dfff9ab3fd871b0d7-a9ca20de52a900a001c4e0fad18ad4da-1783851727-1783840927&remote=135.232.200.34
+https://server1.musical.uz/karusel_web/index.m3u8?token=3487e0a48ac196e4b88c3048decb58955fdd4be8-1a1ac49f34460f1f8e86ee0f5a180f70-1783940427-1783929627&remote=172.214.47.36
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
