@@ -753,7 +753,7 @@ http://185.57.68.33/40/index.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.aSJOOdzVdksPZ14iV2tD_du8zmGM_DL4XZ1Zku_a2zk.6SrlcdYQPAzCTYLujRfU9_d4hXm1cHFvLy4x5XXWdzs.1784016981.8069a1f1d87d5750b251cfef443ca23a
+https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.RgkXnkoWra_yeGRNcUunOjaZOKBQKAMX-nfSPn6hKTU.bUUC_k2t4isq1rJIPvMSgG-b3PzDP74vQZx3vvQMyog.1784617416.5a351573d40f9f250323f2f83f1679e2
 
 #EXTINF:-1 ,Звезда
 https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.0lmP0TOe3qOqDSXJmhARwAVjNKgF9jZebFS9E399ILQ.lote4fTNFHJE6gEVyPV8f5YKZyZjqEz4U39BCXnfRTA.1784276224.3caa64d0acb8f09c059f4fb69401c4e3
@@ -768,7 +768,7 @@ https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 ,Иллюзион+
-http://176.118.197.101/Illuzion+/index.m3u8
+http://31.148.48.15/Illusion_plus/index.m3u8
 
 #EXTINF:-1 ,История
 http://46.32.176.50/istoriya/index.m3u8
@@ -786,7 +786,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=3487e0a48ac196e4b88c3048decb58955fdd4be8-1a1ac49f34460f1f8e86ee0f5a180f70-1783940427-1783929627&remote=172.214.47.36
+https://server1.musical.uz/karusel_web/index.m3u8?token=b2ce982d781b41949532e4ecee2c1a5ddaf55e0e-4bf402de212e53c569558e104e37e47b-1784023329-1784012529&remote=20.51.199.17
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -817,9 +817,6 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 ,Крым 24
 https://streaming.televizor-24-tochka.ru/live/28-req_offset_28000000-req_window_0-1k_v5.m3u8
-
-#EXTINF:-1 ,Курай ТВ
-http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 
 #EXTINF:-1 ,Кухня
 http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
@@ -1017,7 +1014,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.C78wXLNJDnEXr7DyYGdhcrXaUVf2d4SGyJAHaGyqUXg.CacZbdbIyXfczyYAfcHkwWWQbW9XPHvS6TNhQSMIRsE.1784016774.c3008883cc71d9f9837c5aca7507fc09
+https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.NDjW_uDpXRQTGPzNr9jDc-KPUYXj0krP42zE1gr0ncE.oYlt5qxXOqzXKOCLt_BAGG98jX3sXe9PmnCGZg-nfak.1784617165.03c7a9cb08992def7eac329c18639979
 
 #EXTINF:-1 ,Рен ТВ
 https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.T9eAJBSxTpWgEYphNawX-tV1Y6qC-Te5I35eYNgGcOk.gh3b0OjYgGKL6wPQwA127Bfs-TzpUQEtfV_dkC5gHmM.1784099907.3dc5f840dcb218c992178a43eb025f7d
@@ -1025,11 +1022,8 @@ https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
-#EXTINF:-1 ,Ретро
-http://176.118.197.101/Retro/index.m3u8
-
 #EXTINF:-1 ,Россия 24
-https://edge01r.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.cBdma6XMjIRF6vZJrDK3igYuWOjUx4D2rR9Ca5xZ6Vg._-cbDlsKNLSKQvQrhErHCI7803hrAGFP8w3YekUL5M0.1784016802.bd9328b4572e45efdddb67d0c00f7b82
+https://edge01r.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.W12wUiv-Ut4MzFWATdF8AWuRYoKJpsY9Fy6dObOz2vk.G36bU1oFXoUWEYddmcJbIMIBPcCGyUyVQfhO5YHFwgo.1784617193.783274c2cc6b83ab2dd1ccb225900ac1
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1101,7 +1095,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://edge02d.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.6k19UQDV7gicxS0esrZAGiMmfmdyCsz9PvmczvglrmA.i0Z7hA7cZeqZ8PZUg3tJ-9Ee9l89iMvwvnkAHCNfm3c.1784017079.8744cafe6d57af56a8fa05a67fa74325
+https://edge02d.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.4lFlI2H7CR1XdFyyYlyUJyGb4U9k1qXFlNVWdi-aXKo.CgpzZtW9BogQM3eydnGdYMIydSNvOYBm0K7AG1OgJt4.1784617511.f30f6678982561c73f13e04948c15b34
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
