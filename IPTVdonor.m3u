@@ -59,9 +59,6 @@ http://ott.watch/stream/6HAPZWKKG3/306.m3u8
 #EXTINF:-1 ,ANI
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 ,Animal Planet
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
-
 #EXTINF:-1 ,Animal Planet HD
 http://ott.watch/stream/6HAPZWKKG3/114.m3u8
 
@@ -78,7 +75,7 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/in
 http://89.218.32.179:18000/play/a028
 
 #EXTINF:-1 ,BBC Earth
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 ,BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -91,9 +88,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1 ,BBC Earth
 https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231&ads._fw_ifa_type=&ads._fw_did=52d98173-95f7-4fa4-937a-10d013dc4316&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCEarth&ads.csid=xumo_web_BBCEarth_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3921&ads.xumo_contentName=BBCEarth&ads.xumo_providerId=3921&ads.xumo_providerName=BBCEarth&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951231&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 ,BBC World News
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
 
 #EXTINF:-1 ,Black
 https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
@@ -173,9 +167,6 @@ http://ott.watch/stream/D17LBTRCERA/474.m3u8
 #EXTINF:-1 ,CineMan Фитнес
 http://starcius-cinema.com/10322/index.m3u8?token=010101010101
 
-#EXTINF:-1 ,Cinemax
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-
 #EXTINF:-1 ,Da Vinci
 http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
@@ -249,7 +240,7 @@ http://ott.watch/stream/6HAPZWKKG3/420.m3u8
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
 #EXTINF:-1 ,Food Network
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 
 #EXTINF:-1 ,Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
@@ -399,7 +390,7 @@ http://46.32.176.50/nickelodeonjunior/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/220.m3u8
 
 #EXTINF:-1 ,Nick Jr
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
+http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 
 #EXTINF:-1 ,Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
@@ -669,7 +660,7 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 ,БСТ
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 
 #EXTINF:-1 ,В мире животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
@@ -746,9 +737,6 @@ http://ott.watch/stream/6HAPZWKKG3/83.m3u8
 #EXTINF:-1 ,Живая природа HD
 https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-#EXTINF:-1 ,Загородная Жизнь
-http://185.57.68.33/40/index.m3u8
-
 #EXTINF:-1 ,Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
@@ -786,7 +774,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=b2ce982d781b41949532e4ecee2c1a5ddaf55e0e-4bf402de212e53c569558e104e37e47b-1784023329-1784012529&remote=20.51.199.17
+https://server1.musical.uz/karusel_web/index.m3u8?token=6aa880def7010b2d79949fee401e8a1de6e77e8c-bf9f1e6f87306c2452ab8d67a44bfa2b-1784109907-1784099107&remote=172.178.119.123
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -1010,14 +998,11 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 ,РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1 ,РГВК Дагестан
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-
 #EXTINF:-1 ,Рен ТВ
 https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.NDjW_uDpXRQTGPzNr9jDc-KPUYXj0krP42zE1gr0ncE.oYlt5qxXOqzXKOCLt_BAGG98jX3sXe9PmnCGZg-nfak.1784617165.03c7a9cb08992def7eac329c18639979
 
 #EXTINF:-1 ,Рен ТВ
-https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.T9eAJBSxTpWgEYphNawX-tV1Y6qC-Te5I35eYNgGcOk.gh3b0OjYgGKL6wPQwA127Bfs-TzpUQEtfV_dkC5gHmM.1784099907.3dc5f840dcb218c992178a43eb025f7d
+https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.kZgN_EgbpnjQzGxxcwXbHM0UQ6_s2LeleO9iwUhp8EM.WvJ9akxUSDPJZf3G7t4EKl6cBYpdNEft62qYSQVRxM0.1784703767.0f61c8c4388743c376c729a2fd57bb41
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -1081,12 +1066,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
 #EXTINF:-1 ,Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-
-#EXTINF:-1 ,Союзный
-http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 ,Спас
-http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 ,СТС
 http://176.118.197.101/CTC/index.m3u8
