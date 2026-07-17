@@ -177,7 +177,7 @@ http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 
 #EXTINF:-1 ,Da Vinci
-https://s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 
 #EXTINF:-1 ,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -774,7 +774,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=6aa880def7010b2d79949fee401e8a1de6e77e8c-bf9f1e6f87306c2452ab8d67a44bfa2b-1784109907-1784099107&remote=172.178.119.123
+https://server.musical.uz/karusel_web/index.m3u8?token=679c981351410d1261176c0d3472260e5379154a-c80902597116548b669c8d09ba0b7860-1784196856-1784186056&remote=64.236.201.57
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
