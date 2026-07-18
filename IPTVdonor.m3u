@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1
-https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.a8LKzuGv6B0SokWlBPY4kmhF-dU0vj8shpDfTJf-9hg.r25iXLr86tSQvrD32EOCcak8O867fFPHUqXfBJiOnG0.1784275989.144a14beb869e72e7f7c670666f885f2
+https://edge01d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.xARB-4naOPA-gh1Y0w3IJwKKlVsXR8TPpv8XqvIJqZQ.E-uN6Mz0xH6gm5KqlRpexDndB-NX-XOT977xgAO3ENI.1784876759.f8881883ac3c8d26a769e92cd1d1688b
 
 #EXTINF:-1 ,360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -744,7 +744,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.RgkXnkoWra_yeGRNcUunOjaZOKBQKAMX-nfSPn6hKTU.bUUC_k2t4isq1rJIPvMSgG-b3PzDP74vQZx3vvQMyog.1784617416.5a351573d40f9f250323f2f83f1679e2
 
 #EXTINF:-1 ,Звезда
-https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.0lmP0TOe3qOqDSXJmhARwAVjNKgF9jZebFS9E399ILQ.lote4fTNFHJE6gEVyPV8f5YKZyZjqEz4U39BCXnfRTA.1784276224.3caa64d0acb8f09c059f4fb69401c4e3
+https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.uyWZFEQl4s1FI2DZdRHBXZiT1_NetvEHt46Sso2JgLY.PeQSi6HF9xHCTo_YnqIeJXvqxT5v63hZ23Hdzicw84g.1784877012.1ff1d05d1ac01bbc929e17f6790c8b72
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -774,7 +774,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=679c981351410d1261176c0d3472260e5379154a-c80902597116548b669c8d09ba0b7860-1784196856-1784186056&remote=64.236.201.57
+https://server1.musical.uz/karusel_web/index.m3u8?token=54b3e0b50c66f365c1736921a304af8875470c15-b42cc44bedc7f0c7c84b4726fa2615b0-1784282926-1784272126&remote=20.55.87.142
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -811,9 +811,6 @@ http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
 
 #EXTINF:-1 ,Лавстори HD
 http://starcius-cinema.com/10114/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,Липецкое время
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
 
 #EXTINF:-1 ,Любимое Кино
 http://46.32.176.50/lubimoekino/index.m3u8
