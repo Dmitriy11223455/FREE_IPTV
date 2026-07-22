@@ -741,7 +741,7 @@ https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.RgkXnkoWra_yeGRNcUunOjaZOKBQKAMX-nfSPn6hKTU.bUUC_k2t4isq1rJIPvMSgG-b3PzDP74vQZx3vvQMyog.1784617416.5a351573d40f9f250323f2f83f1679e2
+https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.FXEeqmHFp-WjtEFClduFTIp3weqoG4cWe3ickx62gFU.5gfYOzP-ydpwwosiclBK4fjAFSyq7qdwvGNpWXQRvV4.1785223677.187473fead7e01f713b173107ee7a914
 
 #EXTINF:-1 ,Звезда
 https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.uyWZFEQl4s1FI2DZdRHBXZiT1_NetvEHt46Sso2JgLY.PeQSi6HF9xHCTo_YnqIeJXvqxT5v63hZ23Hdzicw84g.1784877012.1ff1d05d1ac01bbc929e17f6790c8b72
@@ -774,7 +774,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=81e8480abe3505832634b1eb5d67ff015bd43b22-018d5581541ee404eeb803bb0ad1b249-1784544644-1784533844&remote=4.155.111.53
+https://server1.musical.uz/karusel_web/index.m3u8?token=73c777cbd55443d421e55f02cbef945f03c725a4-94e4f801c61f118ebb0b40039d74f085-1784629596-1784618796&remote=52.159.246.8
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -996,7 +996,7 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://edge02r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.NDjW_uDpXRQTGPzNr9jDc-KPUYXj0krP42zE1gr0ncE.oYlt5qxXOqzXKOCLt_BAGG98jX3sXe9PmnCGZg-nfak.1784617165.03c7a9cb08992def7eac329c18639979
+https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.f_bgmYOif8My2m8D42E6-Xcde2yDeAolKPGadHWYJAw.W1Y75ACDrMcFE_b4fz-i0AxSH7PC6KydYfl1oKGmH_8.1785223446.f4f013ad716adc72e48620c9da0c470a
 
 #EXTINF:-1 ,Рен ТВ
 https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.kZgN_EgbpnjQzGxxcwXbHM0UQ6_s2LeleO9iwUhp8EM.WvJ9akxUSDPJZf3G7t4EKl6cBYpdNEft62qYSQVRxM0.1784703767.0f61c8c4388743c376c729a2fd57bb41
@@ -1005,7 +1005,7 @@ https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://edge01r.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.W12wUiv-Ut4MzFWATdF8AWuRYoKJpsY9Fy6dObOz2vk.G36bU1oFXoUWEYddmcJbIMIBPcCGyUyVQfhO5YHFwgo.1784617193.783274c2cc6b83ab2dd1ccb225900ac1
+https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v4a1/mono.m3u8?token=v2.gPn5pUVx1lJAZLBTj1ulnynUXrryu7pAi8tWBw2pO7I.a3j_L2sSHmGp2xAgonWWSPu8Rpw_N2bnT-Z9kbbms88.1785223474.6da5f3b572619e002c8a2dd44728cec6
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1071,7 +1071,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://edge02d.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.4lFlI2H7CR1XdFyyYlyUJyGb4U9k1qXFlNVWdi-aXKo.CgpzZtW9BogQM3eydnGdYMIydSNvOYBm0K7AG1OgJt4.1784617511.f30f6678982561c73f13e04948c15b34
+https://edge01d.mediavitrina.ru/hls-livef6/ctc/tracks-v4a1/mono.m3u8?token=v2.PQFyrew_V-8kf7_GDPn5Cl-0Jy7JrgRPUXi-qpLjXc4.gAW-CPJDkzq-ts36ia7rTnaHox3r0mbHZPUkyHTDM1s.1785223775.05f73b4a365b86f0359fd68ee92af00d
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
