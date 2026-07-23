@@ -1201,7 +1201,7 @@ https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KantipurTV.np" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="General",Kaumudy TV (720p)
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8

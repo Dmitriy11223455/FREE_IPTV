@@ -33,7 +33,7 @@ https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
-https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.CqE9oGK6hwryrk_ojCXZLZ2Sr7CL1GOgjHJgdYGynPw.0pJPJQqYFaDQp-4W6lT6HF3sAY6S1UiM2xHhvih5eW0.1784703993.c316cdc30cce1cc85672974068e25a4c
+https://edge02d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.Rzq99JVPzIkIVxkDy469Z-Y6nO3l4oCSF_FUGPGgr0E.fmjVh58xrfhklk-Pbt3xY_fwwvTD3Y2b4c1VKvicLfQ.1785310297.edebcdddc65c5e1a2ce0bc8a19537859
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
