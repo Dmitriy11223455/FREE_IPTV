@@ -41,9 +41,6 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="General",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
-#EXTINF:-1 tvg-id="KERODT1.us" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="General",23 ABC Bakersfield CA (KERO) (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
 #EXTINF:-1 tvg-id="28kanala.es@SD" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="General",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 
@@ -70,9 +67,6 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
 #EXTINF:-1 tvg-id="KTNVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png" group-title="General",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-
-#EXTINF:-1 tvg-id="KNXVDT1.us" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="General",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 
 #EXTINF:-1 tvg-id="KXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC 25 News Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
@@ -570,9 +564,6 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBNTV.vg" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="General",CBN TV (720p)
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KMTVDT1.us" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="General",CBS 3 Omaha NE (KMTV-TV) (720p)
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -1253,9 +1244,6 @@ https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
 
 #EXTINF:-1 tvg-id="KRISDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KRIS-DT1 (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-
-#EXTINF:-1 tvg-id="KSBYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KSBY News San Louis Obispo CA (720p)
-https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 
 #EXTINF:-1 tvg-id="KSHBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KSHB 41 (Kansas City MO) (720p)
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
@@ -2341,7 +2329,7 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="General",Telemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+http://108.181.20.255:27347/livehttpplay?channel_id=23002
 
 #EXTINF:-1 tvg-id="Telenorte.pr" tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="General",Telenorte (720p)
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8

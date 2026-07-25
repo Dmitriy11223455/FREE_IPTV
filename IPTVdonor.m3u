@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1
-https://edge01d.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.xARB-4naOPA-gh1Y0w3IJwKKlVsXR8TPpv8XqvIJqZQ.E-uN6Mz0xH6gm5KqlRpexDndB-NX-XOT977xgAO3ENI.1784876759.f8881883ac3c8d26a769e92cd1d1688b
+https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.D-CWYhpFQDBtkUYA9QQPfVK3EOv4aZpu2bYJbXE9CDg.sfZwY1Tdf18udguu9ed5Dy5rwF1Ak7UswNH-Drj3WGc.1785482508.95e16d98f75fa8ae80b55d8c4f53b6be
 
 #EXTINF:-1 ,360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -339,7 +339,7 @@ http://live-3.otcnet.ru/Mezzo/index.m3u8
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 
 #EXTINF:-1 ,Mezzo Live
-https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
+http://stream.mcquack.net/276/index.m3u8
 
 #EXTINF:-1 ,Milliy TV UZ
 https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -372,7 +372,7 @@ http://213.91.179.28:8000/play/a0ct
 http://149.71.34.166:8002/play/a012/index.m3u8
 
 #EXTINF:-1 ,NBA TV Canada
-http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+https://sra72yz.s.gy/NBA_TV_CANADA
 
 #EXTINF:-1 ,NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
@@ -465,7 +465,7 @@ http://46.32.176.50/sonyscifi/index.m3u8
 https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 ,Star Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 
 #EXTINF:-1 ,Star Family
 http://starcius-cinema.com/10191/index.m3u8?token=010101010101
@@ -520,9 +520,6 @@ https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131
 
 #EXTINF:-1 ,Trash HD
 http://starcius-cinema.com/10206/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,Travel XP
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
 #EXTINF:-1 ,Travel+Adventureᴴᴰ
 http://ott.watch/stream/6HAPZWKKG3/206.m3u8
@@ -741,7 +738,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 https://edge01r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.FXEeqmHFp-WjtEFClduFTIp3weqoG4cWe3ickx62gFU.5gfYOzP-ydpwwosiclBK4fjAFSyq7qdwvGNpWXQRvV4.1785223677.187473fead7e01f713b173107ee7a914
 
 #EXTINF:-1 ,Звезда
-https://edge02r.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.uyWZFEQl4s1FI2DZdRHBXZiT1_NetvEHt46Sso2JgLY.PeQSi6HF9xHCTo_YnqIeJXvqxT5v63hZ23Hdzicw84g.1784877012.1ff1d05d1ac01bbc929e17f6790c8b72
+https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.oUCUqzwegoeucDgrrO8XxkDT135_QmKIS2wH08QhxhY.fmfNVifdcLu27a8ik0EwmtSTgAGTnPCWw7-wiZcs_M8.1785482761.851f8d2e6c51b619a82b190dab4bd096
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -771,7 +768,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=55df4bb9b03cf228dcb28edff93d983441624004-87e7551c7b9d8fd07e4f82a55a0c9e63-1784802405-1784791605&remote=64.236.153.102
+https://server.musical.uz/karusel_web/index.m3u8?token=92c183e1ef501bc3b8aad5c90343a056a71e6e0f-6a723941dfd0baa867fa5a9e594432ce-1784888675-1784877875&remote=20.161.44.182
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
