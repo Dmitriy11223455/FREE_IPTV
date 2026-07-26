@@ -768,7 +768,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=92c183e1ef501bc3b8aad5c90343a056a71e6e0f-6a723941dfd0baa867fa5a9e594432ce-1784888675-1784877875&remote=20.161.44.182
+https://server1.musical.uz/karusel_web/index.m3u8?token=e467fe071e7f3e818cd7fa41caf81c515a41deca-2eaacdef2969a4ce2e732ca8f92bfb2d-1784974123-1784963323&remote=64.236.144.100
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
