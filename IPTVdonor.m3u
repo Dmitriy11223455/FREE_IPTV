@@ -390,7 +390,7 @@ http://46.32.176.50/nickelodeonjunior/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/220.m3u8
 
 #EXTINF:-1 ,Nick Jr
-http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
 
 #EXTINF:-1 ,Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
@@ -546,19 +546,10 @@ https://jmp2.uk/stvp-INBD1300012GJ
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 #EXTINF:-1 ,UNIVER
-https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
 
 #EXTINF:-1 ,Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-
-#EXTINF:-1 ,UNIVERᴴᴰ
-http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-
-#EXTINF:-1 ,UNIVERᴴᴰ
-http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
-
-#EXTINF:-1 ,UNIVERᴴᴰ
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
 
 #EXTINF:-1 ,VeleS Premiere
 http://starcius-cinema.com/10325/index.m3u8?token=010101010101
@@ -728,9 +719,6 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живая Планета
 http://ott.watch/stream/6HAPZWKKG3/83.m3u8
 
-#EXTINF:-1 ,Живая природа HD
-https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
 #EXTINF:-1 ,Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
@@ -768,7 +756,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=e467fe071e7f3e818cd7fa41caf81c515a41deca-2eaacdef2969a4ce2e732ca8f92bfb2d-1784974123-1784963323&remote=64.236.144.100
+https://server1.musical.uz/karusel_web/index.m3u8?token=debea13ebb9368d2becb0e1c826984f83fb48de0-85be7bb84e18c52f468e05992a7cf2dd-1785151538-1785140738&remote=64.236.192.148
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8

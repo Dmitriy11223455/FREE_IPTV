@@ -38,9 +38,6 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Резерв",НТВ
 http://31.148.48.15/NTV/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-name="Рен ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Резерв",Рен ТВ
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v4a1/mono.m3u8?token=v2.7wCyvtMym3JO-sy2dVpAg7j4bzDRRMmFQ-yedN1PqCY.vqDts0BbUefkDytDI2tlgGva0_YZLTB1GMXY6233sh8.1785138495.d9c722da3df4e550602d823849a8072e
-
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
 https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.D-CWYhpFQDBtkUYA9QQPfVK3EOv4aZpu2bYJbXE9CDg.sfZwY1Tdf18udguu9ed5Dy5rwF1Ak7UswNH-Drj3WGc.1785482508.95e16d98f75fa8ae80b55d8c4f53b6be
 
