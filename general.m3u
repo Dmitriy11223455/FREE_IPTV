@@ -2326,7 +2326,7 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="General",Telemundo West (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23002
+http://181.119.108.43:9001/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-id="Telenorte.pr" tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="General",Telenorte (720p)
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
