@@ -2148,9 +2148,6 @@ https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="General",SCVTV (Santa Clarita CA) (1080p)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 
-#EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/beVCugh.png" group-title="General",Sen TV (360p)
-http://69.64.57.208/sentv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SenalDigitalTV.do" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="General",Senal Digital TV [Not 24/7]
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
@@ -2376,9 +2373,6 @@ https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
 
 #EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="General",TEVEKA (1080p) [Not 24/7]
 https://www.teveka.net:8443/show/teveka/index.m3u8
-
-#EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/TQWBlXn.png" group-title="General",TFM (720p)
-http://69.64.57.208/tfm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WYPLTV18.us" tvg-logo="https://i.imgur.com/irwOxj4.png" group-title="General",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
