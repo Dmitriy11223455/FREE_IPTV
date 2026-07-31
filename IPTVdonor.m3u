@@ -747,7 +747,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=a7881683de97db6e463aac71055b8a34617b6052-ffb2409b6947381aabf2f5fd601bbbed-1785321430-1785310630&remote=172.184.172.213
+https://server.musical.uz/karusel_web/index.m3u8?token=6321fd1dade603067a471cb7fd2f6be5ead37cbb-b2abd9ff6c212ae73331563ac4424672-1785407170-1785396370&remote=135.232.200.21
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -960,16 +960,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=e2a7543da2ea883b89a4fd1dcf2effccdb9f5d2d-8925e05c7e7ebddc5dba8ffbf073ecdc-1785320979-1785310179&remote=172.184.172.213
+https://server1.musical.uz/rentv/index.m3u8?token=3ccc25ed892afad55007cb580cdba8780670ae0c-24f60aec514298e682022f5ffa142ffc-1785406721-1785395921&remote=135.232.200.21
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=e2a7543da2ea883b89a4fd1dcf2effccdb9f5d2d-8925e05c7e7ebddc5dba8ffbf073ecdc-1785320979-1785310179&remote=172.184.172.213
+https://server1.musical.uz/rentv/index.m3u8?token=3ccc25ed892afad55007cb580cdba8780670ae0c-24f60aec514298e682022f5ffa142ffc-1785406721-1785395921&remote=135.232.200.21
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://server.musical.uz/russia24/index.m3u8?token=db278899aef29c1959e8ff821dc1f4a6d1d784ff-d84cc17e2926738d883b41ab9638ac46-1785321007-1785310207&remote=172.184.172.213
+https://server.musical.uz/russia24/index.m3u8?token=d4c6d9565d9ff32188f5bdd9ad51392604a35ad4-51b72f449079328fd36878e776dc3dbf-1785406749-1785395949&remote=135.232.200.21
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1032,7 +1032,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=5ce5b8e69fececb09402864cd6f7cbae0f9e1bb6-a9a129419decf24c7e52c14fbde324b4-1785321308-1785310508&remote=172.184.172.213
+https://server.musical.uz/ctc_web/index.m3u8?token=9835ffba523f347be2fec455162177067230c793-19ab3d39ebd0b810b2c855874e2b0953-1785407049-1785396249&remote=135.232.200.21
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
