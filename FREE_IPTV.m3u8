@@ -39,7 +39,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 http://31.148.48.15/NTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
-https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.D-CWYhpFQDBtkUYA9QQPfVK3EOv4aZpu2bYJbXE9CDg.sfZwY1Tdf18udguu9ed5Dy5rwF1Ak7UswNH-Drj3WGc.1785482508.95e16d98f75fa8ae80b55d8c4f53b6be
+https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
 
 #EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Основные",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
@@ -69,7 +69,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Международные",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=9835ffba523f347be2fec455162177067230c793-19ab3d39ebd0b810b2c855874e2b0953-1785407049-1785396249&remote=135.232.200.21
+https://server.musical.uz/ctc_web/index.m3u8?token=efa14ed8a2cc524ac43f3743dcf24895d7df53dd-86a96a8bccd6716724577bc849e3e144-1785494405-1785483605&remote=135.237.130.176
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
@@ -136,9 +136,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-
-#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Основные",Новый Век HD (Тамбов)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8

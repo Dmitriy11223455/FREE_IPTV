@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1
-https://edge01r.mediavitrina.ru/hls-livef6/russia1/tracks-v4a1/mono.m3u8?token=v2.D-CWYhpFQDBtkUYA9QQPfVK3EOv4aZpu2bYJbXE9CDg.sfZwY1Tdf18udguu9ed5Dy5rwF1Ak7UswNH-Drj3WGc.1785482508.95e16d98f75fa8ae80b55d8c4f53b6be
+https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
 
 #EXTINF:-1 ,360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -368,9 +368,6 @@ http://213.91.179.28:8000/play/a0ct
 #EXTINF:-1 ,National Geographic Wild HD
 http://149.71.34.166:8002/play/a012/index.m3u8
 
-#EXTINF:-1 ,NBA TV Canada
-https://sra72yz.s.gy/NBA_TV_CANADA
-
 #EXTINF:-1 ,NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 
@@ -720,7 +717,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 https://server1.musical.uz/zvezda/index.m3u8?token=601c0c621797c37756cea93e500cbee4858dd5ae-46912629f2844366cc08a1ca4eba0286-1785234398-1785223598&remote=172.183.131.193
 
 #EXTINF:-1 ,Звезда
-https://edge01d.mediavitrina.ru/hls-livef8/zvezda0/tracks-v4a1/mono.m3u8?token=v2.oUCUqzwegoeucDgrrO8XxkDT135_QmKIS2wH08QhxhY.fmfNVifdcLu27a8ik0EwmtSTgAGTnPCWw7-wiZcs_M8.1785482761.851f8d2e6c51b619a82b190dab4bd096
+https://server.musical.uz/zvezda/index.m3u8?token=a0c6a149dab2bceb82a4f6dc062f9a4123b587db-e606b4b1fceeca83d154bba479069a10-1785494308-1785483508&remote=135.237.130.176
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -747,7 +744,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=6321fd1dade603067a471cb7fd2f6be5ead37cbb-b2abd9ff6c212ae73331563ac4424672-1785407170-1785396370&remote=135.232.200.21
+https://server1.musical.uz/karusel_web/index.m3u8?token=793990cd66fdb4e2ec3d87da048fd1ba73b994bb-a2eb8a243992405269c0af0825156a45-1785494526-1785483726&remote=135.237.130.176
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -960,16 +957,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=3ccc25ed892afad55007cb580cdba8780670ae0c-24f60aec514298e682022f5ffa142ffc-1785406721-1785395921&remote=135.232.200.21
+https://server1.musical.uz/rentv/index.m3u8?token=dc26e062ae91be84523f94e2f602984bd041ae84-7d338b9ac46b0e2befde5bdbcc5aff30-1785494079-1785483279&remote=135.237.130.176
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=3ccc25ed892afad55007cb580cdba8780670ae0c-24f60aec514298e682022f5ffa142ffc-1785406721-1785395921&remote=135.232.200.21
+https://server1.musical.uz/rentv/index.m3u8?token=dc26e062ae91be84523f94e2f602984bd041ae84-7d338b9ac46b0e2befde5bdbcc5aff30-1785494079-1785483279&remote=135.237.130.176
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://server.musical.uz/russia24/index.m3u8?token=d4c6d9565d9ff32188f5bdd9ad51392604a35ad4-51b72f449079328fd36878e776dc3dbf-1785406749-1785395949&remote=135.232.200.21
+https://server.musical.uz/russia24/index.m3u8?token=f2058ab7c4a90b42a6326151eec2a760a89e8692-4826e226a2d04a408e456324da36b1f7-1785494107-1785483307&remote=135.237.130.176
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1032,7 +1029,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=9835ffba523f347be2fec455162177067230c793-19ab3d39ebd0b810b2c855874e2b0953-1785407049-1785396249&remote=135.232.200.21
+https://server.musical.uz/ctc_web/index.m3u8?token=efa14ed8a2cc524ac43f3743dcf24895d7df53dd-86a96a8bccd6716724577bc849e3e144-1785494405-1785483605&remote=135.237.130.176
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
