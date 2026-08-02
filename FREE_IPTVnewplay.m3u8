@@ -6,19 +6,19 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
 
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
-https://server.musical.uz/russia24/index.m3u8?token=f2058ab7c4a90b42a6326151eec2a760a89e8692-4826e226a2d04a408e456324da36b1f7-1785494107-1785483307&remote=135.237.130.176
+https://server1.musical.uz/russia24/index.m3u8?token=88f47ff7ebc53f54321dd354aa0133fe49265058-06c154fbd71da3f33bb3b127f6e77dac-1785579227-1785568427&remote=172.214.155.113
 
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
 http://31.148.48.15/NTV/index.m3u8
 
 #EXTINF:-1 tvg-id="sts_intl" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts_intl_hd.png" group-title="Россия: Общие",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=efa14ed8a2cc524ac43f3743dcf24895d7df53dd-86a96a8bccd6716724577bc849e3e144-1785494405-1785483605&remote=135.237.130.176
+https://server1.musical.uz/ctc_web/index.m3u8?token=a38b033ac3253222f30001fd19344cb8dd7ce88a-190eb6e331c5fe0fed3facbc1777ad99-1785579525-1785568725&remote=172.214.155.113
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
 http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=dc26e062ae91be84523f94e2f602984bd041ae84-7d338b9ac46b0e2befde5bdbcc5aff30-1785494079-1785483279&remote=135.237.130.176
+https://server1.musical.uz/rentv/index.m3u8?token=27c511a30a22b75c0e2dc6532c1792bc3aa0935b-5b2b8bc0dbf91c7376df5700a2a97e33-1785579199-1785568399&remote=172.214.155.113
 
 #EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница! HD" tvg-logo="https://iptvx.one/picons/pyatnica_hd.png" group-title="Россия: Общие",Пятница!
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8

@@ -288,7 +288,7 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://s70378.cdn.ngenix.net/amc/2/index.m3u8
 
 #EXTINF:-1 ,Horror TV
-https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1780984377~exp%3D1781005977~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-HORROR-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_FR_172.215.209.240_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_FR_172.215.209.240_yuppfast_2_channel_77_-1~hmac%3Dfff4a94ad671caefa208d2208f3debb9239f630495d194361e8768ac57f2f26d
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 
 #EXTINF:-1 ,Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -744,7 +744,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=793990cd66fdb4e2ec3d87da048fd1ba73b994bb-a2eb8a243992405269c0af0825156a45-1785494526-1785483726&remote=135.237.130.176
+https://server1.musical.uz/karusel_web/index.m3u8?token=fad1eae0d530ac0d6b582844242822605970cc50-f94780bb7394abc6731c3a871cedf9c4-1785579645-1785568845&remote=172.214.155.113
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -957,16 +957,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=dc26e062ae91be84523f94e2f602984bd041ae84-7d338b9ac46b0e2befde5bdbcc5aff30-1785494079-1785483279&remote=135.237.130.176
+https://server1.musical.uz/rentv/index.m3u8?token=27c511a30a22b75c0e2dc6532c1792bc3aa0935b-5b2b8bc0dbf91c7376df5700a2a97e33-1785579199-1785568399&remote=172.214.155.113
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=dc26e062ae91be84523f94e2f602984bd041ae84-7d338b9ac46b0e2befde5bdbcc5aff30-1785494079-1785483279&remote=135.237.130.176
+https://server1.musical.uz/rentv/index.m3u8?token=27c511a30a22b75c0e2dc6532c1792bc3aa0935b-5b2b8bc0dbf91c7376df5700a2a97e33-1785579199-1785568399&remote=172.214.155.113
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://server.musical.uz/russia24/index.m3u8?token=f2058ab7c4a90b42a6326151eec2a760a89e8692-4826e226a2d04a408e456324da36b1f7-1785494107-1785483307&remote=135.237.130.176
+https://server1.musical.uz/russia24/index.m3u8?token=88f47ff7ebc53f54321dd354aa0133fe49265058-06c154fbd71da3f33bb3b127f6e77dac-1785579227-1785568427&remote=172.214.155.113
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1029,7 +1029,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=efa14ed8a2cc524ac43f3743dcf24895d7df53dd-86a96a8bccd6716724577bc849e3e144-1785494405-1785483605&remote=135.237.130.176
+https://server1.musical.uz/ctc_web/index.m3u8?token=a38b033ac3253222f30001fd19344cb8dd7ce88a-190eb6e331c5fe0fed3facbc1777ad99-1785579525-1785568725&remote=172.214.155.113
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
