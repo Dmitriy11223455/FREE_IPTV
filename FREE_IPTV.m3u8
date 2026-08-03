@@ -69,7 +69,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Международные",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=a38b033ac3253222f30001fd19344cb8dd7ce88a-190eb6e331c5fe0fed3facbc1777ad99-1785579525-1785568725&remote=172.214.155.113
+https://server1.musical.uz/ctc_web/index.m3u8?token=da9fbf46467a60ec9231decabd0be803dded68df-82af5cd4ded5ec001bfec5b4f86df6a8-1785666234-1785655434&remote=135.232.201.82
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8

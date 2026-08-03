@@ -1386,9 +1386,6 @@ http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.postimg.cc/fTLfX0rh/madaniyatvamarifat.png" group-title="General",Madaniyat va ma'rifat (576p)
 https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="General",Madu TV (576p)
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="General",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
