@@ -75,7 +75,7 @@ https://server1.musical.uz/ctc_web/index.m3u8?token=f3d650bfac1746d02b97488c8cd7
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
-https://streaming.skyconnecting.top/live/250-req_offset_28000000-req_window_0-3k_v5.m3u8
+http://158.101.222.193:88/georgia_play.php?id=1plus1international
 
 #EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
