@@ -695,9 +695,6 @@ http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://ott.watch/stream/6HAPZWKKG3/385.m3u8
 
-#EXTINF:-1 ,Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
-
 #EXTINF:-1 ,Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 
@@ -738,7 +735,7 @@ http://194.152.35.17/Karusel/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=2545f0c7102236e86674d6e09e9e88fb1de08f07-f166e394a8cab2cb645969a9e54ce2bd-1785755885-1785745085&remote=74.235.123.2
+https://server1.musical.uz/karusel_web/index.m3u8?token=46b3a713b9cd359decd196ed963832f70b9537c1-6bea184bf406067bd8e67369aaa5d0a8-1785925873-1785915073&remote=135.119.77.154
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -948,16 +945,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=793cff435a5877bf8baff12102bdf9b545b89779-bed7a2e3832e93a6f49df12be6e654ea-1785755438-1785744638&remote=74.235.123.2
+https://server.musical.uz/rentv/index.m3u8?token=27a11108cd6a1dfbfa2c2544fe01a394d668ba29-7b2bf582186ebe817af14197a816c5ea-1785925400-1785914600&remote=135.119.77.154
 
 #EXTINF:-1 ,Рен ТВ
-https://server1.musical.uz/rentv/index.m3u8?token=793cff435a5877bf8baff12102bdf9b545b89779-bed7a2e3832e93a6f49df12be6e654ea-1785755438-1785744638&remote=74.235.123.2
+https://server.musical.uz/rentv/index.m3u8?token=27a11108cd6a1dfbfa2c2544fe01a394d668ba29-7b2bf582186ebe817af14197a816c5ea-1785925400-1785914600&remote=135.119.77.154
 
 #EXTINF:-1 ,Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 ,Россия 24
-https://server.musical.uz/russia24/index.m3u8?token=aac9ae24b48be61c0b4ab031b50c9d43e4c67b19-b211b2388c9156065462b35d42fd91b7-1785755466-1785744666&remote=74.235.123.2
+https://server.musical.uz/russia24/index.m3u8?token=61f324b1a64bc2b5496a209717b2b300201aeab5-278920a71b27187aaa78307d841a71a0-1785925428-1785914628&remote=135.119.77.154
 
 #EXTINF:-1 ,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/63251
@@ -1020,7 +1017,7 @@ http://176.118.197.101/CTC/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=f3d650bfac1746d02b97488c8cd7108e12bad787-3fe1e2dbe0341b00c981b0f5d3588af4-1785755765-1785744965&remote=74.235.123.2
+https://server1.musical.uz/ctc_web/index.m3u8?token=ffb800debff009e12e758b7a5d230304fcd7aae3-89c2c6ad8e3432659abd35ca066f5837-1785925727-1785914927&remote=135.119.77.154
 
 #EXTINF:-1 ,СТС Kidsᴴᴰ
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
