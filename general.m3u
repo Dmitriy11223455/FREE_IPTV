@@ -1634,7 +1634,7 @@ https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="General",Noroeste TV (1080p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 
 #EXTINF:-1 tvg-id="Notele.be" tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="General",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
