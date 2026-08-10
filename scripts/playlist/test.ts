@@ -18,12 +18,12 @@ const REPLACEMENT_SOURCES = [
 // СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
-  'россия 1': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
-  'рен тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
-  'россия 24': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u', // <-- Кавычка добавлена
+  'россия 1': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'рен тв': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'россия 24': 'https://drm-play.com/iptv.php?tv=nodrm-1', // <-- Кавычка добавлена
   'спас': 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'звезда': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
-  'нтв hd': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
+  'звезда': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'нтв hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'стс': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'матч тв sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'матч тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
