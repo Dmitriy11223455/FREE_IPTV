@@ -53,9 +53,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Резерв",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Karusel_logo.svg" group-title="Международные",Карусель
-https://streaming.thestream.cyou/live/232.m3u8
-
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
@@ -67,9 +64,6 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Международные",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=3ac86a580981b9caf0d2e80d99021f26d65521a5-e8faef05819803caba94a8323b680d43-1786177931-1786167131&remote=52.155.60.180
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
@@ -143,9 +137,6 @@ https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Международные",РГВК Дагестан
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 
-#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Основные",РТВ HD (Раменск)
-https://e10-ll.facecast.net/rtv/0.m3u8
-
 #EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
 
@@ -154,9 +145,6 @@ https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde
 
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pkvc" tvg-name="Первый канал за рубежом" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Perviy_kanal_logo.svg" group-title="Основные",Первый канал за рубежом
-https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
@@ -472,9 +460,6 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 
 #EXTINF:-1 tvg-id="VosgesTV.fr@SD" group-title="Информационные и новости",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTVMir.ru@SD" group-title="Международные",НТВ Мир
-https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europe " group-title="Международные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
