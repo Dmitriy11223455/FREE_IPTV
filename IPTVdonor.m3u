@@ -525,7 +525,7 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 ,TV XXI
-http://starcius-cinema.com/10148/index.m3u8?token=010101010101
+http://31.148.48.15/TV_XXI/index.m3u8
 
 #EXTINF:-1 ,TV9 Gujarati
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
