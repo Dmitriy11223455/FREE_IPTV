@@ -39,7 +39,7 @@ const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'спас': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'звезда': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'нтв hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'стс': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
+  'стс': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'матч тв sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'матч тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'матч! арена': 'https://drm-play.com/iptv.php?tv=nodrm-1',
