@@ -3,10 +3,25 @@ import axios from 'axios';
 import path from 'path';
 
 const http = axios.create({
-  timeout: 8000,
-  headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
-  validateStatus: () => true 
+  timeout: 10000, // Увеличили таймаут для стабильности
+  headers: {
+    // 1. Имитируем реальный актуальный браузер Windows/Chrome
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    // 2. Обязательный заголовок, который проверяют IPTV-серверы (откуда пришел запрос)
+    'Referer': 'https://drm-play.com',
+    'Origin': 'https://drm-play.com',
+    
+    // 3. Заголовки типов данных, чтобы сервер думал, что мы медиа-плеер или браузер
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+    
+    // 4. Защита от кэширования, заставляет сервер отдавать свежие ссылки
+    'Cache-Control': 'no-cache',
+    'Pragma': 'no-cache'
+  },
+  validateStatus: () => true
 });
+
 
 // ВАШИ ССЫЛКИ ДЛЯ ПОИСКА (из первого сообщения)
 const REPLACEMENT_SOURCES = [
@@ -102,11 +117,21 @@ const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
 };
 
 // Функция поиска канала внутри конкретного плейлиста
+// Функция поиска канала внутри конкретного плейлиста
 async function searchInUrl(url: string, channelName: string) {
   try {
-    const response = await axios.get(url, { timeout: 10000 });
-    const lines = response.data.split('\n').map((l: string) => l.trim());
+    // ХАК: Используем настроенный http вместо чистого axios, чтобы пробить защиту сайта
+    const response = await http.get(url, { 
+      timeout: 10000 
+    });
     
+    // Если сайт вернул ошибку или пустой ответ
+    if (!response.data || typeof response.data !== 'string') {
+      return null;
+    }
+
+    const lines = response.data.split('\n').map((l: string) => l.trim());
+
     for (let i = 0; i < lines.length; i++) {
       if (lines[i].includes('#EXTINF') && lines[i].toLowerCase().includes(channelName.toLowerCase())) {
         let foundUrl = null;
@@ -114,21 +139,22 @@ async function searchInUrl(url: string, channelName: string) {
 
         for (let j = i + 1; j < i + 7; j++) {
           if (lines[j]?.startsWith('#EXTGRP:')) {
-            foundGroup = lines[j]; 
+            foundGroup = lines[j];
           }
           if (lines[j]?.startsWith('http')) {
             foundUrl = lines[j];
-            break; 
+            break;
           }
         }
         if (foundUrl) return { url: foundUrl, group: foundGroup };
       }
     }
-  } catch {
+  } catch (error) {
     return null;
   }
   return null;
 }
+
 
 async function findReplacement(channelName: string) {
   const normalizedName = channelName.toLowerCase().trim();
