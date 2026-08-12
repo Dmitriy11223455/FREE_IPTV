@@ -30,10 +30,10 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 http://31.148.48.15/A1/index.m3u8
 
 #EXTINF:-1 ,Amedia 1
-http://31148.rafail1982.uz/A1/index.m3u8
+http://31.148.48.15/A1/index.m3u8
 
 #EXTINF:-1 ,Amedia 2
-http://31148.rafail1982.uz/A2/index.m3u8
+http://31.148.48.15/A2/index.m3u8
 
 #EXTINF:-1 ,Amedia 2
 https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
@@ -71,9 +71,6 @@ http://stream.mcquack.net/28/index.m3u8
 #EXTINF:-1 ,B4U MOVIES
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 ,Baby Time
-http://89.218.32.179:18000/play/a028
-
 #EXTINF:-1 ,BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
@@ -105,7 +102,7 @@ https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Bollywood_HD/index.m3u8
 
 #EXTINF:-1 ,Bridge Deluxe
-http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
 
 #EXTINF:-1 ,Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
@@ -654,7 +651,7 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 #EXTINF:-1 ,Время
-http://31148.rafail1982.uz/Vremya/index.m3u8
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 
 #EXTINF:-1 ,Дикий
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
@@ -765,7 +762,7 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 ,Кухня
-http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
+http://31.148.48.15/Kuhnya_TV/index.m3u8
 
 #EXTINF:-1 ,Лавстори HD
 http://starcius-cinema.com/10114/index.m3u8?token=010101010101
@@ -775,9 +772,6 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 
 #EXTINF:-1 ,Мама
 http://s8.rafail1982.uz/1244/tracks-v1a1a1/mono.m3u8
-
-#EXTINF:-1 ,МАМА
-http://31.148.48.15/Mama/index.m3u8
 
 #EXTINF:-1 ,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -900,7 +894,7 @@ https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 
 #EXTINF:-1 ,Поехали!
-http://31148.rafail1982.uz/Poehali/index.m3u8
+http://31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 ,Приключения HD
 http://ott.watch/stream/6HAPZWKKG3/198.m3u8
@@ -954,9 +948,6 @@ http://ott.watch/stream/6HAPZWKKG3/204.m3u8
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 
 #EXTINF:-1 ,Рыжий
-http://31148.rafail1982.uz/Rizhiy/index.m3u8
-
-#EXTINF:-1 ,Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Санкт-Петербург
@@ -967,9 +958,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 
 #EXTINF:-1 ,Сарафан
 http://s8.rafail1982.uz/1249/tracks-v1a1a1/mono.m3u8
-
-#EXTINF:-1 ,Сарафан
-http://31.148.48.15/Sarafan/index.m3u8
 
 #EXTINF:-1 ,Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
@@ -1000,12 +988,6 @@ http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
-
-#EXTINF:-1 ,СТС Kidsᴴᴰ
-http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
-
-#EXTINF:-1 ,СТС Love
-http://31148.rafail1982.uz/STS_Love/index.m3u8
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
@@ -1038,7 +1020,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zh
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Уникум
-http://31148.rafail1982.uz/Detskiy/index.m3u8
+http://31.148.48.15/Detskiy/index.m3u8
 
 #EXTINF:-1 ,Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
@@ -1053,7 +1035,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 
 #EXTINF:-1 ,ЧЕ!
-http://31148.rafail1982.uz/Che/index.m3u8
+http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 ,Шансон ТВ
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
