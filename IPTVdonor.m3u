@@ -318,7 +318,7 @@ https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenatu
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 
 #EXTINF:-1 ,MBC DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 
 #EXTINF:-1 ,Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
@@ -825,7 +825,7 @@ https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 
 #EXTINF:-1 ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 
 #EXTINF:-1 ,НСТ
 http://176.118.197.101/HCT/index.m3u8
@@ -836,29 +836,14 @@ http://ott.watch/stream/6HAPZWKKG3/207.m3u8
 #EXTINF:-1 ,НТВ
 http://176.118.197.101/NTV/index.m3u8
 
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-
-#EXTINF:-1 ,НТВ HD
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-
 #EXTINF:-1 ,НТВ Сериал
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
-#EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-
-#EXTINF:-1 ,НТВ Стиль
-http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-http://cdn2.ntv.ru/th_hit/playlist.m3u8
-
-#EXTINF:-1 ,НТВ Хит
-http://cdn.ntv.ru/th_hit/mono.m3u8
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/

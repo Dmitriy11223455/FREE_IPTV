@@ -901,17 +901,5 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль
-https://cdn.ntv.ru/th_style/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
