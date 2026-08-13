@@ -303,7 +303,7 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/527px-ATV_Belgium_logo.svg.png" group-title="General",ATV (1080p)
-https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+http://stream.mcquack.net/36/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
