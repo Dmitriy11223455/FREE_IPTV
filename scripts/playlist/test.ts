@@ -38,7 +38,7 @@ const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'россия 24': 'https://drm-play.com/iptv.php?tv=nodrm-1', // <-- Кавычка добавлена
   'спас': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'звезда': 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'нтв hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'нтв hd': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_televizor24.m3u',
   'стс': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'матч тв sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'матч тв': 'https://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
