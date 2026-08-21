@@ -2694,9 +2694,6 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.postimg.cc/5y57gQw5/watantv.png" group-title="General",Watan TV (1080p)
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="General",Watan-e-Maa TV (720p)
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="General",Watar TV (720p) [Not 24/7]
 http://htvint.mada.ps:8889/orient/index.m3u8
 

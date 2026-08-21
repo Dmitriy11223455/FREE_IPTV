@@ -158,9 +158,6 @@ http://ott.watch/stream/D17LBTRCERA/354.m3u8
 #EXTINF:-1 ,CineMan Ужасы
 http://ott.watch/stream/D17LBTRCERA/474.m3u8
 
-#EXTINF:-1 ,CineMan Фитнес
-http://starcius-cinema.com/10322/index.m3u8?token=010101010101
-
 #EXTINF:-1 ,Da Vinci
 http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
@@ -456,7 +453,7 @@ https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 
 #EXTINF:-1 ,Star Family
-http://starcius-cinema.com/10191/index.m3u8?token=010101010101
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 
 #EXTINF:-1 ,Taraqqiyot TV
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
@@ -506,9 +503,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 ,Trace Urban HD
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 
-#EXTINF:-1 ,Trash HD
-http://starcius-cinema.com/10206/index.m3u8?token=010101010101
-
 #EXTINF:-1 ,Travel+Adventureᴴᴰ
 http://ott.watch/stream/6HAPZWKKG3/206.m3u8
 
@@ -538,21 +532,6 @@ https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qx
 
 #EXTINF:-1 ,Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-
-#EXTINF:-1 ,VeleS Premiere
-http://starcius-cinema.com/10325/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,VeleS Киноплёнка
-http://starcius-cinema.com/10323/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,VeleS Киносерия
-http://starcius-cinema.com/10324/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,VeleS СССР
-http://starcius-cinema.com/10327/index.m3u8?token=010101010101
-
-#EXTINF:-1 ,VeleS Страшное
-http://starcius-cinema.com/10326/index.m3u8?token=010101010101
 
 #EXTINF:-1 ,Viasat Serial HD
 http://ott.watch/stream/6HAPZWKKG3/263.m3u8
@@ -760,9 +739,6 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 ,Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
-
-#EXTINF:-1 ,Лавстори HD
-http://starcius-cinema.com/10114/index.m3u8?token=010101010101
 
 #EXTINF:-1 ,Любимое Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
