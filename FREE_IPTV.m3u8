@@ -66,7 +66,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=f054f70c5a12d2954deb1815024b1a00174b1d2f-efcfdf57427be28f94f1bcc1cbda21af-1787300383-1787289583&remote=132.196.30.212
+https://server.musical.uz/ctc_web/index.m3u8?token=802c091b257f252256eb1e3325dfcd2f43ac9f20-984c940ae21023185ddef4a61151d4c4-1787386421-1787375621&remote=48.214.53.186
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
