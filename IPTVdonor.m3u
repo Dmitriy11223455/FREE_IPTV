@@ -21,7 +21,7 @@ https://jmp2.uk/stvp-FR23000013B
 https://jmp2.uk/stvp-IT23000034W
 
 #EXTINF:-1 ,AL JAZEERA ENGLISH
-http://s8.rafail1982.uz/1447/tracks-v1a1/mono.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 ,Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -88,9 +88,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1 ,Black
 https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-
-#EXTINF:-1 ,Bloomberg HT
-http://s8.rafail1982.uz/1255/tracks-v1a1a1/mono.m3u8
 
 #EXTINF:-1 ,Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -196,9 +193,6 @@ https://s07.watcher.uz/166/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 
 #EXTINF:-1 ,English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,English Club TV HD
-http://s8.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -485,9 +479,6 @@ https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTINF:-1 ,TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Tiji TV
-http://s8.rafail1982.uz/1441/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 
@@ -743,9 +734,6 @@ http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 ,Любимое Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 
-#EXTINF:-1 ,Мама
-http://s8.rafail1982.uz/1244/tracks-v1a1a1/mono.m3u8
-
 #EXTINF:-1 ,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
@@ -910,9 +898,6 @@ https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde
 
 #EXTINF:-1 ,Сарафан
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-
-#EXTINF:-1 ,Сарафан
-http://s8.rafail1982.uz/1249/tracks-v1a1a1/mono.m3u8
 
 #EXTINF:-1 ,Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8

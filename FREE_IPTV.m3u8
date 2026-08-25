@@ -66,7 +66,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=afa99afd06d720db986e1d5a0ed33d3391dd2c85-cdca4c6b3b41bf385ca8930d0b018c50-1787473033-1787462233&remote=172.171.6.118
+https://server1.musical.uz/ctc_web/index.m3u8?token=4f081e6a997fdf4ea5925ed9d9f4d8bef8975bdf-a77d7e3c6c383b7b082b5742af03461a-1787560061-1787549261&remote=20.168.94.23
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -184,9 +184,6 @@ https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil
 
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="AllgauTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
