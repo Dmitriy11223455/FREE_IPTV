@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+1)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+1) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Региональные",Россия 1 (+2) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+3)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+3) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 (+4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Russia-1_logo.svg" group-title="Региональные",Россия 1 (+4) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+5)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+5) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+6)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+6) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+7)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+7) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+8)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+8) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1(+9)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Региональные",Россия 1(+9) HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 
@@ -41,14 +11,8 @@ https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
 
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Основные",Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Russia-K_logo.svg" group-title="Резерв",Россия К
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Резерв",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
@@ -99,7 +63,7 @@ https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Информационные и новости",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
