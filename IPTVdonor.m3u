@@ -318,7 +318,7 @@ https://s70378.cdn.ngenix.net/mezzo/2/index.m3u8
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-http://185.98.209.11:81/mezzo/index.m3u8?token=test
+http://158.101.222.193:88/georgia_play.php?id=mezzo
 
 #EXTINF:-1 ,Mezzo Live
 http://stream.mcquack.net/276/index.m3u8

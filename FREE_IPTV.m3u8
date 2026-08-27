@@ -263,9 +263,6 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Международные",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="Радио" ,RADIOKIDS.FM
-http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="Международные",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
