@@ -36,10 +36,10 @@ http://31.148.48.15/A1/index.m3u8
 http://31.148.48.15/A2/index.m3u8
 
 #EXTINF:-1 ,Amedia 2
-https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+http://31.148.48.15/A2/index.m3u8
 
 #EXTINF:-1 ,Amedia Hit
-https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+http://stream.mcquack.net/162/index.m3u8
 
 #EXTINF:-1 ,Amedia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
@@ -49,9 +49,6 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 
 #EXTINF:-1 ,Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-
-#EXTINF:-1 ,Amedia Premium HD
-https://s70378.cdn.ngenix.net/amedia_premium_hd/3/index.m3u8
 
 #EXTINF:-1 ,Ani
 http://ott.watch/stream/6HAPZWKKG3/306.m3u8
@@ -87,7 +84,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231&ads._fw_ifa_type=&ads._fw_did=52d98173-95f7-4fa4-937a-10d013dc4316&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCEarth&ads.csid=xumo_web_BBCEarth_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3921&ads.xumo_contentName=BBCEarth&ads.xumo_providerId=3921&ads.xumo_providerName=BBCEarth&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951231&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 ,Black
-https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 ,Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -264,13 +261,13 @@ http://ott.watch/stream/6HAPZWKKG3/428.m3u8
 https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Galaxy
-https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 
 #EXTINF:-1 ,HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Hollywood HD
-https://s70378.cdn.ngenix.net/amc/2/index.m3u8
+http://31.148.48.15/MGM_HD/index.m3u8
 
 #EXTINF:-1 ,Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
@@ -312,7 +309,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-https://s70378.cdn.ngenix.net/mezzo/2/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=mezzo
 
 #EXTINF:-1 ,Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
@@ -336,7 +333,7 @@ https://jmp2.uk/stvp-CHBD2600011YG
 https://jmp2.uk/stvp-DEBD26000034M
 
 #EXTINF:-1 ,Muzzone
-https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 
 #EXTINF:-1 ,MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
@@ -378,7 +375,7 @@ http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 http://213.91.179.28:8000/play/a056
 
 #EXTINF:-1 ,Nickelodeon
-https://s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
+http://213.91.179.28:8000/play/a056
 
 #EXTINF:-1 ,Nickelodeon
 https://xykt-fix.github.io/iptv/streams/SP57.m3u8
@@ -428,9 +425,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,RETRO MUSIC
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 ,RTG HD
-https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
-
 #EXTINF:-1 ,RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 
@@ -456,10 +450,10 @@ https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 
 #EXTINF:-1 ,Terra
-https://s70378.cdn.ngenix.net/terra/2/index.m3u8
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 
 #EXTINF:-1 ,The Explorers
-https://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 
 #EXTINF:-1 ,The Explorers
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
@@ -474,7 +468,7 @@ https://s07.watcher.uz/165/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Tiji
-https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
+http://stream.mcquack.net/111/index.m3u8
 
 #EXTINF:-1 ,TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
