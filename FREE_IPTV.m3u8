@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=a7f734b45bc7ee6da91c0acb987db13bd9358228-abe4c565acd552652a7fbb40275b771b-1787856975-1787846175&remote=4.246.63.103
+https://server.musical.uz/ctc_web/index.m3u8?token=cb081b909369e614af4d0ddf2ff4d29c201c915e-18edf065579e8bc7b7c18731a23800f2-1787947096-1787936296&remote=4.236.159.144
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -250,9 +250,6 @@ https://stream.rai.ua/rai/stream.m3u8
 
 #EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-id="ITV.ua" tvg-country="UA" group-title="Международные",ITV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NTK TV" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" tvg-id="NTKTV.ua" tvg-country="UA" group-title="Международные",NTK TV
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
 #EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-id="TVA.ua" tvg-country="UA" group-title="Международные",TVA
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
