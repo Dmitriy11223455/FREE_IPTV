@@ -690,7 +690,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
+https://server1.musical.uz/karusel_web/index.m3u8?token=655ddf7d7b255f8f64b832646a1b71b061cfc953-0fc65932c459b957ca7a2067c27356b3-1788013566-1788002766&remote=4.155.71.196
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -732,7 +732,7 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 ,МИР
-http://31.131.141.195:8000/play/a003/index.m3u8
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
 
 #EXTINF:-1 ,Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
@@ -816,7 +816,7 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Первый канал
-http://31.131.141.195:8000/play/1010/index.m3u8
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 ,Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
@@ -843,7 +843,7 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
 #EXTINF:-1 ,Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 ,Пятый канал Int.
 http://178.124.153.123:44400/5kanal
@@ -921,7 +921,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
+https://server1.musical.uz/ctc_web/index.m3u8?token=6e5df845580414a7ef542bce679d640dedf8da56-110c4f678e53cf58917010b141304b0e-1788013432-1788002632&remote=4.155.71.196
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
