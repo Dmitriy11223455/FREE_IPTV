@@ -114,7 +114,7 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 ,CGTN
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 ,CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -690,7 +690,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=655ddf7d7b255f8f64b832646a1b71b061cfc953-0fc65932c459b957ca7a2067c27356b3-1788013566-1788002766&remote=4.155.71.196
+https://server.musical.uz/karusel_web/index.m3u8?token=ae33cb3b66393a9590d3605fa8fc266a615d8718-bb62dcfa18564c45cf93c8d9f31013e6-1788095493-1788084693&remote=4.236.172.146
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -921,7 +921,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=6e5df845580414a7ef542bce679d640dedf8da56-110c4f678e53cf58917010b141304b0e-1788013432-1788002632&remote=4.155.71.196
+https://server1.musical.uz/ctc_web/index.m3u8?token=6f1b566333a5830250d3f394b2fb271c6177f194-83e24ebfdd173ffb654e5f2ba7e704a3-1788095360-1788084560&remote=4.236.172.146
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
