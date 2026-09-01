@@ -348,7 +348,7 @@ https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 http://213.91.179.28:8000/play/a0ct
 
 #EXTINF:-1 ,National Geographic Wild HD
-http://149.71.34.166:8002/play/a012/index.m3u8
+http://198.58.104.90:8989/natgeowild/index.m3u8
 
 #EXTINF:-1 ,NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
@@ -690,7 +690,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=ae33cb3b66393a9590d3605fa8fc266a615d8718-bb62dcfa18564c45cf93c8d9f31013e6-1788095493-1788084693&remote=4.236.172.146
+https://server1.musical.uz/karusel_web/index.m3u8?token=ca9f3d37290ec4ef723bd40f7da71b7a58522be8-01d823859b78f34bfdf1829045269492-1788185631-1788174831&remote=4.155.134.210
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -733,9 +733,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 ,МИР
 https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
-
-#EXTINF:-1 ,Мир Белогорья
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 ,Мир Сериала
 http://176.118.197.101/MirSeriala/index.m3u8
@@ -921,7 +918,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=6f1b566333a5830250d3f394b2fb271c6177f194-83e24ebfdd173ffb654e5f2ba7e704a3-1788095360-1788084560&remote=4.236.172.146
+https://server.musical.uz/ctc_web/index.m3u8?token=c0bd148ef157e485fa9bc6e470566681173b26ad-3c5df4fbdd4bc9b1022203a59f3786f3-1788185496-1788174696&remote=4.155.134.210
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
