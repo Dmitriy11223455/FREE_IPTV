@@ -18,7 +18,7 @@ https://cdn.ntv.ru/ntv1/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-http://31.148.48.15/TNT4/index.m3u8
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -36,7 +36,7 @@ https://server1.musical.uz/zvezda/index.m3u8?token=6542292d7f2ee2c82ee8812aded95
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Россия: Общие",ОТР
-http://31.148.48.15/OTR/index.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3" tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Россия: Общие",ТВ-3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -245,4 +245,4 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+https://server.musical.uz/ntvxit_web/index.m3u8?token=5381cea89372444ebc862b66c490096841bae5ca-fd35f877b491c6b73eaf0352abedb318-1788266212-1788255412&remote=20.168.118.82

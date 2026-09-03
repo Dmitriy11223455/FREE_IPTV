@@ -789,10 +789,10 @@ http://176.118.197.101/NTV/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+https://server.musical.uz/ntvxit_web/index.m3u8?token=5381cea89372444ebc862b66c490096841bae5ca-fd35f877b491c6b73eaf0352abedb318-1788266212-1788255412&remote=20.168.118.82
 
 #EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+https://server.musical.uz/ntvxit_web/index.m3u8?token=5381cea89372444ebc862b66c490096841bae5ca-fd35f877b491c6b73eaf0352abedb318-1788266212-1788255412&remote=20.168.118.82
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
@@ -939,7 +939,7 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://176.118.197.101/THT/index.m3u8
 
 #EXTINF:-1 ,ТНТ
-http://31.148.48.15/TNT4/index.m3u8
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 ,ТНТ4
 http://194.152.35.17/tnt4/index.m3u8
@@ -949,9 +949,6 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zh
 
 #EXTINF:-1 ,Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Уникум
-http://31.148.48.15/Detskiy/index.m3u8
 
 #EXTINF:-1 ,Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
@@ -964,9 +961,6 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #EXTINF:-1 ,Чаваш ЕН
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-
-#EXTINF:-1 ,ЧЕ!
-http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 ,Шансон ТВ
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
