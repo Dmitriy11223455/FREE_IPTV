@@ -46,14 +46,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия HD" tvg-logo="https://iptvx.one/picons/kinokomediya_hd.png" group-title="Россия: Кино",Кинокомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
 
-#EXTINF:-1 tvg-id="russkiy_illuzion" tvg-name="Русский Иллюзион HD" tvg-logo="https://iptvx.one/picons/russkiy_illuzion_hd.png" group-title="Россия: Кино",Русский Иллюзион
-http://31.148.48.15/Russkiy_illusion/index.m3u8
-
 #EXTINF:-1 tvg-id="illusion_plus" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvx.one/picons/illusion_plus_hd.png" group-title="Россия: Кино",Иллюзион+
 http://31.148.48.15/Illusion_plus/index.m3u8
-
-#EXTINF:-1 tvg-id="chudo_lyudo" tvg-name="Живая Планета HD" tvg-logo="https://iptvx.one/picons/chudo_lyudo_hd.png" group-title="Россия: Познавательные",Живая Планета
-http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель HD" tvg-logo="https://iptvx.one/picons/karusel_hd.png" group-title="Россия: Детские",Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
