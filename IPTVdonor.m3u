@@ -509,9 +509,6 @@ https://vg-tv9yupp.vgcdn.net/vglive-sk-351920/v1/019e018231cd15fc600b774ea53cd/0
 #EXTINF:-1 ,TV9 Gujarati
 https://jmp2.uk/stvp-INBD1300012GJ
 
-#EXTINF:-1 ,Tviksel Музыка Кино International
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
-
 #EXTINF:-1 ,UNIVER
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
 
@@ -568,9 +565,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b
 
 #EXTINF:-1 ,Zee Business
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1780984287~exp%3D1781005887~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee_business%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_FR_172.215.209.240_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_FR_172.215.209.240_yuppfast_2_channel_5_-1~hmac%3D10a5d62d9351ebf89b7c1627c29522c9cc3f77265093c935729a02d4b4812dc0
-
-#EXTINF:-1 ,Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
 
 #EXTINF:-1 ,АВТО 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
@@ -684,7 +678,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=6fd363e10393dd5b6bebd35a8cc200b44cdfa362-c69d62191ed43f0ab3e0f919ad134983-1788266420-1788255620&remote=20.168.118.82
+https://server1.musical.uz/karusel_web/index.m3u8?token=54c6146d4759e69ec1ebc22c1c42872d2242eae8-469c3987684eb778d0dd13b8f17b6185-1788523800-1788513000&remote=64.236.177.107
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -783,10 +777,10 @@ http://176.118.197.101/NTV/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-https://server.musical.uz/ntvxit_web/index.m3u8?token=5381cea89372444ebc862b66c490096841bae5ca-fd35f877b491c6b73eaf0352abedb318-1788266212-1788255412&remote=20.168.118.82
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=97721459f41b620633720c0cfc1b63c70f99f4ef-118e4e8890c8d8821d9502795d7e1d41-1788523598-1788512798&remote=64.236.177.107
 
 #EXTINF:-1 ,НТВ Хит
-https://server.musical.uz/ntvxit_web/index.m3u8?token=5381cea89372444ebc862b66c490096841bae5ca-fd35f877b491c6b73eaf0352abedb318-1788266212-1788255412&remote=20.168.118.82
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=97721459f41b620633720c0cfc1b63c70f99f4ef-118e4e8890c8d8821d9502795d7e1d41-1788523598-1788512798&remote=64.236.177.107
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
@@ -912,7 +906,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=77a009a9555b4b30afc83509641cc57b299347a4-ea296af404755a89cf9c633020a019b0-1788266283-1788255483&remote=20.168.118.82
+https://server.musical.uz/ctc_web/index.m3u8?token=ea8ea354db60e70a3b77b3c5ebeccb3fcef0c3e8-60a04e14a3cdbc7a7a928ce06cc6d026-1788523666-1788512866&remote=64.236.177.107
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8

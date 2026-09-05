@@ -110,9 +110,6 @@ https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 #EXTINF:-1 tvg-id="AccessSacramentoChannel17.us" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="General",Access Sacramento Channel 17
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 
-#EXTINF:-1 tvg-id="AccessSacramentoChannel18.us" tvg-logo="https://i.imgur.com/0pbtcvp.png" group-title="General",Access Sacramento Channel 18
-https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
-
 #EXTINF:-1 tvg-id="AccessTuolumne.us" tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="General",Access Tuolumne (Tuolumne County CA) (720p)
 https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 
@@ -560,7 +557,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://i.imgur.com/7xHSikv.png" group-title="General",Channel 7 (720p)
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
+https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="General",Channel 8 (1080p) [Not 24/7]
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
@@ -1518,9 +1515,6 @@ https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="General",Nexxo TV (720p) [Not 24/7]
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8

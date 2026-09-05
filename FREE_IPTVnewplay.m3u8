@@ -9,7 +9,7 @@ https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ed
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
-https://cdn.ntv.ru/ntv1/playlist.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
