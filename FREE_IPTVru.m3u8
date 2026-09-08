@@ -148,9 +148,6 @@ http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Международные",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
@@ -245,4 +242,4 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=26fd4afeac06e73b93561bad874507670839fa97-2ec8a41e09486cad60504c2323b24b24-1788695870-1788685070&remote=64.236.135.122
+https://server.musical.uz/ntvxit_web/index.m3u8?token=b715160b99f65b3273e1668980eca0d2c4ada89f-606e7707ad68da515168dc7022cfcaf6-1788785183-1788774383&remote=52.230.164.59
