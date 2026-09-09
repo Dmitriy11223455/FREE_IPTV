@@ -598,9 +598,6 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="ColomeTV.do" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="General",Colome TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="General",Columna TV (720p)
-http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
