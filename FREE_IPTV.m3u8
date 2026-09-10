@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=60c97bbd39c7ada107d3f4a5da6c966c3f6c42b6-d635c3f9864e1e940b24e118b62b77e1-1788785252-1788774452&remote=52.230.164.59
+https://server.musical.uz/ctc_web/index.m3u8?token=904ece578d959ee961be14c9a5b8599640187a77-ae574af40f2979566fe1f674edd59675-1788956134-1788945334&remote=57.154.4.126
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -351,7 +351,7 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="Международные",Nickelodeon
-http://213.91.179.28:8000/play/a056
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="Международные",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
