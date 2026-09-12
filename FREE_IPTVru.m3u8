@@ -2,8 +2,13 @@
 #EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 HD
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
+
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 SD
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
 
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
@@ -16,6 +21,9 @@ https://streaming.televizor-24-tochka.ru/live/7.m3u8
 
 #EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
+
+#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 org
+https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
