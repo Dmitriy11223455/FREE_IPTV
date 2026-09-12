@@ -33,9 +33,9 @@ const REPLACEMENT_SOURCES = [
 // СЛОВАРЬ ДЛЯ КОНКРЕТНЫХ КАНАЛОВ
 // Название канала пишите строго МАЛЕНЬКИМИ буквами
 const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
-  'россия 1': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'россия 1': 'hhttps://raw.githubusercontent.com/Dmitriy11223455/iptv-autoupdate/refs/heads/main/playlist.m3u',
   'рен тв': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_televizor24.m3u',
-  'россия 24': 'https://drm-play.com/iptv.php?tv=nodrm-1', // <-- Кавычка добавлена
+  'россия 24': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_televizor24.m3u', // <-- Кавычка добавлена
   'спас': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'звезда': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'нтв': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_televizor24.m3u',
@@ -72,7 +72,7 @@ const CHANNEL_SPECIFIC_SOURCES: Record<string, string> = {
   'первый канал hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'первый канал sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'россия 1 hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
-  'россия 1 sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
+  'россия 1 sd': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_televizor24.m3u',
   'нтв sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'стс hd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
   'стс sd': 'https://drm-play.com/iptv.php?tv=nodrm-1',
