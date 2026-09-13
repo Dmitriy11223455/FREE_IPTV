@@ -5,13 +5,8 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 HD
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 SD
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
-
 #EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
@@ -175,7 +170,7 @@ http://jazz.streamr.ru/jazz-64.mp3
 https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -190,7 +185,7 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Хабаровск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
@@ -241,4 +236,4 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://server.musical.uz/ntvxit_web/index.m3u8?token=8401987b834be2127e4e9fe5aeaeea62141ff544-4700f4a29bd077e3a201c75f7eef7b2c-1789042412-1789031612&remote=57.151.86.246
+https://server.musical.uz/ntvxit_web/index.m3u8?token=46f41bb93916cb4ca456e80527eee802ebd31ba0-a0b9e3cb3e68ba6e441b798579af7b75-1789213967-1789203167&remote=48.214.53.65
