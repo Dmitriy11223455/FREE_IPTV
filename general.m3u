@@ -2715,9 +2715,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="General",Yoshlar (1080p)
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",Zagros (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 
