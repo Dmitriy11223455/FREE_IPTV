@@ -1540,9 +1540,6 @@ https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NSTV.co" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",NSTV (720p)
-http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NTDTV.us@East" tvg-logo="https://i.postimg.cc/XYGstDdJ/ntdtv.png" group-title="General",NTD TV (1080p)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 
