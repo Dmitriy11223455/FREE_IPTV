@@ -32,12 +32,6 @@ http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 ,Amedia 2
-http://31.148.48.15/A2/index.m3u8
-
-#EXTINF:-1 ,Amedia 2
-http://31.148.48.15/A2/index.m3u8
-
 #EXTINF:-1 ,Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 
@@ -275,9 +269,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 ,Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 
-#EXTINF:-1 ,Horror TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1781343969~exp%3D1781365569~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_13.83.162.34_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_13.83.162.34_yuppfast_2_channel_77_-1~hmac%3Daf489a9098402073862c328157dda380ad3a129c209e6a5703599c35039941e4
-
 #EXTINF:-1 ,Investigation Discovery
 http://ott.watch/stream/6HAPZWKKG3/205.m3u8
 
@@ -309,13 +300,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
+http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
 
 #EXTINF:-1 ,Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 ,Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
+http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
 
 #EXTINF:-1 ,Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
@@ -345,7 +336,7 @@ https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 ,National Geographic
-http://213.91.179.28:8000/play/a0ct
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
 
 #EXTINF:-1 ,National Geographic Wild HD
 http://198.58.104.90:8989/natgeowild/index.m3u8
@@ -662,9 +653,6 @@ https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 ,Иллюзион+
-http://31.148.48.15/Illusion_plus/index.m3u8
-
 #EXTINF:-1 ,Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
@@ -675,7 +663,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server1.musical.uz/karusel_web/index.m3u8?token=47186dd65dd544b1776c34f04a6d8eee7166c8a5-db9272757548c9f77a5d737c501099d0-1789562185-1789551385&remote=20.163.32.232
+https://server.musical.uz/karusel_web/index.m3u8?token=5f436d36d422130788fdb089d8cff25f5e745dbc-053b85ec675d8d9246cffaa66f83a7f9-1789649036-1789638236&remote=64.236.200.231
 
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
@@ -768,10 +756,10 @@ http://176.118.197.101/NTV/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=a8a478ee8fe08fb823d74df4f37f5509b0b63d67-c153629ac58e357e12746faba9837fb4-1789561977-1789551177&remote=20.163.32.232
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=679ddafb5ea79bef2814450f95e46607b80f145c-553b28ccc6bf2de0d318a7b03731da63-1789648833-1789638033&remote=64.236.200.231
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=a8a478ee8fe08fb823d74df4f37f5509b0b63d67-c153629ac58e357e12746faba9837fb4-1789561977-1789551177&remote=20.163.32.232
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=679ddafb5ea79bef2814450f95e46607b80f145c-553b28ccc6bf2de0d318a7b03731da63-1789648833-1789638033&remote=64.236.200.231
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
@@ -897,7 +885,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=4f45b30ef4b5d9eec25579a6ffd5a4295211f3fa-d28ce1fea2bd2c3798f1b11f4624cdbc-1789562047-1789551247&remote=20.163.32.232
+https://server1.musical.uz/ctc_web/index.m3u8?token=e8b7ccca65f16287964dc0f09517b12b828a582b-e63a2977bbc100820bb7ff555fdc8a82-1789648902-1789638102&remote=64.236.200.231
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
