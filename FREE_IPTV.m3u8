@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=e8b7ccca65f16287964dc0f09517b12b828a582b-e63a2977bbc100820bb7ff555fdc8a82-1789648902-1789638102&remote=64.236.200.231
+https://server.musical.uz/ctc_web/index.m3u8?token=0b938d4771ae9c96b17007f1ceabd2f237f55bef-706c38cae6c78d8d8132030123d8ae35-1789733709-1789722909&remote=20.163.93.152
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -62,9 +62,6 @@ https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Информационные и новости",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
@@ -73,12 +70,6 @@ https://gtk.tv/hls/gtyar.m3u8
 
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Информационные и новости",Запад 24 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Информационные и новости",Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
@@ -351,7 +342,7 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="Международные",Nickelodeon
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="Международные",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
@@ -389,9 +380,6 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr@SD" group-title="Международные",ViàMatélé (1080p)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viaTelePaese.fr@SD" group-title="Международные",viàTéléPaese (720p)
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-
 #EXTINF:-1 tvg-id="VosgesTV.fr@SD" group-title="Информационные и новости",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 
@@ -400,9 +388,6 @@ https://streaming.thestream.cyou/live/210.m3u8
 
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Международные",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Региональные",Крым 24
-https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="Lugansk24.ua@SD" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8

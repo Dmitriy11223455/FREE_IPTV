@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
-http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+https://server.musical.uz/1tv/index.m3u8?token=74d9492b8362a572248265f1fc3ae011ce0dea77-d9ae768018cb335d059e5aed6efc9678-1789733410-1789722610&remote=20.163.93.152
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 HD
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
@@ -21,7 +21,7 @@ https://streaming.televizor-24-tochka.ru/live/14.m3u8
 https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+https://server1.musical.uz/tnt/index.m3u8?token=d1dd77a9567fcc73468ef986c6e632f27e42a68b-90a609171511a63f9e67e5bcd140b99d-1789733570-1789722770&remote=20.163.93.152
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -33,7 +33,7 @@ https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
-https://server1.musical.uz/zvezda/index.m3u8?token=6542292d7f2ee2c82ee8812aded95461c4054839-d609f3995124024d5e0e25b6fd5106e5-1785321210-1785310410&remote=172.184.172.213
+https://server.musical.uz/zvezda/index.m3u8?token=306b95858c630d2a36487e5d48127fd2e3867e67-83eae2345cb543323c9fab907f79ec0d-1789733625-1789722825&remote=20.163.93.152
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -76,9 +76,6 @@ https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Информационные и новости",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
@@ -90,12 +87,6 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Международные",Евразия Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-
-#EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Информационные и новости",Запад 24 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="kavkaz24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Информационные и новости",Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
@@ -123,9 +114,6 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 
 #EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
-
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Международные",Санкт-Петербург
-http://31.148.48.15/Sankt_Peterburg/index.m3u8
 
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -181,14 +169,8 @@ https://e4-online-video.rbc.ru/online2/rbctvhd_480p/index.m3u8?e=e4&t=2hMv0P
 #EXTINF:-1 tvg-id="tvrain.ru" tvg-logo="https://iptvx.one/logo/tvrain.png" group-title="Информационные и новости",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Адыгея)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
-
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Хабаровск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 International
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
@@ -220,20 +202,5 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD",TV BRICS Russian (1080p)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1
-https://cdn.ntv.ru/ntv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2
-https://cdn.ntv.ru/ntv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4
-https://cdn.ntv.ru/ntv4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7
-https://cdn.ntv.ru/ntv7/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=679ddafb5ea79bef2814450f95e46607b80f145c-553b28ccc6bf2de0d318a7b03731da63-1789648833-1789638033&remote=64.236.200.231
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=59a3b5ac6c797f70a018340cc1a556ae31f140b8-33ce4aa380ffecba22edc0b4eab83a1f-1789733639-1789722839&remote=20.163.93.152

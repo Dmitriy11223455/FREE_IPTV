@@ -26,12 +26,6 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 ,Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 ,Amedia 1
-http://31.148.48.15/A1/index.m3u8
-
-#EXTINF:-1 ,Amedia 1
-http://31.148.48.15/A1/index.m3u8
-
 #EXTINF:-1 ,Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 
@@ -260,9 +254,6 @@ https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 ,HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Hollywood HD
-http://31.148.48.15/MGM_HD/index.m3u8
-
 #EXTINF:-1 ,Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 
@@ -291,10 +282,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_c
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
 
 #EXTINF:-1 ,MBC Drama
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+http://mytv.dothome.co.kr/ch/catv/26.php
 
 #EXTINF:-1 ,MBC DRAMA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+http://mytv.dothome.co.kr/ch/catv/26.php
 
 #EXTINF:-1 ,Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
@@ -363,10 +354,10 @@ http://88.212.15.19/live/nick_junior_hun/index.m3u8
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
 #EXTINF:-1 ,Nickelodeon
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 #EXTINF:-1 ,Nickelodeon
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 #EXTINF:-1 ,Nickelodeon
 https://xykt-fix.github.io/iptv/streams/SP57.m3u8
@@ -572,9 +563,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
 #EXTINF:-1 ,БЕЛАРУСЬ 24ᴴᴰ
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1873224608_b5160000_sleng.m3u8
 
-#EXTINF:-1 ,Большая Азия
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-
 #EXTINF:-1 ,БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 
@@ -596,23 +584,20 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 
-#EXTINF:-1 ,Доктор
-http://31.148.48.15/Doktor/index.m3u8
-
 #EXTINF:-1 ,Доктор HD
 http://ott.watch/stream/6HAPZWKKG3/80.m3u8
 
 #EXTINF:-1 ,Дом Кино
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+https://server1.musical.uz/domkino_web/index.m3u8?token=f488878421cda329d9ec3860664101fb01dd2237-445aef4ee5d928f8c3915b76295518ef-1789733695-1789722895&remote=20.163.93.152
 
 #EXTINF:-1 ,Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Дом кино
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+https://server1.musical.uz/domkino_web/index.m3u8?token=f488878421cda329d9ec3860664101fb01dd2237-445aef4ee5d928f8c3915b76295518ef-1789733695-1789722895&remote=20.163.93.152
 
 #EXTINF:-1 ,Дом Кино
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+https://server1.musical.uz/domkino_web/index.m3u8?token=f488878421cda329d9ec3860664101fb01dd2237-445aef4ee5d928f8c3915b76295518ef-1789733695-1789722895&remote=20.163.93.152
 
 #EXTINF:-1 ,Домашние Животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
@@ -639,10 +624,10 @@ http://ott.watch/stream/6HAPZWKKG3/83.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-https://server1.musical.uz/zvezda/index.m3u8?token=601c0c621797c37756cea93e500cbee4858dd5ae-46912629f2844366cc08a1ca4eba0286-1785234398-1785223598&remote=172.183.131.193
+https://server.musical.uz/zvezda/index.m3u8?token=306b95858c630d2a36487e5d48127fd2e3867e67-83eae2345cb543323c9fab907f79ec0d-1789733625-1789722825&remote=20.163.93.152
 
 #EXTINF:-1 ,Звезда
-https://server.musical.uz/zvezda/index.m3u8?token=badbe5449aecf881fb49a981413ee7d1229c40f3-6e05db4623f055cdb5c2bc50861772e7-1788785169-1788774369&remote=52.230.164.59
+https://server.musical.uz/zvezda/index.m3u8?token=306b95858c630d2a36487e5d48127fd2e3867e67-83eae2345cb543323c9fab907f79ec0d-1789733625-1789722825&remote=20.163.93.152
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -663,13 +648,13 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=5f436d36d422130788fdb089d8cff25f5e745dbc-053b85ec675d8d9246cffaa66f83a7f9-1789649036-1789638236&remote=64.236.200.231
+https://server1.musical.uz/karusel_web/index.m3u8?token=089160bcdf757ec612190b99162708340f68488d-965d30ab76a246217026a3734f09ba7d-1789733843-1789723043&remote=20.163.93.152
 
 #EXTINF:-1 ,Кино ТВ
-http://31.148.48.15/Kino_TV_HD/index.m3u8
+https://server.musical.uz/kinotv_web/index.m3u8?token=3e5d98ee01649a3fd8d69cdbf9be2aa2dd82e0ee-bed21d80435646bde90a74752a285a79-1789733653-1789722853&remote=20.163.93.152
 
 #EXTINF:-1 ,КИНО ТВ
-http://31.148.48.15/Kino_TV_HD/index.m3u8
+https://server.musical.uz/kinotv_web/index.m3u8?token=3e5d98ee01649a3fd8d69cdbf9be2aa2dd82e0ee-bed21d80435646bde90a74752a285a79-1789733653-1789722853&remote=20.163.93.152
 
 #EXTINF:-1 ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
@@ -688,12 +673,6 @@ https://live-4.otcnet.ru/504/135/480p/index.m3u8
 
 #EXTINF:-1 ,Конгресс ТВ HD
 http://live-3.otcnet.ru/congresstv/index.m3u8
-
-#EXTINF:-1 ,Крым 24
-https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-
-#EXTINF:-1 ,Крым 24
-https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 ,Любимое Кино
 http://176.118.197.101/LubimoeKino/index.m3u8
@@ -728,20 +707,8 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Музыка Первого
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/81/hls/pl.m3u8
 
-#EXTINF:-1 ,Мульт
-http://31.148.48.15/Mult_HD/index.m3u8
-
-#EXTINF:-1 ,Наука
-http://31.148.48.15/Nauka_2.0/index.m3u8
-
 #EXTINF:-1 ,Наша Сибирь
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-
-#EXTINF:-1 ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 
 #EXTINF:-1 ,НСТ
 http://176.118.197.101/HCT/index.m3u8
@@ -756,10 +723,10 @@ http://176.118.197.101/NTV/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=679ddafb5ea79bef2814450f95e46607b80f145c-553b28ccc6bf2de0d318a7b03731da63-1789648833-1789638033&remote=64.236.200.231
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=59a3b5ac6c797f70a018340cc1a556ae31f140b8-33ce4aa380ffecba22edc0b4eab83a1f-1789733639-1789722839&remote=20.163.93.152
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=679ddafb5ea79bef2814450f95e46607b80f145c-553b28ccc6bf2de0d318a7b03731da63-1789648833-1789638033&remote=64.236.200.231
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=59a3b5ac6c797f70a018340cc1a556ae31f140b8-33ce4aa380ffecba22edc0b4eab83a1f-1789733639-1789722839&remote=20.163.93.152
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
@@ -780,7 +747,7 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Первый канал
-http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+https://server.musical.uz/1tv/index.m3u8?token=74d9492b8362a572248265f1fc3ae011ce0dea77-d9ae768018cb335d059e5aed6efc9678-1789733410-1789722610&remote=20.163.93.152
 
 #EXTINF:-1 ,Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
@@ -793,9 +760,6 @@ https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 
 #EXTINF:-1 ,Победа
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
-
-#EXTINF:-1 ,Поехали!
-http://31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 ,Приключения HD
 http://ott.watch/stream/6HAPZWKKG3/198.m3u8
@@ -845,9 +809,6 @@ http://ott.watch/stream/6HAPZWKKG3/208.m3u8
 #EXTINF:-1 ,Русский детектив
 http://ott.watch/stream/6HAPZWKKG3/204.m3u8
 
-#EXTINF:-1 ,Русский роман
-http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
-
 #EXTINF:-1 ,Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
@@ -856,9 +817,6 @@ https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde
 
 #EXTINF:-1 ,Сарафан
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-
-#EXTINF:-1 ,Симферополь 24
-https://simf.1tvcrimea.ru/simferopol24.m3u8
 
 #EXTINF:-1 ,Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
@@ -885,7 +843,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 ,СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=e8b7ccca65f16287964dc0f09517b12b828a582b-e63a2977bbc100820bb7ff555fdc8a82-1789648902-1789638102&remote=64.236.200.231
+https://server.musical.uz/ctc_web/index.m3u8?token=0b938d4771ae9c96b17007f1ceabd2f237f55bef-706c38cae6c78d8d8132030123d8ae35-1789733709-1789722909&remote=20.163.93.152
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
@@ -906,7 +864,7 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 http://176.118.197.101/THT/index.m3u8
 
 #EXTINF:-1 ,ТНТ
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+https://server1.musical.uz/tnt/index.m3u8?token=d1dd77a9567fcc73468ef986c6e632f27e42a68b-90a609171511a63f9e67e5bcd140b99d-1789733570-1789722770&remote=20.163.93.152
 
 #EXTINF:-1 ,ТНТ4
 http://194.152.35.17/tnt4/index.m3u8
