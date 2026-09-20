@@ -107,9 +107,6 @@ https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 #EXTINF:-1 tvg-id="AccessSacramentoChannel17.us" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="General",Access Sacramento Channel 17
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 
-#EXTINF:-1 tvg-id="AccessTuolumne.us" tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="General",Access Tuolumne (Tuolumne County CA) (720p)
-https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
-
 #EXTINF:-1 tvg-id="AccessVisionChannel16.us" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="General",AccessVision Channel 16
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
@@ -580,9 +577,6 @@ https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine (1080p) [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="General",Claro Televisión Dominicana (360p)
-https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-
 #EXTINF:-1 tvg-id="ColomeTV.do" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="General",Colome TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 
@@ -862,23 +856,14 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="General",F10 HD [Geo-blocked]
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-id="CityofFairfieldChannel26.us" tvg-logo="https://i.imgur.com/fiqaiUe.png" group-title="General",Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
-https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
-
 #EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="General",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FCPublicMedia.us" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="General",FC Public Media (Fort Collins CO) (1080p)
-https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="FehervarTV.hu" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="General",Fehérvár TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="General",Filstalwelle (1080p)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KFONTV.us" tvg-logo="https://i.imgur.com/MQHYm3V.png" group-title="General",Fontana Community Television (720p) [Geo-blocked]
-https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 
 #EXTINF:-1 tvg-id="FortunaTV.ve" tvg-logo="https://i.imgur.com/RPiTPnK.png" group-title="General",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -1297,9 +1282,6 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="General",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 
@@ -1663,9 +1645,6 @@ http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="General",Palmar TV [Not 24/7]
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
-#EXTINF:-1 tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="General",Pannon RTV (648p)
-https://stream.nmih.hu:4102/live.m3u8
-
 #EXTINF:-1 tvg-id="ParsTV.us" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="General",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
 
@@ -1698,9 +1677,6 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 
 #EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="General",PortuTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-
-#EXTINF:-1 tvg-id="PrimaTV.it" tvg-logo="https://i.imgur.com/HE9c8Sk.png" group-title="General",Prima TV Sicilia (720p)
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaFree.it" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" group-title="General",PrimaFree
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
@@ -1927,12 +1903,6 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
 
-#EXTINF:-1 tvg-id="HLDQDTV.kr" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="General",SBS JTV (406p) [Not 24/7]
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS KBC (1080p) [Not 24/7]
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="General",SBS UBC (540p) [Not 24/7]
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
@@ -1947,9 +1917,6 @@ https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
 #EXTINF:-1 tvg-id="SenewebTV.sn@SD" tvg-logo="https://i.imgur.com/i9P2qjs.png" group-title="General",Seneweb TV [Geo-blocked]
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="SGTN49.us" tvg-logo="https://i.imgur.com/4fbJRWW.png" group-title="General",Sent TV Global Network Atlanta (SGTN-49) (720p)
-https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
 
 #EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="General",Seven Channel (480p)
 https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
@@ -2038,9 +2005,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="TBCN.us" tvg-logo="https://i.imgur.com/nNxl3F4.png" group-title="General",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
-https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
-
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="General",Tanasuh TV (1080p)
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 
@@ -2120,9 +2084,6 @@ https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionMetropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General",Televisión Metrópolis 19.2 (1080p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="General",Television Olanchana
 https://viewhn.com/canal30/live/playlist.m3u8
 
@@ -2140,9 +2101,6 @@ http://stream.herissons.cloud/hls/tvluban.m3u8
 
 #EXTINF:-1 tvg-id="TenGerTV.mn" tvg-logo="https://i.imgur.com/MmPvkcO.png" group-title="General",TenGer TV (720p)
 https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
-
-#EXTINF:-1 tvg-id="WYPLTV18.us" tvg-logo="https://i.imgur.com/irwOxj4.png" group-title="General",The Library Channel TV18 (360p)
-https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="General",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -2495,9 +2453,6 @@ http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel Santa Cruz
-https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-
 #EXTINF:-1 tvg-id="UniTV.ve" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="General",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
@@ -2714,7 +2669,7 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал
-https://server.musical.uz/1tv/index.m3u8?token=74d9492b8362a572248265f1fc3ae011ce0dea77-d9ae768018cb335d059e5aed6efc9678-1789733410-1789722610&remote=20.163.93.152
+https://server1.musical.uz/1tv/index.m3u8?token=907ba60d3359c264238c99cf86547a57b29f1e31-f662295032da28c0d7fbb2a9e49b4dce-1789819012-1789808212&remote=172.214.44.210
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europe" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8

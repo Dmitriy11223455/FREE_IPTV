@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
-https://server.musical.uz/1tv/index.m3u8?token=74d9492b8362a572248265f1fc3ae011ce0dea77-d9ae768018cb335d059e5aed6efc9678-1789733410-1789722610&remote=20.163.93.152
+https://server1.musical.uz/1tv/index.m3u8?token=907ba60d3359c264238c99cf86547a57b29f1e31-f662295032da28c0d7fbb2a9e49b4dce-1789819012-1789808212&remote=172.214.44.210
 
 #EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1
 https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
@@ -12,7 +12,7 @@ https://streaming.televizor-24-tochka.ru/live/10.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=d1dd77a9567fcc73468ef986c6e632f27e42a68b-90a609171511a63f9e67e5bcd140b99d-1789733570-1789722770&remote=20.163.93.152
+https://server1.musical.uz/tnt/index.m3u8?token=2d9ecb8be9934d54e751ceeeb3ef2f8cc805cb82-7f6c6ef5da0bebea4c39f914bf2669be-1789819171-1789808371&remote=172.214.44.210
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
