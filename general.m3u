@@ -538,9 +538,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.postimg.cc/3w0XqCFX/chadatv.png" group-title="General",Chada TV (720p)
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="General",Channel 8 (1080p) [Not 24/7]
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
@@ -1686,9 +1683,6 @@ https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="General",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PromarTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",PromarTV (1080p) [Not 24/7]
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PromovideoTV.it" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="General",Promovideo TV (486p)
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
