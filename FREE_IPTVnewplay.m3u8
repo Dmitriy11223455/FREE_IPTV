@@ -12,7 +12,7 @@ https://streaming.televizor-24-tochka.ru/live/10.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=8cee7d1f6764b5800eb5637a43bef6c54c043807-9e040467e9259f358cf47de83ea86a39-1789907252-1789896452&remote=172.171.7.198
+https://server.musical.uz/tnt/index.m3u8?token=31868edd63b669749d7bdc50ef272f2da0f0c6c5-e59ce93b2d5868c22ef186822fbd90f5-1789996370-1789985570&remote=145.132.100.85
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
