@@ -455,9 +455,6 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 #EXTINF:-1 tvg-id="CanalDTV.do" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="General",Canal Málaga RTV (720p) [Not 24/7]
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="General",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
@@ -576,9 +573,6 @@ https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ConcordTV.us" tvg-logo="https://i.imgur.com/1vh2a3H.png" group-title="General",Concord TV (Concord CA) (720p)
-https://concordca.cablecast.tv/live/stream-2/live.m3u8
 
 #EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="General",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
@@ -729,9 +723,6 @@ https://diadoratv.stream/live/diadora/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es" tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="General",Diez TV Las Villas (1080p)
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
-
-#EXTINF:-1 tvg-id="DiezTVUbeda.es" tvg-logo="https://i.imgur.com/o2a7s4W.png" group-title="General",Diez TV Úbeda (1080p)
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
 #EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="General",Digital Vision 63 (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
@@ -1222,9 +1213,6 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="General",Louga TV (480p)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CityofLovelandTV.us" tvg-logo="https://i.imgur.com/K9eCdXD.png" group-title="General",Loveland TV (Loveland CO) (1080p)
-https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
-
 #EXTINF:-1 tvg-id="LunaTV.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" group-title="General",Luna TV
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
@@ -1416,9 +1404,6 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NCTV79.us" tvg-logo="https://i.imgur.com/64sZVF9.jpg" group-title="General",New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
-https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
@@ -2110,9 +2095,6 @@ https://us.streaminghd.cl/torococotelevision/video.m3u8
 
 #EXTINF:-1 tvg-id="Toshkent.uz" tvg-logo="https://i.postimg.cc/Vkf6D9Wv/toshkent.png" group-title="General",Toshkent (576p)
 https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CommunityTVChannel189.us" tvg-logo="https://i.imgur.com/jmkLR6L.png" group-title="General",Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) (1080p) [Geo-blocked]
-https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
 
 #EXTINF:-1 tvg-id="TRT.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="General",TRT (410p) [Not 24/7]
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
