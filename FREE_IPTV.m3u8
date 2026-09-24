@@ -30,13 +30,10 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=b5f684f2b2e9767ecf8188dbd1600fe628c6d67c-01a9356b0f8e50ef154bd408e38bd4a9-1789996506-1789985706&remote=145.132.100.85
+https://server1.musical.uz/ctc_web/index.m3u8?token=d948bc89c4f00fd2ca73a5f4382b5a4bdda91400-7c76af02855589cdcadd388839bda7f5-1790166961-1790156161&remote=20.171.23.117
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
-
-#EXTINF:-1 tvg-id="tro" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/tro.png" group-title="Международные",БелРос
-https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 #EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps

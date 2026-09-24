@@ -1186,9 +1186,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="General",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-id="LimonTV.cr" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="General",Limón TV (1080p) [Not 24/7]
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="General",Line TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 
@@ -1296,9 +1293,6 @@ https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General",Mexiquense TV (720p)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" tvg-logo="https://i.imgur.com/2zCOXmH.png" group-title="General",Mezőkövesdi Televízió (360p)
-https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="General",Microvision 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
@@ -1864,9 +1858,6 @@ https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS G1 (360p) [Not 24/7]
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
 
@@ -2259,7 +2250,7 @@ https://live.teleradiocom.tj/14/3m.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVWest.ug" tvg-logo="https://i.imgur.com/EiJzkIz.png" group-title="General",TV West (720p)
-https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+https://ntd02.akamaized.net/HD-LA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora (576p)
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
@@ -2541,9 +2532,6 @@ https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1 tvg-id="ZNSTV.bs@SD" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="General",ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",Zurquí TV (720p)
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-
 #EXTINF:-1 tvg-id="AISTTV.ru" tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="General",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
@@ -2552,9 +2540,6 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belgorod24.ru" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="General",Белгород 24 (1080p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-
-#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="General",БелРос (576p)
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurasia.ru" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="General",Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
@@ -2642,7 +2627,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
-https://server.musical.uz/tv/russia1/index.m3u8?token=3ae08efee76cdc456cc67dfe07f76e4da733ecd1-646db2a2fea975e1ccb838c1706d97a6-1789733368-1789722568&remote=20.163.93.152
+https://server.musical.uz/tv/russia1/index.m3u8?token=f436da1d4e3b028ea683b18922ead1d6139af7f2-c7dada4205943782c7f628af8f6fba3a-1790166619-1790155819&remote=20.171.23.117
 
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
@@ -2670,9 +2655,6 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 
 #EXTINF:-1 tvg-id="86.ru" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="General",Телеканал 86 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
-
-#EXTINF:-1 tvg-id="555.ru" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="General",Телерадиокомпания 555 (Алушта) (720p)
-http://trk555.tv:8888/live
 
 #EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General",白城新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
