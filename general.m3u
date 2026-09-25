@@ -2237,9 +2237,6 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVQuisqueya.us@SD" tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="General",TV QUISQUEYA (720p)
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 
-#EXTINF:-1 tvg-id="Rivne1.ua" tvg-logo="https://i.imgur.com/ytz7jYV.png" group-title="General",TV Rivne 1 (720p)
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="General",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 
@@ -2573,9 +2570,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="General",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="General",МТРК (576p) [Not 24/7]
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="General",НВК Саха (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
@@ -2627,7 +2621,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
-https://server.musical.uz/tv/russia1/index.m3u8?token=f436da1d4e3b028ea683b18922ead1d6139af7f2-c7dada4205943782c7f628af8f6fba3a-1790166619-1790155819&remote=20.171.23.117
+https://server.musical.uz/tv/russia1/index.m3u8?token=6abaa55166f6a6d24774a7d461861b9a84ba5ab0-9e3edbcb8b8cdae5f944963afabf05bf-1790253017-1790242217&remote=172.212.157.192
 
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
