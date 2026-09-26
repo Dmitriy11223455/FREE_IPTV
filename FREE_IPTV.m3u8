@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=24e6eda73258894039d9ce8841b7c5faebaf2c26-3f2101f51c18d86beab8455782f496c9-1790253357-1790242557&remote=172.212.157.192
+https://server.musical.uz/ctc_web/index.m3u8?token=dddab6a856f48500bad31461484caab600847113-6df5da955eaf2520dd971a0807b37dc7-1790340707-1790329907&remote=4.246.70.119
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -61,9 +61,6 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-
-#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Международные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8

@@ -21,7 +21,7 @@ https://streaming.televizor-24-tochka.ru/live/14.m3u8
 https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=faeb85ee7c8ddea641782bd6096a322163b8b0e4-da02c6f0c8a73e4a481c581ad77e841d-1790253219-1790242419&remote=172.212.157.192
+https://server.musical.uz/tnt/index.m3u8?token=73bd71587886ce05e34ddc69270a4ec4a2ba4d93-23bd659cd82381bb4f0ce1847bbff178-1790340568-1790329768&remote=4.246.70.119
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -33,7 +33,7 @@ https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
-https://server.musical.uz/zvezda/index.m3u8?token=f924e2e8a0c357fe89c8caff9e7236460333319c-e956f7db904b708d342e12553fe02d36-1790166878-1790156078&remote=20.171.23.117
+https://server1.musical.uz/zvezda/index.m3u8?token=de3d5273107d32866e350ed89738e2a6f300c867-c9e397ed45d748fde3a52c1d250de1f0-1790340624-1790329824&remote=4.246.70.119
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -78,9 +78,6 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-
-#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Международные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
@@ -203,4 +200,4 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://server.musical.uz/ntvxit_web/index.m3u8?token=2abbd84dcc697aaf611e9d744eb3e4b0b9e7fc96-0a8049dd57f0ed1a0a5afe4219966da6-1790253288-1790242488&remote=172.212.157.192
+https://server1.musical.uz/ntvxit_web/index.m3u8?token=650f467346b7ec6682355c92a6f342f746709298-25c150ad8afb1f0214ae42275b6fe1d4-1790340638-1790329838&remote=4.246.70.119

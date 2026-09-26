@@ -1687,9 +1687,6 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioBocairentTV.es" tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="General",Ràdio Bocairent TV (1080p) [Not 24/7]
 http://185.81.77.4/BocairentTV/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="General",Rádio Sines (720p) [Geo-blocked]
-https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="General",Radio Tele Planet Compas (720p) [Not 24/7]
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 
@@ -2621,7 +2618,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
-https://server.musical.uz/tv/russia1/index.m3u8?token=6abaa55166f6a6d24774a7d461861b9a84ba5ab0-9e3edbcb8b8cdae5f944963afabf05bf-1790253017-1790242217&remote=172.212.157.192
+https://server.musical.uz/tv/russia1/index.m3u8?token=95fc2242cb65b50e81405e3ab397c84ff2691232-820a53ed2988b7d6fdb7b964f07b3d29-1790340364-1790329564&remote=4.246.70.119
 
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
