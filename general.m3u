@@ -140,9 +140,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="https://i.postimg.cc/3w6VHNTp/aksutv.png" group-title="General",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="General",Al Ittihad (552p) [Not 24/7]
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
-
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="General",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
 
@@ -2559,9 +2556,6 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="General",НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="General",Орбіта ТВ (360p) [Not 24/7]
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
 
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="General",Осетия Ирыстон
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
