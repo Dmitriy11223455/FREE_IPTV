@@ -21,7 +21,7 @@ https://streaming.televizor-24-tochka.ru/live/14.m3u8
 https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=1b0cc5fb62f43c6662a3cfe0c22fcb6e17ea2d0b-1bb60d08d74cabb05b2e963a7d29d7c3-1790604895-1790594095&remote=20.228.220.120
+https://server.musical.uz/tnt/index.m3u8?token=0c36c686efea90fa5440f2c05a1fe0a116b3c8b0-b3b8255b75a7ffd1c0eb9d270c8f84ea-1790690063-1790679263&remote=128.24.167.64
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -200,4 +200,4 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=6a23bb5edbf28934d3196ea2c14cc97d8bc96d42-b90607b8f0d36cd66c4a1ac6cafa11bb-1790604964-1790594164&remote=20.228.220.120
+https://server.musical.uz/ntvxit_web/index.m3u8?token=48432a70fa3f3abe84f62bf08ff6e70eb6d9afac-4584365490396c11f6175dcb5f6b77c6-1790690132-1790679332&remote=128.24.167.64
