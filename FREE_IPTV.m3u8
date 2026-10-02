@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=4e3366cac139a16b88fd6f2f80029781e50cc673-9f63bac57cccb26a50ec2e52e52c9291-1790776046-1790765246&remote=20.3.221.188
+https://server1.musical.uz/ctc_web/index.m3u8?token=a9477436c6229bcc6d7254bdc340732d24b9dc6f-63cdec5d577180b0e070d8b4ba7285bb-1790864018-1790853218&remote=57.154.5.198
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -274,9 +274,6 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="Международные",Canal 32 (1080p)
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-
-#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" group-title="Международные",Cannes Lérins TV (1080p)
-https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr@SD" group-title="Информационные и новости",CNews (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
