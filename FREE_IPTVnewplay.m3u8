@@ -12,7 +12,7 @@ https://streaming.televizor-24-tochka.ru/live/10.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 
 #EXTINF:-1 tvg-id="tnt_intl" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt_intl_hd.png" group-title="Россия: Общие",ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=a8fc6a2383e2c5d6492b9353132f85bbf7a355a5-e5ede7ac5fff82a0b4ec7e3005631e1a-1790863879-1790853079&remote=57.154.5.198
+https://server1.musical.uz/tnt/index.m3u8?token=f42a69c5dab10e5f1037e6ffd0c89b3e5ee8ac62-018a1e802a72d43427f5ade75951175e-1790948637-1790937837&remote=172.190.102.100
 
 #EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -24,7 +24,7 @@ https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda_hd.png" group-title="Россия: Общие",Звезда
-https://server.musical.uz/zvezda/index.m3u8?token=d2e44a7235296885596e75d99fa329645ea80479-84805aa013026636008647eff033b6b2-1790775963-1790765163&remote=20.3.221.188
+https://server1.musical.uz/zvezda/index.m3u8?token=4d91fd2cb673b6f702e03b350be9d9cbbbd93b3e-fe00c12d8eb44d8a90f9c71a1593a63d-1790948691-1790937891&remote=172.190.102.100
 
 #EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
