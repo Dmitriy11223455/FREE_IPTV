@@ -381,7 +381,7 @@ http://ott.watch/stream/6HAPZWKKG3/196.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
 
 #EXTINF:-1 ,PRO TV Chisinau
-https://stream.protv.md/live/sursa-1/index.m3u8
+http://178.76.68.60:7441/15/mpegts
 
 #EXTINF:-1 ,PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
