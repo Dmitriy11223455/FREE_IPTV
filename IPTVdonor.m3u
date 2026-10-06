@@ -186,7 +186,7 @@ https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
 #EXTINF:-1 ,Euronews
-https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 
 #EXTINF:-1 ,Euronews Россия
 https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
@@ -202,9 +202,6 @@ http://ott.watch/stream/6HAPZWKKG3/420.m3u8
 
 #EXTINF:-1 ,FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
-
-#EXTINF:-1 ,Food Network
-https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 
 #EXTINF:-1 ,Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
@@ -582,16 +579,16 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/80.m3u8
 
 #EXTINF:-1 ,Дом Кино
-https://server1.musical.uz/domkino_web/index.m3u8?token=54351198bba822333d2b2e3415481bdfbfba7a98-c2b231f9cc7d7aa61e26206eee943b86-1791121638-1791110838&remote=135.232.201.41
+https://server.musical.uz/domkino_web/index.m3u8?token=e4dd7b469b339684b0a96641073db43ec2d3410c-8b1d0589dcb35651084e5166b7cd4e17-1791211978-1791201178&remote=132.196.54.228
 
 #EXTINF:-1 ,Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Дом кино
-https://server1.musical.uz/domkino_web/index.m3u8?token=54351198bba822333d2b2e3415481bdfbfba7a98-c2b231f9cc7d7aa61e26206eee943b86-1791121638-1791110838&remote=135.232.201.41
+https://server.musical.uz/domkino_web/index.m3u8?token=e4dd7b469b339684b0a96641073db43ec2d3410c-8b1d0589dcb35651084e5166b7cd4e17-1791211978-1791201178&remote=132.196.54.228
 
 #EXTINF:-1 ,Дом Кино
-https://server1.musical.uz/domkino_web/index.m3u8?token=54351198bba822333d2b2e3415481bdfbfba7a98-c2b231f9cc7d7aa61e26206eee943b86-1791121638-1791110838&remote=135.232.201.41
+https://server.musical.uz/domkino_web/index.m3u8?token=e4dd7b469b339684b0a96641073db43ec2d3410c-8b1d0589dcb35651084e5166b7cd4e17-1791211978-1791201178&remote=132.196.54.228
 
 #EXTINF:-1 ,Домашние Животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
@@ -615,10 +612,10 @@ http://ott.watch/stream/6HAPZWKKG3/83.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 ,Звезда
-https://server1.musical.uz/zvezda/index.m3u8?token=4d91fd2cb673b6f702e03b350be9d9cbbbd93b3e-fe00c12d8eb44d8a90f9c71a1593a63d-1790948691-1790937891&remote=172.190.102.100
+https://server1.musical.uz/zvezda/index.m3u8?token=757f8e8222e09c29a98ad83baa8a896b39ed5220-ebf92ea275ac3dabb8b29c75f3e89040-1791211910-1791201110&remote=132.196.54.228
 
 #EXTINF:-1 ,Звезда
-https://server1.musical.uz/zvezda/index.m3u8?token=4d91fd2cb673b6f702e03b350be9d9cbbbd93b3e-fe00c12d8eb44d8a90f9c71a1593a63d-1790948691-1790937891&remote=172.190.102.100
+https://server1.musical.uz/zvezda/index.m3u8?token=757f8e8222e09c29a98ad83baa8a896b39ed5220-ebf92ea275ac3dabb8b29c75f3e89040-1791211910-1791201110&remote=132.196.54.228
 
 #EXTINF:-1 ,Звезда
 http://194.152.35.17/zvezda/index.m3u8
@@ -639,13 +636,13 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 http://194.152.35.17/Karusel/index.m3u8
 
 #EXTINF:-1 ,Карусель
-https://server.musical.uz/karusel_web/index.m3u8?token=b7744a0c8c7b8996c7d51439fca78d2c9b830156-96ad8185968783eb0e1522cf12321361-1791121785-1791110985&remote=135.232.201.41
+https://server1.musical.uz/karusel_web/index.m3u8?token=d82977ca250417161aab8cab4bcb1a25dc22c24c-210b72f2d2e46040cbe5e84df3c286bf-1791212124-1791201324&remote=132.196.54.228
 
 #EXTINF:-1 ,Кино ТВ
-https://server.musical.uz/kinotv_web/index.m3u8?token=e90c3a102608d2c1ec35a94321ac17a4ba75036d-7ad04ad32e23ddd11270875cce78d388-1791121597-1791110797&remote=135.232.201.41
+https://server1.musical.uz/kinotv_web/index.m3u8?token=bdd6bed61582c4554df222e8cc0940173c4cfc65-c4dac93f66e25793e9b72c2f98f39b8e-1791211937-1791201137&remote=132.196.54.228
 
 #EXTINF:-1 ,КИНО ТВ
-https://server.musical.uz/kinotv_web/index.m3u8?token=e90c3a102608d2c1ec35a94321ac17a4ba75036d-7ad04ad32e23ddd11270875cce78d388-1791121597-1791110797&remote=135.232.201.41
+https://server1.musical.uz/kinotv_web/index.m3u8?token=bdd6bed61582c4554df222e8cc0940173c4cfc65-c4dac93f66e25793e9b72c2f98f39b8e-1791211937-1791201137&remote=132.196.54.228
 
 #EXTINF:-1 ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
@@ -693,10 +690,10 @@ https://streaming.televizor-24-tochka.ru/live/7.m3u8
 http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=7178b21b273b2084f7203fb28585a8986c25544f-41c9aeecdcbc26d0dfa702f758d5eee1-1791121583-1791110783&remote=135.232.201.41
+https://server.musical.uz/ntvxit_web/index.m3u8?token=bb72b5db9bddc9725762c4ed2f975064035fbdab-aacf8e6867e445af8d0e0a10044c207a-1791211923-1791201123&remote=132.196.54.228
 
 #EXTINF:-1 ,НТВ Хит
-https://server1.musical.uz/ntvxit_web/index.m3u8?token=7178b21b273b2084f7203fb28585a8986c25544f-41c9aeecdcbc26d0dfa702f758d5eee1-1791121583-1791110783&remote=135.232.201.41
+https://server.musical.uz/ntvxit_web/index.m3u8?token=bb72b5db9bddc9725762c4ed2f975064035fbdab-aacf8e6867e445af8d0e0a10044c207a-1791211923-1791201123&remote=132.196.54.228
 
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093/
@@ -807,10 +804,10 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=d00cfb98928fc86fdf0d99f5a922a0c5dcda7773-13884ef9d4dfe6ac70fa568383d03471-1791121651-1791110851&remote=135.232.201.41
+https://server1.musical.uz/ctc_web/index.m3u8?token=908c9b495b44dc5c274269254fdf1be6aae4f78d-0e3666262000c02cfc43a66674615134-1791211991-1791201191&remote=132.196.54.228
 
 #EXTINF:-1 ,СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=d00cfb98928fc86fdf0d99f5a922a0c5dcda7773-13884ef9d4dfe6ac70fa568383d03471-1791121651-1791110851&remote=135.232.201.41
+https://server1.musical.uz/ctc_web/index.m3u8?token=908c9b495b44dc5c274269254fdf1be6aae4f78d-0e3666262000c02cfc43a66674615134-1791211991-1791201191&remote=132.196.54.228
 
 #EXTINF:-1 ,ТВ Центр
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
@@ -828,10 +825,10 @@ http://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=7babb1a5c797811972778a4250be731f3d0c9a5c-c32877ae56b333abe164ac596b95ed99-1791121515-1791110715&remote=135.232.201.41
+https://server.musical.uz/tnt/index.m3u8?token=3125026f93d8802e9c61b4f4f9993ebac9fd4f77-50f4a7454e088469e8c71746c8f2052f-1791211855-1791201055&remote=132.196.54.228
 
 #EXTINF:-1 ,ТНТ
-https://server1.musical.uz/tnt/index.m3u8?token=7babb1a5c797811972778a4250be731f3d0c9a5c-c32877ae56b333abe164ac596b95ed99-1791121515-1791110715&remote=135.232.201.41
+https://server.musical.uz/tnt/index.m3u8?token=3125026f93d8802e9c61b4f4f9993ebac9fd4f77-50f4a7454e088469e8c71746c8f2052f-1791211855-1791201055&remote=132.196.54.228
 
 #EXTINF:-1 ,ТНТ4
 http://194.152.35.17/tnt4/index.m3u8
