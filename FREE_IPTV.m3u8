@@ -30,7 +30,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server1.musical.uz/ctc_web/index.m3u8?token=908c9b495b44dc5c274269254fdf1be6aae4f78d-0e3666262000c02cfc43a66674615134-1791211991-1791201191&remote=132.196.54.228
+https://server.musical.uz/ctc_web/index.m3u8?token=1ab4d886deec1000f92c0b89639c54546de2dea0-bb1ccdc57893dca6921ea79f146cd775-1791383040-1791372240&remote=20.169.71.34
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
@@ -108,7 +108,7 @@ https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
-https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
