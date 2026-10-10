@@ -279,7 +279,7 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 http://stream.mcquack.net/36/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+https://tv.alterna.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
@@ -2174,9 +2174,6 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="General",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="General",TVitapé (720p)
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.postimg.cc/8PvGMZJM/tvk.png" group-title="General",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
@@ -2507,7 +2504,7 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал
-https://server1.musical.uz/1tv/index.m3u8?token=907ba60d3359c264238c99cf86547a57b29f1e31-f662295032da28c0d7fbb2a9e49b4dce-1789819012-1789808212&remote=172.214.44.210
+https://server1.musical.uz/1tv/index.m3u8?token=4b9a5fb11bd5293e2144e0354423aa1ab1355c28-1d66e3799ea19cbac21c2379bcf158ac-1791556076-1791545276&remote=134.33.99.132
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europe" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
@@ -2519,7 +2516,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
-https://server.musical.uz/tv/russia1/index.m3u8?token=e880a652b4f375e55129c67e3d27a6c1662c7077-306b14a724d39c18b9fd8e63164d6874-1791470023-1791459223&remote=20.83.38.49
+https://server.musical.uz/tv/russia1/index.m3u8?token=f2e14bbde9f95a4636043e9ff4f32d3699ebbbf3-a3a23bcd2588cd8398d916388cf856b4-1791556033-1791545233&remote=134.33.99.132
 
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363

@@ -9,7 +9,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
-https://server1.musical.uz/russia1/index.m3u8?token=6f5e23f56ab6248a153647fe16ede6dc9e9db54a-53b49605ca7571a80182a2b82232de21-1785494050-1785483250&remote=135.237.130.176
+https://server.musical.uz/tv/russia1/index.m3u8?token=f2e14bbde9f95a4636043e9ff4f32d3699ebbbf3-a3a23bcd2588cd8398d916388cf856b4-1791556033-1791545233&remote=134.33.99.132
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
@@ -28,9 +28,6 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Резерв",СТС
-https://server.musical.uz/ctc_web/index.m3u8?token=17147cc328b6a36b0f01c39eeef2982e81a7ace8-ad6414e1c98c6a6460a2cda0c8d18f7b-1791470364-1791459564&remote=20.83.38.49
 
 #EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
