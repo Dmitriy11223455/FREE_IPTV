@@ -1,15 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа
+#EXTM3U
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
+
+:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия HD
+:-1 tvg-id="russia1hd" tvg-name="Россия HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основные",Россия HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe",Planeta-RTR(Европа)
+:-1 tvg-id="RTRPlaneta.ru@Europe",Planeta-RTR(Европа)
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@USA",Planeta-RTR(США)
+:-1 tvg-id="RTRPlaneta.ru@USA",Planeta-RTR(США)
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+:-1 tvg-id="Russia24.ru@SD",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8

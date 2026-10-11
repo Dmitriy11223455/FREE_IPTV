@@ -1,378 +1,381 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
+#EXTM3U
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
+
+:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 
-#EXTINF:-1 tvg-id="rtr-planeta-sng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета СНГ
+:-1 tvg-id="rtr-planeta-sng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Резерв",НТВ
+:-1 tvg-id="ntv" tvg-name="НТВ" group-title="Резерв",НТВ
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
-https://server.musical.uz/tv/russia1/index.m3u8?token=f2e14bbde9f95a4636043e9ff4f32d3699ebbbf3-a3a23bcd2588cd8398d916388cf856b4-1791556033-1791545233&remote=134.33.99.132
+:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Резерв",Россия 1
+https://server.musical.uz/tv/russia1/index.m3u8?token=1902b85cf0c9590b468ac6979dedff0ac0bd8e2c-bcaf7586fa37a40d1b0930155d31c630-1791639931-1791629131&remote=172.215.218.18|Referer=https://player.mediavitrina.ruMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
+:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Резерв",Россия 24
+:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Резерв",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
+:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Резерв",ТВ Центр
+:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Резерв",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Международные",Звезда
+:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Международные",Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
+:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
+:-1 tvg-id="rt" tvg-name="RT" tvg-logo="https://iptvx.one/picons/rt.png" group-title="Международные",RT
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
 
-#EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
+:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://iptvx.one/picons/gbnews.png" group-title="Информационные и новости",GB News
+:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://iptvx.one/picons/gbnews.png" group-title="Информационные и новости",GB News
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-logo="https://iptvx.one/picons/wdr.png" group-title="Международные",WDR Fernsehen
+:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-logo="https://iptvx.one/picons/wdr.png" group-title="Международные",WDR Fernsehen
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные и новости",France 24
+:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные и новости",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://iptvx.one/picons/trt1.png" group-title="Международные",TRT 1
+:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://iptvx.one/picons/trt1.png" group-title="Международные",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Информационные и новости",Белгород 24
+:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Информационные и новости",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
-#EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Основные",Брянская губерния HD
+:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Основные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 
-#EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
+:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
+:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
-#EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
+:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
+:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные и новости",Москва 24
+:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные и новости",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
+:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
+:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
 
-#EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Международные",РГВК Дагестан
+:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Международные",РГВК Дагестан
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 
-#EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
+:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
 
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Международные",Санкт-Петербург
+:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Международные",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 
-#EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
+:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
-#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
+:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
+:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
+:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
+:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Основные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-#EXTINF:-1 tvg-name="h-eins.tv" tvg-id="h-eins.tv" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/h1tv.png",h1
+:-1 tvg-name="h-eins.tv" tvg-id="h-eins.tv" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/h1tv.png",h1
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
+:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
+:-1 tvg-name="Baden TV" tvg-id="" group-title="Международные" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Международные",ROCK-FM
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Международные",ROCK-FM
 http://nashe1.hostingradio.ru/rock-64.mp3
 
-#EXTINF:-1 tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/990b009f-8418-4e8c-8ed7-b441eb45a95d.jpg" group-title="Международные",Maximum
+:-1 tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/990b009f-8418-4e8c-8ed7-b441eb45a95d.jpg" group-title="Международные",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Международные",Ultra
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Международные",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
+:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
+:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 
-#EXTINF:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
+:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
 http://icecast-newradio.cdnvideo.ru/newradio3
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
 
-#EXTINF:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Международные",Хит FM
+:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Международные",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
 
-#EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
+:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Международные",Ретро FM
+:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5b7b77d9383829e8e6a7e6ef9f85778f_l-4593053-images-thumbs&n=13" group-title="Международные",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
+:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://топрадио.рф/files/seo_image/24/03/17/65f6ea8c8cc20/vesti-fm_65f6e9787e945.jpg" group-title="Международные",Вести FM
+:-1  tvg-logo="https://топрадио.рф/files/seo_image/24/03/17/65f6ea8c8cc20/vesti-fm_65f6e9787e945.jpg" group-title="Международные",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/1200px-Radio_Mayak_logo.svg.png" group-title="Радио",Радио Маяк
+:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/1200px-Radio_Mayak_logo.svg.png" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
+:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Международные",Jazz
+:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Международные",Jazz
 http://jazz.streamr.ru/jazz-64.mp3
 
-#EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
+:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
 https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
 
-#EXTINF:-1 tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-id="SuspilneSport.ua" tvg-country="UA" group-title="Международные",Suspilne Sport
+:-1 tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-id="SuspilneSport.ua" tvg-country="UA" group-title="Международные",Suspilne Sport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 
-#EXTINF:-1 tvg-name="ICTV2" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-id="ICTV2.ua" tvg-country="UA" group-title="Основные",ICTV2
+:-1 tvg-name="ICTV2" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-id="ICTV2.ua" tvg-country="UA" group-title="Основные",ICTV2
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 
-#EXTINF:-1 tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" tvg-id="ICTVSerialy.ua" tvg-country="UA" group-title="Основные",ICTV Serialy
+:-1 tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" tvg-id="ICTVSerialy.ua" tvg-country="UA" group-title="Основные",ICTV Serialy
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 
-#EXTINF:-1 tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" tvg-country="UA" group-title="Международные",XSport Ⓢ
+:-1 tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" tvg-country="UA" group-title="Международные",XSport Ⓢ
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Дніпро" tvg-logo="https://i.imgur.com/nMHd9FK.png" tvg-id="SuspilneDnipro.ua" tvg-country="UA" group-title="Международные",Суспільне Дніпро
+:-1 tvg-name="Суспільне Дніпро" tvg-logo="https://i.imgur.com/nMHd9FK.png" tvg-id="SuspilneDnipro.ua" tvg-country="UA" group-title="Международные",Суспільне Дніпро
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Житомир Ⓢ" tvg-logo="https://i.imgur.com/lCv1Xaq.png" tvg-id="SuspilneZhytomyr.ua" tvg-country="UA" group-title="Международные",Суспільне Житомир Ⓢ
+:-1 tvg-name="Суспільне Житомир Ⓢ" tvg-logo="https://i.imgur.com/lCv1Xaq.png" tvg-id="SuspilneZhytomyr.ua" tvg-country="UA" group-title="Международные",Суспільне Житомир Ⓢ
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Одеса Ⓢ" tvg-logo="https://i.imgur.com/giTdUK9.png" tvg-id="SuspilneOdesa.ua" tvg-country="UA" group-title="Международные",Суспільне Одеса Ⓢ
+:-1 tvg-name="Суспільне Одеса Ⓢ" tvg-logo="https://i.imgur.com/giTdUK9.png" tvg-id="SuspilneOdesa.ua" tvg-country="UA" group-title="Международные",Суспільне Одеса Ⓢ
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Суми Ⓢ" tvg-logo="https://i.imgur.com/U5GQiUz.png" tvg-id="SuspilneSumy.ua" tvg-country="UA" group-title="Международные",Суспільне Суми Ⓢ
+:-1 tvg-name="Суспільне Суми Ⓢ" tvg-logo="https://i.imgur.com/U5GQiUz.png" tvg-id="SuspilneSumy.ua" tvg-country="UA" group-title="Международные",Суспільне Суми Ⓢ
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Хмельницький Ⓢ" tvg-logo="https://i.imgur.com/uoTcTbU.png" tvg-id="SuspilneKhmelnytskyi.ua" tvg-country="UA" group-title="Международные",Суспільне Хмельницький Ⓢ
+:-1 tvg-name="Суспільне Хмельницький Ⓢ" tvg-logo="https://i.imgur.com/uoTcTbU.png" tvg-id="SuspilneKhmelnytskyi.ua" tvg-country="UA" group-title="Международные",Суспільне Хмельницький Ⓢ
 http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Чернівці Ⓢ" tvg-logo="https://i.imgur.com/mzYRGp2.png" tvg-id="SuspilneChernivtsi.ua" tvg-country="UA" group-title="Международные",Суспільне Чернівці Ⓢ
+:-1 tvg-name="Суспільне Чернівці Ⓢ" tvg-logo="https://i.imgur.com/mzYRGp2.png" tvg-id="SuspilneChernivtsi.ua" tvg-country="UA" group-title="Международные",Суспільне Чернівці Ⓢ
 http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" tvg-id="SuspilneKropyvnytskyi.ua" tvg-country="UA" group-title="Международные",Суспільне Kropyvnytskyi
+:-1 tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" tvg-id="SuspilneKropyvnytskyi.ua" tvg-country="UA" group-title="Международные",Суспільне Kropyvnytskyi
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Тернопіль" tvg-logo="https://i.imgur.com/rxXyCY7.png" tvg-id="SuspilneTernopil.ua" tvg-country="UA" group-title="Международные",Суспільне Тернопіль
+:-1 tvg-name="Суспільне Тернопіль" tvg-logo="https://i.imgur.com/rxXyCY7.png" tvg-id="SuspilneTernopil.ua" tvg-country="UA" group-title="Международные",Суспільне Тернопіль
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-id="SuspilneChernihiv.ua" tvg-country="UA" group-title="Международные",Суспільне Чернігів
+:-1 tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-id="SuspilneChernihiv.ua" tvg-country="UA" group-title="Международные",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
-#EXTINF:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" tvg-country="UA" group-title="Информационные и новости",24 Kanal
+:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" tvg-country="UA" group-title="Информационные и новости",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" tvg-id="TelekanalRAI.ua" tvg-country="UA" group-title="Международные",Telekanal RAI
+:-1 tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" tvg-id="TelekanalRAI.ua" tvg-country="UA" group-title="Международные",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 
-#EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-id="ITV.ua" tvg-country="UA" group-title="Международные",ITV
+:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-id="ITV.ua" tvg-country="UA" group-title="Международные",ITV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-id="TVA.ua" tvg-country="UA" group-title="Международные",TVA
+:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-id="TVA.ua" tvg-country="UA" group-title="Международные",TVA
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolovievLive" tvg-name="Соловёв LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Международные", Соловьёв LIVE
+:-1 tvg-id="SolovievLive" tvg-name="Соловёв LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Международные", Соловьёв LIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/index.m3u8
 
-#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Международные",Duck TV
+:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Международные",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="Международные",20 Minutes TV (1080p)
+:-1 tvg-id="20MinutesTV.fr@SD" group-title="Международные",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
-#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="Информационные и новости",Africa 24 (1080p)
+:-1 tvg-id="Africa24.fr@SD" group-title="Информационные и новости",Africa 24 (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Africa24English.fr@SD" group-title="Информационные и новости",Africa 24 English (1080p)
+:-1 tvg-id="Africa24English.fr@SD" group-title="Информационные и новости",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="Информационные и новости",Africa 24 Sport (1080p)
+:-1 tvg-id="Africa24Sport.fr@SD" group-title="Информационные и новости",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" group-title="Информационные и новости",Africanews French
+:-1 tvg-id="AfricanewsFrench.fr@SD" group-title="Информационные и новости",Africanews French
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" group-title="Информационные и новости",Alpe d’Huez TV (720p) [Not 24/7]
+:-1 tvg-id="AlpedHuezTV.fr@SD" group-title="Информационные и новости",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" group-title="Международные",BFM Business (576p)
+:-1 tvg-id="BFMBusiness.fr@SD" group-title="Международные",BFM Business (576p)
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="BFMLyon.fr@SD" group-title="Международные",BFM Lyon (576p)
+:-1 tvg-id="BFMLyon.fr@SD" group-title="Международные",BFM Lyon (576p)
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="Международные",BFM TV (576p)
+:-1 tvg-id="BFMTV.fr@SD" group-title="Международные",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="BrionnaisTV.fr@SD" group-title="Международные",Brionnais TV (720p)
+:-1 tvg-id="BrionnaisTV.fr@SD" group-title="Международные",Brionnais TV (720p)
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="Международные",Canal 32 (1080p)
+:-1 tvg-id="Canal32.fr@SD" group-title="Международные",Canal 32 (1080p)
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr@SD" group-title="Информационные и новости",CNews (1080p) [Geo-blocked]
+:-1 tvg-id="CNews.fr@SD" group-title="Информационные и новости",CNews (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 
-#EXTINF:-1 tvg-id="DBMTV.fr@SD" group-title="Международные",DBM TV (1080p)
+:-1 tvg-id="DBMTV.fr@SD" group-title="Международные",DBM TV (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="Международные",Disney Jr.
+:-1 tvg-id="DisneyJr.fr@SD" group-title="Международные",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Equidia.fr@SD" group-title="Международные",Equidia (1080p)
+:-1 tvg-id="Equidia.fr@SD" group-title="Международные",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Международные",Equidia Racing Mag (1080p)
+:-1 tvg-id="" group-title="Международные",Equidia Racing Mag (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="Международные",FashionTV Paris L'Original (1080p)
+:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="Международные",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="Международные",FashionTV Secrets (1080p)
+:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="Международные",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 
-#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="Информационные и новости",France 24 Arabic (1080p)
+:-1 tvg-id="France24.fr@Arabic" group-title="Информационные и новости",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@English" group-title="Информационные и новости",France 24 English (1080p)
+:-1 tvg-id="France24.fr@English" group-title="Информационные и новости",France 24 English (1080p)
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="Информационные и новости",France 24 Español (1080p)
+:-1 tvg-id="France24.fr@Spanish" group-title="Информационные и новости",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@French" group-title="Информационные и новости",France 24 French (1080p)
+:-1 tvg-id="France24.fr@French" group-title="Информационные и новости",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="Francophonie24.fr@SD" group-title="Информационные и новости",Francophonie24 (1080p)
+:-1 tvg-id="Francophonie24.fr@SD" group-title="Информационные и новости",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GenerationsTV.fr@SD" group-title="Международные",Generations TV (576p)
+:-1 tvg-id="GenerationsTV.fr@SD" group-title="Международные",Generations TV (576p)
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Gong.fr@SD" group-title="Международные",Gong (1080p)
+:-1 tvg-id="Gong.fr@SD" group-title="Международные",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD" group-title="Международные",HANDICAP TV France
+:-1 tvg-id="HANDICAPTV.fr@SD" group-title="Международные",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="LittoralFMTV.fr@SD" group-title="Международные",Littoral FM (720p)
+:-1 tvg-id="LittoralFMTV.fr@SD" group-title="Международные",Littoral FM (720p)
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MDL.fr@SD" group-title="Международные",MDL (720p)
+:-1 tvg-id="MDL.fr@SD" group-title="Международные",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" group-title="Международные",Monte Carlo Digital Television (1080p)
+:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" group-title="Международные",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
-#EXTINF:-1 tvg-id="MyZenTV.fr@SD" group-title="Международные",MyZen TV (1080p)
+:-1 tvg-id="MyZenTV.fr@SD" group-title="Международные",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="Международные",Nickelodeon
+:-1 tvg-id="Nickelodeon.fr@SD" group-title="Международные",Nickelodeon
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="Международные",Nickelodeon Junior
+:-1 tvg-id="NickelodeonJunior.fr@SD" group-title="Международные",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
-#EXTINF:-1 tvg-id="P2MTV.fr@SD" group-title="Международные",P2M TV (720p)
+:-1 tvg-id="P2MTV.fr@SD" group-title="Международные",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" group-title="Международные",Puissance TV
+:-1 tvg-id="PuissanceTV.fr@SD" group-title="Международные",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" group-title="Международные",Sony One Blacklist (1080p)
+:-1 tvg-id="SonyOneBlacklist.fr@HD" group-title="Международные",Sony One Blacklist (1080p)
 https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" group-title="Международные",Sony One Favoris (1080p)
+:-1 tvg-id="SonyOneFavoris.fr@HD" group-title="Международные",Sony One Favoris (1080p)
 https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" group-title="Международные",Sony One Hits Action (1080p)
+:-1 tvg-id="SonyOneHitsAction.fr@HD" group-title="Международные",Sony One Hits Action (1080p)
 https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" group-title="Международные",Sony One Hits Comedie (1080p)
+:-1 tvg-id="SonyOneHitsComedie.fr@HD" group-title="Международные",Sony One Hits Comedie (1080p)
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="T18.fr@HD" group-title="Международные",T18 (1080p)
+:-1 tvg-id="T18.fr@HD" group-title="Международные",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="TV3V.fr@SD" group-title="Международные",TV3V (720p)
+:-1 tvg-id="TV3V.fr@SD" group-title="Международные",TV3V (720p)
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="Международные",TV5Monde Style (1080p) [Geo-blocked]
+:-1 tvg-id="TV5MondeStyle.fr@SD" group-title="Международные",TV5Monde Style (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
-#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="Международные",TV7 Colmar (576p)
+:-1 tvg-id="TV7Colmar.fr@SD" group-title="Международные",TV7 Colmar (576p)
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VosgesTV.fr@SD" group-title="Информационные и новости",Vosges Télévision (576p) [Not 24/7]
+:-1 tvg-id="VosgesTV.fr@SD" group-title="Информационные и новости",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@Europe " group-title="Международные",Первый канал Европа
+:-1 tvg-id="ChannelOne.ru@Europe " group-title="Международные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 
-#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Международные",Первый Республиканский
+:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Международные",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
-#EXTINF:-1 tvg-id="Lugansk24.ua@SD" group-title="Региональные",Луганск 24
+:-1 tvg-id="Lugansk24.ua@SD" group-title="Региональные",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8

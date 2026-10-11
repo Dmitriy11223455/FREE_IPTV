@@ -1,191 +1,188 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
-https://server1.musical.uz/1tv/index.m3u8?token=4b9a5fb11bd5293e2144e0354423aa1ab1355c28-1d66e3799ea19cbac21c2379bcf158ac-1791556076-1791545276&remote=134.33.99.132
+#EXTM3U
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 
-#EXTINF:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
+:-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
+https://server1.musical.uz/1tv/index.m3u8?token=e14db74744d979ccf3b7f59bca7750e5425a6cdf-fea5ea300defc27f54167ea80f029226-1791639975-1791629175&remote=172.215.218.18|Referer=https://player.mediavitrina.ruMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+:-1 tvg-id="russia24" tvg-name="Россия 24 HD" tvg-logo="https://iptvx.one/picons/russia24_hd.png" group-title="Россия: Общие",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
+:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
+:-1 tvg-id="NTV.ru@HD" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/NTV.ru@HD_hd.png" group-title="Россия: Общие",НТВ
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
 
-#EXTINF:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
+:-1 tvg-id="ren_intl" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/ren_intl_hd.png" group-title="Россия: Общие",РЕН ТВ
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
-#EXTINF:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 org
+:-1 tvg-id="russia1hd" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/russia1hd_hd.png" group-title="Россия: Общие",Россия 1 org
 https://live.smotrim.ru/vgtrk/0/russia1-hd/2081200_576p.m3u8
 
-#EXTINF:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
+:-1 tvg-id="domashniy_intl" tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy_intl_hd.png" group-title="Россия: Общие",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
-#EXTINF:-1 tvg-id="tvc" tvg-name="ТВ Центр HD" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Россия: Общие",ТВ Центр
+:-1 tvg-id="tvc" tvg-name="ТВ Центр HD" tvg-logo="https://iptvx.one/picons/tvc_hd.png" group-title="Россия: Общие",ТВ Центр
 https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 
-#EXTINF:-1 tvg-id="5channel" tvg-name="Пятый канал HD" tvg-logo="https://iptvx.one/picons/5channel_hd.png" group-title="Россия: Общие",Пятый канал
+:-1 tvg-id="5channel" tvg-name="Пятый канал HD" tvg-logo="https://iptvx.one/picons/5channel_hd.png" group-title="Россия: Общие",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
+:-1 tvg-id="spas" tvg-name="Спас HD" tvg-logo="https://iptvx.one/picons/spas_hd.png" group-title="Россия: Общие",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr_hd.png" group-title="Россия: Общие",ОТР
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv3" tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Россия: Общие",ТВ-3
+:-1 tvg-id="tv3" tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3_hd.png" group-title="Россия: Общие",ТВ-3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Россия: Общие",Мир
+:-1 tvg-id="mir" tvg-name="Мир HD" tvg-logo="https://iptvx.one/picons/mir_hd.png" group-title="Россия: Общие",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
+:-1 tvg-id="rtr-planeta-euro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Европа
 #EXTVLCOPT:http-referrer=https://smotrim.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b
 
-#EXTINF:-1 tvg-id="rtr-planeta-asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Азиа
+:-1 tvg-id="rtr-planeta-asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTR_Planeta.svg" group-title="Международные",РТР Планета Азиа
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Международные",Звезда
+:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Международные",Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
+:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Международные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1.png" group-title="Основные",Беларусь 1 HD
+:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1.png" group-title="Основные",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
+:-1 tvg-id="radio-russia" tvg-logo="https://iptvx.one/picons/radiorussii.png" group-title="Радио",Радио России
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 
-#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Информационные и новости",Белгород 24
+:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Информационные и новости",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
-#EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Основные",Брянская губерния HD
+:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Основные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 
-#EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
+:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Информационные и новости",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
+:-1 tvg-id="vostok-24" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="Информационные и новости",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
-#EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
+:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Международные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Международные",Евразия Орск
+:-1 tvg-id="evrasia" tvg-logo="https://iptvx.one/picons/evrasia.png" group-title="Международные",Евразия Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
-#EXTINF:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
+:-1 tvg-id="kamcha-1" tvg-logo="https://iptvx.one/picons/kamcha-1.png" group-title="Основные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 
-#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Информационные и новости",Кубань 24 (Краснодар)
+:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="Информационные и новости",Кубань 24 (Краснодар)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:-1 tvg-id="Lugansk24" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Информационные и новости",Луганск 24
+:-1 tvg-id="Lugansk24" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Информационные и новости",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные и новости",Москва 24
+:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные и новости",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
+:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Основные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
+:-1 tvg-id="otv-eburg" tvg-logo="https://iptvx.one/picons/otv-eburg.png" group-title="Международные",ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
 
-#EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Международные",РГВК Дагестан
+:-1 tvg-id="rgvk-dagestan" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" group-title="Международные",РГВК Дагестан
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 
-#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Основные",РТВ HD (Раменск)
+:-1 tvg-id="ramenskoe-tv" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Основные",РТВ HD (Раменск)
 https://e10-ll.facecast.net/rtv/0.m3u8
 
-#EXTINF:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
+:-1 tvg-id="s1-surgut" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="Международные",С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
 
-#EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
+:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Информационные и новости",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
+:-1 tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
+:-1 tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 
-#EXTINF:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
+:-1 tvg-logo="https://papik.pro/uploads/posts/2021-11/1636211742_65-papik-pro-p-logotipi-radiostantsii-foto-68.png" group-title="Радио",Новое Радио
 http://icecast-newradio.cdnvideo.ru/newradio3
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
+:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
 
-#EXTINF:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Международные",Хит FM
+:-1 tvg-logo="https://rmg.ru/uploads/2a/f2/225b8111a3efc570844d9f2f5c07.png" group-title="Международные",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
 
-#EXTINF:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
+:-1  tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
+:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://топрадио.рф/files/seo_image/24/03/17/65f6ea8c8cc20/vesti-fm_65f6e9787e945.jpg" group-title="Международные",Вести FM
+:-1  tvg-logo="https://топрадио.рф/files/seo_image/24/03/17/65f6ea8c8cc20/vesti-fm_65f6e9787e945.jpg" group-title="Международные",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/1200px-Radio_Mayak_logo.svg.png" group-title="Радио",Радио Маяк
+:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/1200px-Radio_Mayak_logo.svg.png" group-title="Радио",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
+:-1 tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Международные",Jazz
+:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png" group-title="Международные",Jazz
 http://jazz.streamr.ru/jazz-64.mp3
 
-#EXTINF:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
+:-1 tvg-logo="https://avatars.yandex.net/get-music-content/4404215/e0c9ebbd.a.10142222-2/m1000x1000" group-title="Радио",Классное радио РДШ
 https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
 
-#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
+:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Russia-24_logo.svg" group-title="Информационные и новости",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
+:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Международные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one" group-title="Информационные и новости", РБК
+:-1 tvg-id="rbk" tvg-logo="https://iptvx.one" group-title="Информационные и новости", РБК
 https://e4-online-video.rbc.ru/online2/rbctvhd_480p/index.m3u8?e=e4&t=2hMv0P
 
-#EXTINF:-1 tvg-id="tvrain.ru" tvg-logo="https://iptvx.one/logo/tvrain.png" group-title="Информационные и новости",Дождь
+:-1 tvg-id="tvrain.ru" tvg-logo="https://iptvx.one/logo/tvrain.png" group-title="Информационные и новости",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+:-1 tvg-id="Russia24.ru@SD",Россия 24
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 International
+:-1 tvg-id="Russia24.ru@SD",Россия 24 International
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 
-#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD",Смотрим 100% Детское
+:-1 tvg-id="Smotrim100Detskoe.ru@SD",Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 
-#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD",Смотрим 100% Классика
+:-1 tvg-id="Smotrim100Klassika.ru@SD",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
-#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD",Смотрим 100% Любовь
+:-1 tvg-id="Smotrim100Lyubov.ru@SD",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 
-#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD",Смотрим 100% Мужское
+:-1 tvg-id="Smotrim100Muzhskoe.ru@SD",Смотрим 100% Мужское
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 
-#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD",Смотрим 100% Праздник
+:-1 tvg-id="Smotrim100Prazdnik.ru@SD",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 
-#EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD",Смотрим 100% Факты
+:-1 tvg-id="Smotrim100Fakty.ru@SD",Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
-#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк
+:-1 tvg-id="Tolk.ru@HD",Толк
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD",TV BRICS Russian (1080p)
+:-1 tvg-id="TVBRICSRussian.ru@SD",TV BRICS Russian (1080p)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
