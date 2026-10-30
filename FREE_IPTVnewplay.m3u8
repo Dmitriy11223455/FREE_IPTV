@@ -17,6 +17,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip,https://iptvx.one/epg/epg.xml.gz"
 :-1 tvg-id="1channel_intl" tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/1channel_intl_hd.png" group-title="Россия: Общие",Первый канал
 https://server1.musical.uz/1tv/index.m3u8?token=e14db74744d979ccf3b7f59bca7750e5425a6cdf-fea5ea300defc27f54167ea80f029226-1791639975-1791629175&remote=172.215.218.18|Referer=https://player.mediavitrina.ruMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
